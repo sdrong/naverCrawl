@@ -25,7 +25,7 @@ keys = Keys()
 target_url = 'https://brand.naver.com/mayflower/products/4414087271'
 next_list_count = 1  #다음버튼 즉 1~10에서 11~20으로 가게
 sleepDelay = 1
-df = pd.DataFrame(columns=['summary','grade', 'review'])# 요약, 평점 , 상품리뷰
+df = pd.DataFrame(columns=['num','summary','grade', 'review'])# 요약, 평점 , 상품리뷰
 df_idx = 0
 
 #대충 웹드라이브 크롬이랑 맞춰서 설치 ㅇㅇ
@@ -46,13 +46,20 @@ while next_list_count > 0:
     for page in range(2, 7):
         try: 
             browser.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({str(page)}').click() #리뷰페이지변환
-           
             sleep(sleepDelay)
+            now_page_html = browser.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div').get_attribute('innerHTML')
+            soup = BeautifulSoup(now_page_html, 'html.parser')
+            target_elements = soup.find_all('a', {'aria-current': 'true', 'role': 'menuitem'})
+            base_num = 0
+            for elem in target_elements:
+                base_num = (((int)(elem.text))-1)*20
+            df_idx = 0
             for review_number in range(1,20+1):
                 #리뷰데이터 추출
                 review_table = browser.find_elements(By.CSS_SELECTOR, f'#REVIEW > div > div._2LvIMaBiIO > div._2g7PKvqCKe > ul > li:nth-child({str(review_number)}')
+                print(base_num+df_idx)
                 for review in review_table:
-                    df.loc[df_idx] = [review.find_element(By.CSS_SELECTOR, 'div._2FXNMst_ak').text,review.find_element(By.CSS_SELECTOR, 'div._2V6vMO_iLm > em').text, review.find_element(By.CSS_SELECTOR, f'div._3z6gI4oI6l').text]
+                    df.loc[base_num+df_idx] = [base_num+df_idx, review.find_element(By.CSS_SELECTOR, 'div._2FXNMst_ak').text,review.find_element(By.CSS_SELECTOR, 'div._2V6vMO_iLm > em').text, review.find_element(By.CSS_SELECTOR, f'div._3z6gI4oI6l').text]
                     df_idx += 1
 
         except: 
@@ -73,7 +80,7 @@ while next_list_count > 0:
 print("크롤링 완료")
 
 browser.quit()
-df.to_csv('크롤링_결과.csv', index=False, encoding='utf-8-sig')
+df.to_csv('brand크롤링_결과.csv', index=False, encoding='utf-8-sig')
 print("CSV 파일 저장 완료")
 print(df)
 
