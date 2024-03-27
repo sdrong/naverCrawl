@@ -48,24 +48,25 @@ def collect_reviews(args):
         sleep(2)  # 페이지 로딩 대기
         # 첫 번째 코드에서 제공된 선택자를 적용하여 리뷰 탭으로 이동
         driver.find_element(By.CSS_SELECTOR, '#_productTabContainer > div > ul > li:nth-child(2) > a').click()
-        sleep(3)  # 리뷰 탭 로딩 대기
+        sleep(10)  # 리뷰 탭 로딩 대기
+        print(first_page)
         driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({first_page+1})').click()
         print(first_page)
+        sleep(5)  # 페이지 로딩 대기
         while next_list_count > 0:
             for page in range(1, 100):
                 try:
+                    driver.find_element(By.CSS_SELECTOR, '#_productTabContainer > div > ul > li:nth-child(2) > a').click()
                     sleep(3)
                     now_page_html = driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div').get_attribute('innerHTML')
                     soup = BeautifulSoup(now_page_html, 'html.parser')
-                    target_elements = soup.find_all('a', {'aria-current': 'true', 'role': 'menuitem'})
-                    sleep(3)
+                    target_elements  = soup.find('a', {'aria-current': 'true', 'role': 'menuitem'})
                     base_num = 0
-                    here_index = 0
-                    for index, elem in enumerate(target_elements, start=1):
+                    num = 1
+                    for elem in target_elements:
                         base_num = (((int)(elem.text))-1)*20
-                        here_index = index           
-                    print(base_num)
-                    print(here_index)      
+                        num+=1
+                    print(num)
                     sleep(3)
                     df_idx = 0
                     for review_number in range(1, 21):
@@ -77,7 +78,8 @@ def collect_reviews(args):
                             review_text = review.find_element(By.CSS_SELECTOR, f'div._3z6gI4oI6l').text
                             df.loc[base_num+df_idx] = [base_num+df_idx,summary, grade, review_text]
                             df_idx += 1
-                    driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({here_index+4})').click()
+                    driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({num+4})').click()
+                    
                 except Exception as e:
                     print("페이지 로딩 중 오류 발생:", e)
                     break
@@ -125,5 +127,6 @@ if __name__ == "__main__":
 <a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">2</a>
 <a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">3</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">4</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">5</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="true" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">6</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">7</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">8</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">9</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">10</a><a href="#" class="UWN4IvaQza N=a:PROUDCT_REVIEW.npaypg _nlog_click _nlog_impression_element" aria-current="false" role="menuitem" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgn" data-shp-area-type="action" data-shp-area-id="pgn">11</a><a href="#" class="fAUKm1ewwo _2Ar8-aEUTq _nlog_click _nlog_impression_element" aria-hidden="false" role="button" data-shp-page-key="100393376" data-shp-sti="" data-shp-nsc="shoppingw.brand" data-shp-abt_exps="[]" data-shp-inventory="revlist" data-shp-area="revlist.pgnext" data-shp-area-type="action" data-shp-area-id="pgnext">다음</a></div>
 """
+#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child(5)
 
-
+#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child(6)
