@@ -17,56 +17,110 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-keys = Keys()
+from multiprocessing import Pool
+import time
 
-#Shopping
+def collect_reviews(args):
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.chrome.service import Service
+    from selenium.webdriver.chrome.options import Options
+    from time import sleep
+    import pandas as pd
 
-target_url = 'https://shopping.naver.com/window-products/brandfashion/9901500563?NaPm=ct%3Dltv7z3hc%7Cci%3D73570d60a512f31e7870ed195cb365ab643b4982%7Ctr%3Dnshfu%7Csn%3D1197772%7Chk%3D0edcbf9533ac874f1fdbd859c0ff7f95682043b5'
-next_list_count = 1
-sleepDelay = 1
-df = pd.DataFrame(columns=['summary','grade', 'review'])# 요약, 평점 , 상품리뷰
-df_idx = 0
+    next_list_count, first_page = args
+    options = Options()
+    options.headless = True  # 헤드리스 모드 활성화
+    # 사용자 에이전트 설정
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 
-#대충 크롬 웹드라이브 맞춰서 설치 ㅇㅇ
-service = Service(ChromeDriverManager().install())
-browser = webdriver.Chrome(service=service)
-sleep(sleepDelay * 3)
-browser.get(target_url)
-sleep(sleepDelay)
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service)
+    df = pd.DataFrame(columns=['num','summary', 'grade', 'review'])
 
-wait = WebDriverWait(browser, 10)
+    df_idx = 0  # 데이터프레임 인덱스 초기화
 
-#리뷰버튼 꾹
-browser.find_element(By.CSS_SELECTOR, '#_productTabContainer > div > ul > li:nth-child(2) > a').click()
-sleep(sleepDelay * 2)
+    try:
+        url = "https://shopping.naver.com/window-products/brandfashion/9949176287?NaPm=ct%3Dlty029gf%7Cci%3Dshoppingwindow%7Ctr%3Dswhl%7Chk%3D02d395b67c73ad3d7fe701d6d0d5ef31f0938469%7Ctrx%3D"
+        driver.get(url)
+        sleep(2) 
+        driver.find_element(By.CSS_SELECTOR, '#_productTabContainer > div > ul > li:nth-child(2) > a').click()
+        sleep(2)  
+        print(first_page)
+        driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({str(first_page+1)})').click()
+        print(first_page)
+        sleep(2)  
+        for page in range(1, 100):
+            try:
+                sleep(3)
+                now_page_html = driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div').get_attribute('innerHTML')
+                soup = BeautifulSoup(now_page_html, 'html.parser')
+                target_elements  = soup.find('a', {'aria-current': 'true', 'role': 'menuitem'})
+                base_num = 0
+                num = 0
+                for elem in target_elements:
+                    base_num = (((int)(elem.text))-1)*20
+                    num = (elem.text)
+                current_page_element = soup.find('a', {'aria-current': 'true', 'role': 'menuitem'})
+                all_page_elements = soup.find_all('a', {'role': 'menuitem'})
+                if current_page_element:
+                    current_page_index = all_page_elements.index(current_page_element) + 1
+                    print(f'Current page element is at index: {current_page_index}')
+                else:
+                    print('Current page element not found')
+                sleep(3)
+                df_idx = 1
+                for review_number in range(1, 21):
+                    review_table = driver.find_elements(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > ul > li:nth-child({str(review_number)}')
+                    sleep(1)
+                    for review in review_table:
+                        summary = review.find_element(By.CSS_SELECTOR, f'div._2FXNMst_ak').text
+                        grade = review.find_element(By.CSS_SELECTOR, f'div._2V6vMO_iLm > em').text
+                        review_text = review.find_element(By.CSS_SELECTOR, f'div._3z6gI4oI6l').text
+                        df.loc[base_num+df_idx] = [base_num+df_idx,summary, grade, review_text]
+                        df_idx += 1
+                next_page_number = current_page_index + 4
+                try:
+                    driver.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a:nth-child({next_page_number})').click()
+                except Exception as e:
+                    print(f'다음 페이지 ({next_page_number})로 이동하는데 실패했습니다: {e}')
+                    break
+                    
+            except Exception as e:
+                print("페이지 로딩 중 오류 발생:", e)
+                break
+        try:
+            next_list_count -= 1
+            sleep(1)
+        except Exception as e:
+            print("다음 페이지 목록으로 이동 중 오류 발생:", e)
+    except Exception as e:
+        print(f"Error occurred: {e}")
 
-while next_list_count > 0: 
-    for page in range(2,300): 
-        try: 
-            for review_number in range(1,20+1): 
-                review_table = browser.find_elements(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > ul > li:nth-child({str(review_number)}')
-                for review in review_table:
-                    df.loc[df_idx] = [review.find_element(By.CSS_SELECTOR, f'div._2FXNMst_ak').text, review.find_element(By.CSS_SELECTOR, f'div._2V6vMO_iLm > em').text , review.find_element(By.CSS_SELECTOR, f'div._3z6gI4oI6l').text,] 
-                    df_idx += 1
-            browser.find_element(By.CSS_SELECTOR, f'#REVIEW > div > div > div._2LvIMaBiIO > div._2g7PKvqCKe > div > div > a.fAUKm1ewwo._2Ar8-aEUTq').click() # 각 페이지 클릭
-            sleep(sleepDelay)
+    finally:
+        driver.quit()
 
-        except: 
-            print("마지막 페이지")
-            break
+    return df
 
+def main():
+    start_time = time.time()
+    tasks = [(10, i) for i in range(1, 5)]
 
-    try: 
-        next_list_count -= 1 
-        sleep(sleepDelay)
-
-    except:
-        print("마지막 목록")
-        break
+    with Pool(processes=4) as pool:
+        results = pool.map(collect_reviews, tasks)
+    
+    final_df = pd.concat(results)
+    final_df.sort_values(by=['num'], inplace=True)
+    final_df.drop_duplicates(subset=['num'], keep='first', inplace=True)
+    final_df.reset_index(drop=True, inplace=True)
+    final_df.to_csv('shopping_crawling.csv', index=False, encoding='utf-8-sig')
 
 
-browser.quit()
-df.to_csv('shopping크롤링_결과.csv', index=False, encoding='utf-8-sig')
-print("CSV 파일 저장 완료")
-print(df)
+    end_time = time.time()
+    print("CSV 파일 저장 완료")
+    print(f"크롤링 완료 시간: {end_time - start_time}초")
+    print(final_df)
 
+if __name__ == "__main__":
+    main()

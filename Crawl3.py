@@ -1,4 +1,3 @@
-
 import re
 import time
 from time import sleep
@@ -72,4 +71,3 @@ browser.quit()
 df.to_csv('smart크롤링_결과.csv', index=False, encoding='utf-8-sig')
 print("CSV 파일 저장 완료")
 print(df)
-
