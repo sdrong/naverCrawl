@@ -24,55 +24,41 @@ from reportlab.lib.pagesizes import letter, A4
 from PIL import Image
 import requests
 from io import BytesIO
+from docx import Document
 import logging
 import os
 import tempfile  # 임시 파일을 위한 모듈
+import pytesseract
+
+# pytesseract tesseract_cmd 경로 설정
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 logging.basicConfig(level=logging.INFO)
 
+def save_texts_to_word(texts, filename):
+    """텍스트 리스트를 Word 문서로 저장"""
+    doc = Document()
+    for text in texts:
+        doc.add_paragraph(text)
+        doc.add_page_break()
+    doc.save(filename)
+    logging.info(f"Word document saved: {filename}")
 
-def save_images_as_pdf(image_urls, pdf_filename):
-    c = canvas.Canvas(pdf_filename, pagesize=letter)
-    page_width, page_height = letter
-    x_margin, y_margin = 50, 50
-    x, y = x_margin, page_height - y_margin
+def extract_text_from_images(image_urls):
+    all_texts = []  # 추출된 텍스트들을 저장할 리스트
 
     for url in image_urls:
         try:
-            # 이미지 로드
             response = requests.get(url)
             img = Image.open(BytesIO(response.content))
-            if img.mode == 'P':
-                img = img.convert('RGB')
-
-            # 이미지 크기 조정 로직은 이전과 동일
-            img_w, img_h = img.size
-            aspect_ratio = img_w / img_h
-            max_img_width = page_width - (2 * x_margin)
-            max_img_height = page_height - (2 * y_margin)
-            if aspect_ratio > 1:
-                img_width = min(img_w, max_img_width)
-                img_height = img_width / aspect_ratio
-            else:
-                img_height = min(img_h, max_img_height)
-                img_width = img_height * aspect_ratio
-            
-            # 현재 페이지에 이미지가 맞는지 확인
-            if y - img_height < y_margin:
-                c.showPage()
-                x, y = x_margin, page_height - y_margin
-            
-            # 임시 이미지 파일 생성 및 삭제
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmpfile:
-                img_path = tmpfile.name
-                img = img.resize((int(img_width), int(img_height)))
-                img.save(img_path)
-                c.drawImage(img_path, x, y - img_height, width=img_width, height=img_height)
-                y -= img_height + y_margin
+            custom_config = r'--oem 3 --psm 6'
+            text = pytesseract.image_to_string(img, lang='kor', config=custom_config)
+            all_texts.append(text)
+            print(text)
         except Exception as e:
-            print(f"Error saving image {url}: {e}")
+            print(f"Error extracting text from {url}: {e}")
     
-    c.save()
+    return all_texts
 
 
 def collect_reviews(args):
@@ -96,7 +82,7 @@ def collect_reviews(args):
     df = pd.DataFrame(columns=['num','summary', 'grade', 'review'])
 
     df_idx = 0  # 데이터프레임 인덱스 초기화
-
+    
     try:
         url = "https://brand.naver.com/sidiz/products/7567795565?n_media=11068&n_query=%EC%8B%9C%EB%94%94%EC%A6%88&n_rank=4&n_ad_group=grp-a001-02-000000038783838&n_ad=nad-a001-02-000000274248140&n_campaign_type=2&n_mall_id=sidiz00&n_mall_pid=7567795565&n_ad_group_type=2&n_match=3&NaPm=ct%3Dlucouaa8%7Cci%3D0yG0001oJKnAlj0nV1iv%7Ctr%3Dpla%7Chk%3Df434f29bd98e182c3cceb71c24aa40b55d19945b"
         driver.get(url)
@@ -110,6 +96,9 @@ def collect_reviews(args):
 
             # 각 img 태그의 data-src 속성값 추출
             image_urls = [img['data-src'] for img in images]
+            all_texts = extract_text_from_images(image_urls)
+            print(all_texts)
+            save_texts_to_word(all_texts, "extracted_texts.docx")
             sleep(2)
         driver.find_element(By.CSS_SELECTOR, '#content > div > div.z7cS6-TO7X > div._27jmWaPaKy > ul > li:nth-child(2) > a').click()
         sleep(3)  # 리뷰 탭 로딩 대기
@@ -132,7 +121,6 @@ def collect_reviews(args):
                             grade = review.find_element(By.CSS_SELECTOR, 'div._2V6vMO_iLm > em').text
                             review_text = review.find_element(By.CSS_SELECTOR, 'div._3z6gI4oI6l').text
                             df.loc[base_num+df_idx] = [base_num+df_idx,summary, grade, review_text]
-                            print(f"리뷰 추가됨: {base_num+df_idx}, {summary}, {grade}, {review_text}")  # 리뷰가 추가될 때마다 출력
                             df_idx += 1
                 except Exception as e:
                     print("페이지 로딩 중 오류 발생:", e)
@@ -150,10 +138,6 @@ def collect_reviews(args):
 
     finally:
         driver.quit()
-        if first_page == 1:
-            for url in image_urls:
-                print(url)
-            save_images_as_pdf(image_urls, "product_images.pdf")
 
     return df
 
@@ -174,7 +158,6 @@ def main():
     end_time = time.time()
     print("CSV 파일 저장 완료")
     print(f"크롤링 완료 시간: {end_time - start_time}초")
-    print(final_df)
 
 if __name__ == "__main__":
     main()
