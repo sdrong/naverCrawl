@@ -20,46 +20,60 @@ from selenium.webdriver.support import expected_conditions as EC
 from multiprocessing import Pool
 import time
 from reportlab.pdfgen import canvas
-from reportlab.lib.pagesizes import letter
+from reportlab.lib.pagesizes import letter, A4
 from PIL import Image
 import requests
 from io import BytesIO
+import logging
+import os
+import tempfile  # 임시 파일을 위한 모듈
+
+logging.basicConfig(level=logging.INFO)
+
 
 def save_images_as_pdf(image_urls, pdf_filename):
     c = canvas.Canvas(pdf_filename, pagesize=letter)
     page_width, page_height = letter
-    margin = 72 # 페이지 가장자리로부터의 여백
-    current_height = page_height - margin # 현재 이미지를 배치할 높이 위치
-    max_image_width = page_width - 2 * margin # 이미지 최대 너비
-    
+    x_margin, y_margin = 50, 50
+    x, y = x_margin, page_height - y_margin
+
     for url in image_urls:
         try:
+            # 이미지 로드
             response = requests.get(url)
             img = Image.open(BytesIO(response.content))
-
             if img.mode == 'P':
                 img = img.convert('RGB')
+
+            # 이미지 크기 조정 로직은 이전과 동일
+            img_w, img_h = img.size
+            aspect_ratio = img_w / img_h
+            max_img_width = page_width - (2 * x_margin)
+            max_img_height = page_height - (2 * y_margin)
+            if aspect_ratio > 1:
+                img_width = min(img_w, max_img_width)
+                img_height = img_width / aspect_ratio
+            else:
+                img_height = min(img_h, max_img_height)
+                img_width = img_height * aspect_ratio
             
-            # 이미지 크기 조정
-            aspect_ratio = img.width / img.height
-            img_width = min(max_image_width, img.width)
-            img_height = img_width / aspect_ratio
-            
-            # 이미지가 페이지를 넘어갈 경우 새 페이지 생성
-            if current_height - img_height < margin:
+            # 현재 페이지에 이미지가 맞는지 확인
+            if y - img_height < y_margin:
                 c.showPage()
-                current_height = page_height - margin
+                x, y = x_margin, page_height - y_margin
             
-            temp_img_filename = "temp_img.png" if img.format == 'PNG' or img.mode == 'RGBA' else "temp_img.jpg"
-            img.save(temp_img_filename)
-            
-            # 이미지를 PDF에 추가하고 위치 업데이트
-            c.drawImage(temp_img_filename, margin, current_height - img_height, width=img_width, height=img_height)
-            current_height -= img_height + margin / 2 # 다음 이미지를 위한 높이 조정
+            # 임시 이미지 파일 생성 및 삭제
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmpfile:
+                img_path = tmpfile.name
+                img = img.resize((int(img_width), int(img_height)))
+                img.save(img_path)
+                c.drawImage(img_path, x, y - img_height, width=img_width, height=img_height)
+                y -= img_height + y_margin
         except Exception as e:
             print(f"Error saving image {url}: {e}")
     
     c.save()
+
 
 def collect_reviews(args):
     from selenium import webdriver
@@ -71,8 +85,7 @@ def collect_reviews(args):
 
     next_list_count, first_page = args
     options = Options()
-    options.headless = True  # 헤드리스 모드 활성화
-    # 사용자 에이전트 설정
+    options.headless = True 
     options.add_argument(
         "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 
@@ -88,15 +101,16 @@ def collect_reviews(args):
         url = "https://brand.naver.com/sidiz/products/7567795565?n_media=11068&n_query=%EC%8B%9C%EB%94%94%EC%A6%88&n_rank=4&n_ad_group=grp-a001-02-000000038783838&n_ad=nad-a001-02-000000274248140&n_campaign_type=2&n_mall_id=sidiz00&n_mall_pid=7567795565&n_ad_group_type=2&n_match=3&NaPm=ct%3Dlucouaa8%7Cci%3D0yG0001oJKnAlj0nV1iv%7Ctr%3Dpla%7Chk%3Df434f29bd98e182c3cceb71c24aa40b55d19945b"
         driver.get(url)
         sleep(2)  # 페이지 로딩 대기
-        product_html = driver.find_element(By.CSS_SELECTOR, f'#SE-a88fac98-5767-11ee-808b-75e2306683b8 > div > div > div').get_attribute('innerHTML')
-        soup = BeautifulSoup(product_html, 'html.parser')
+        if first_page == 1:
+            product_html = driver.find_element(By.CSS_SELECTOR, f'#SE-a88fac98-5767-11ee-808b-75e2306683b8 > div > div > div').get_attribute('innerHTML')
+            soup = BeautifulSoup(product_html, 'html.parser')
 
-        # data-src 속성을 가진 모든 img 태그 찾기
-        images = soup.find_all('img', {'data-src': True})
+            # data-src 속성을 가진 모든 img 태그 찾기
+            images = soup.find_all('img', {'data-src': True})
 
-        # 각 img 태그의 data-src 속성값 추출
-        image_urls = [img['data-src'] for img in images]
-        sleep(2)
+            # 각 img 태그의 data-src 속성값 추출
+            image_urls = [img['data-src'] for img in images]
+            sleep(2)
         driver.find_element(By.CSS_SELECTOR, '#content > div > div.z7cS6-TO7X > div._27jmWaPaKy > ul > li:nth-child(2) > a').click()
         sleep(3)  # 리뷰 탭 로딩 대기
         while next_list_count > 0:
@@ -136,9 +150,10 @@ def collect_reviews(args):
 
     finally:
         driver.quit()
-        for url in image_urls:
-            print(url)
-        save_images_as_pdf(image_urls, "product_images.pdf")
+        if first_page == 1:
+            for url in image_urls:
+                print(url)
+            save_images_as_pdf(image_urls, "product_images.pdf")
 
     return df
 
