@@ -29,11 +29,27 @@ import logging
 import os
 import tempfile  # 임시 파일을 위한 모듈
 import pytesseract
+import cv2
 
 # pytesseract tesseract_cmd 경로 설정
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 logging.basicConfig(level=logging.INFO)
+
+def clean_text(text):
+    """
+    비효율적인 문자를 제거하고 텍스트를 정리합니다.
+    """
+    # 여기에 필요한 정규 표현식 패턴을 추가하세요.
+    # 예시: 이메일 주소 제거
+    text = re.sub(r'\S+@\S+\.\S+', '', text)
+    # 예시: URL 제거
+    text = re.sub(r'http[s]?://\S+', '', text)
+    # 예시: 한글과 공백을 제외한 모든 문자 제거
+    text = re.sub(r'[^가-힣a-zA-Z0-9\s]', '', text)
+    # 예시: 과도한 공백 제거
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 def save_texts_to_word(texts, filename):
     """텍스트 리스트를 Word 문서로 저장"""
@@ -50,11 +66,30 @@ def extract_text_from_images(image_urls):
     for url in image_urls:
         try:
             response = requests.get(url)
-            img = Image.open(BytesIO(response.content))
+           # 이미지를 PIL 형태로 읽어온 후 OpenCV 형태로 변환
+            pil_img = Image.open(BytesIO(response.content))
+            open_cv_image = np.array(pil_img) 
+            # Convert RGB to BGR 
+            open_cv_image = open_cv_image[:, :, ::-1].copy() 
+
+            # 이미지 전처리 시작
+            # 그레이 스케일 변환
+            gray = cv2.cvtColor(open_cv_image, cv2.COLOR_BGR2GRAY)
+            # 이진화
+            _, binary = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+            # 노이즈 제거
+            kernel = np.ones((1, 1), np.uint8)
+            opening = cv2.morphologyEx(binary, cv2.MORPH_OPEN, kernel, iterations=1)
+            # 경계 확장
+            dilation = cv2.dilate(opening, kernel, iterations=1)
+
+            # OpenCV 이미지를 PIL 형식으로 변환
+            pil_image_processed = Image.fromarray(dilation)
             custom_config = r'--oem 3 --psm 6'
-            text = pytesseract.image_to_string(img, lang='kor', config=custom_config)
-            all_texts.append(text)
-            print(text)
+            text = pytesseract.image_to_string(pil_image_processed, lang='kor+eng', config=custom_config)
+            cleaned_text = clean_text(text)  # 텍스트 전처리
+            all_texts.append(cleaned_text)
+            print(cleaned_text)
         except Exception as e:
             print(f"Error extracting text from {url}: {e}")
     

@@ -1,0 +1,262 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+AMD Radeon RX 7600 XT,"Graphics Processor: Navi 33
+Cores: 2048
+TMUs: 128
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 33
+Codename: Hotpink Bonefish
+GPU Variant: Navi 33 XT (215-163000047)
+Architecture: RDNA 3.0
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 13,300 million
+Density: 65.2M / mm²
+Die Size: 204 mm²
+Chip Package: Monolithic
+
+Graphics Card:
+Release Date: Jan 8th, 2024
+Generation: Navi III (RX 7000)
+Predecessor: Navi II
+Production: Active
+Launch Price: 329 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 21 in our database
+
+Clock Speeds:
+Base Clock: 1980 MHz
+Game Clock: 2470 MHz
+Boost Clock: 2755 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 288.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 64
+Compute Units: 32
+RT Cores: 32
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 176.3 GPixel/s
+Texture Rate: 352.6 GTexel/s
+FP16 (half): 45.14 TFLOPS (2:1)
+FP32 (float): 22.57 TFLOPS
+FP64 (double): 705.3 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 204 mm 8 inches
+Width: 115 mm 4.5 inches
+TDP: 190 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1a 3x DisplayPort 2.1
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.2
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock RX 7600 XT Challenger OC - GPU Clock: 1980 MHz, Boost Clock: 2799 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:ASRock RX 7600 XT Steel Legend OC - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 304 mm/12 inches
+기반 제품명:ASUS DUAL RX 7600 XT OC - GPU Clock: 1980 MHz, Boost Clock: 2781 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS TUF RX 7600 XT GAMING OC - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RX 7600 XT GAMING OC - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor Fighter RX 7600 XT - GPU Clock: 1980 MHz, Boost Clock: 2755 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 217 mm/8.5 inches
+기반 제품명:PowerColor Hellhound RX 7600 XT - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 220 mm/8.7 inches
+기반 제품명:Sapphire PULSE RX 7600 XT - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches, 2x HDMI 2x DisplayPort, 192 W
+기반 제품명:XFX Speedster QICK309 RX 7600 XT - GPU Clock: 2029 MHz, Boost Clock: 2810 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 302 mm/11.9 inches
+기반 제품명:XFX Speedster SWFT210 RX 7600 XT - GPU Clock: 1980 MHz, Boost Clock: 2755 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+"
+,,,
+,,,
+,,,
+AMD Radeon RX 580,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XTX (215-0910038)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 18th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 229 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 52 in our database
+
+Clock Speeds:
+Base Clock: 1257 MHz
+Boost Clock: 1340 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 42.88 GPixel/s
+Texture Rate: 193.0 GTexel/s
+FP16 (half): 6.175 TFLOPS (1:1)
+FP32 (float): 6.175 TFLOPS
+FP64 (double): 385.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 185 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C940, D009-04
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1266 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB
+기반 제품명:AMD Radeon RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1266 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:AREZ DUAL RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING TOP -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASRock Phantom Gaming D RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 236 mm/9.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASRock Phantom Gaming D RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASRock Phantom Gaming M2 RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1150 MHz, Boost Clock: 1340 MHz, Memory Clock: 2050 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 1x DVI
+기반 제품명:ASRock Phantom Gaming X RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASUS DUAL RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING TOP -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:BIOSTAR RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:BIOSTAR RX 580 Dual Cooling -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ColorFire RX 580 Ustorm -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland DEVIL RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1411 MHz, Boost Clock: 1439 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 18th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 282 mm/11.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial God of War 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial God of War 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Diamond RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE AORUS RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1365 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1365 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RX 580 XTR -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1425 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 580 GAMING 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 GAMING 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 Gaming Box -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 212 mm/8.3 inches
+기반 제품명:GIGABYTE RX 580 GAMING Mining 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 GAMING Mining 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 XTR IceQ X2 Roaring Turbo -해당 제품의 바뀐 사항 GPU Clock: 1364 MHz, Boost Clock: 1430 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:KUROUTOSHIKOU RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:KUROUTOSHIKOU RX 580 OC DF3 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MAXSUN RX 580 Big Mac 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Big Mac 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 JetStream 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 279 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 JetStream 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 296 mm/11.7 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MSI RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 580 ARMOR 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR MK2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1353 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR MK2 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 246 mm/9.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR SP 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 246 mm/9.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR X -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1353 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1431 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1421 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 MECH 2 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 V1 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 198 mm/7.8 inches
+기반 제품명:ONDA RX 580 Model 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PCYES RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 245 mm/9.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 580 Golden Sample OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1425 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1355 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor RX 580 Mining -해당 제품의 바뀐 사항 GPU Clock: 1215 MHz, Boost Clock: 1215 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI
+기반 제품명:PowerColor RX 580 Mining 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1215 MHz, Boost Clock: 1340 MHz, Memory Clock: 1950 MHz, 외의 바뀐 사항: 4 GB, 1x DVI
+기반 제품명:Pradeon RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Pradeon RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Special Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Special Edition V2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:VisionTek RX 580 Overclocked -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTR RX 580 Black Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX GTR RX 580 XXX OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX GTR-S RX 580 Black Limited Edition OC+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2025 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTR-S RX 580 Black Limited Edition OC+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1450 MHz, Memory Clock: 2025 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 Black Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1386 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 Black Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 XXX 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 XXX 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Yeston RX 580 GAMEACE 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 310 mm/12.2 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Yeston RX 580 GAMEACE 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 1x DVI 1x HDMI 3x DisplayPort
+"
