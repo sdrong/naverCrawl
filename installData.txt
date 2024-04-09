@@ -1,7 +1,2412 @@
-selenium==4.2.0
-pandas==2.0.3
-konlpy==0.6.0
-matplotlib==3.6.0
-seaborn==0.12.1
-numpy==1.23.0
-wordcloud==1.9.2
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>AMD Radeon RX 7600 XT Specs | TechPowerUp GPU Database</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="preconnect" href="https://tpucdn.com" />
+		<meta name="application-name" content="TechPowerUp">
+		
+		<link rel="preload stylesheet" href="https://tpucdn.com/css/style-v1712572526641.css" as="style" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-regular-v1712572526641.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/tpu-body-bold-v1712572526641.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://tpucdn.com/css/fonts/opensans-condbold-v1712572526641.woff2" as="font" type="font/woff2" crossorigin>
+
+		<meta name="robots" content="max-image-preview:large">
+
+		<meta property="article:publisher" content="https://www.facebook.com/TechPowerUp" />
+		<meta property="og:site_name" content="TechPowerUp">
+		<meta property="og:title" content="AMD Radeon RX 7600 XT Specs">
+		<meta property="og:type" content="article">
+		<meta property="og:description" content="AMD Navi 33, 2755 MHz, 2048 Cores, 128 TMUs, 64 ROPs, 16384 MB GDDR6, 2250 MHz, 128 bit">
+		<meta property="og:url" content="https://www.techpowerup.com/gpu-specs/radeon-rx-7600-xt.c4190">				<meta property="og:image" content="https://www.techpowerup.com/gpu-specs/images/c/4190-front.small.jpg">
+				
+		
+		
+				
+		
+		<link rel="shortcut icon" href="https://tpucdn.com/favicon-v1712572526641.ico">
+		<link rel="apple-touch-icon" href="https://tpucdn.com/apple-touch-icon-v1712572526641.png">
+
+		<link rel="stylesheet" href="https://tpucdn.com/css/style-v1712572526641.css">
+														<link rel="stylesheet" href="https://tpucdn.com/css/databases-v1712572526641.css">				
+		<script>
+			loadjs=function(){var n=function(){},e={},t={},r={};function c(n,e){if(n){var c=r[n];if(t[n]=e,c)for(;c.length;)c[0](n,e),c.splice(0,1)}}function i(e,t){e.call&&(e={success:e}),t.length?(e.error||n)(t):(e.success||n)(e)}function o(e,t,r,c){var i,s,u=document,f=r.async,a=(r.numRetries||0)+1,h=r.before||n;c=c||0,/(^css!|\.css$)/.test(e)?(i=!0,(s=u.createElement("link")).rel="stylesheet",s.href=e.replace(/^css!/,"")):((s=u.createElement("script")).src=e,s.async=void 0===f||f),s.onload=s.onerror=s.onbeforeload=function(n){var u=n.type[0];if(i&&"hideFocus"in s)try{s.sheet.cssText.length||(u="e")}catch(n){u="e"}if("e"==u&&(c+=1)<a)return o(e,t,r,c);t(e,u,n.defaultPrevented)},!1!==h(e,s)&&u.head.appendChild(s)}function s(n,t,r){var s,u;if(t&&t.trim&&(s=t),u=(s?r:t)||{},s){if(s in e)throw"LoadJS";e[s]=!0}!function(n,e,t){var r,c,i=(n=n.push?n:[n]).length,s=i,u=[];for(r=function(n,t,r){if("e"==t&&u.push(n),"b"==t){if(!r)return;u.push(n)}--i||e(u)},c=0;c<s;c++)o(n[c],r,t)}(n,function(n){i(u,n),c(s,n)},u)}return s.ready=function(n,e){return function(n,e){var c,i,o,s=[],u=(n=n.push?n:[n]).length,f=u;for(c=function(n,t){t.length&&s.push(n),--f||e(s)};u--;)i=n[u],(o=t[i])?c(i,o):(r[i]=r[i]||[]).push(c)}(n,function(n){i(e,n)}),s},s.done=function(n){c(n,[])},s.reset=function(){e={},t={},r={}},s.isDefined=function(n){return n in e},s}();
+		</script>
+
+		<!--[if lt IE 9]><script src="https://tpucdn.com/js/html5shiv.min-v1712572526641.js"></script><![endif]-->
+		<!--[if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif]-->
+
+		<script>
+						loadjs(["https://tpucdn.com/js/jquery-3.6.0.min-v1712572526641.js", "https://tpucdn.com/js/tpu-v1712572526641.js"], { async: false, success: function() { $(function() { loadjs.done('jquery'); }); }});
+
+			loadjs.ready(['jquery'], function() {
+				
+				loadjs(["https://tpucdn.com/js/popup/popup.min-v1712572526641.css", "https://tpucdn.com/js/popup/popup.min-v1712572526641.js"], 'popup');
+
+																				loadjs(["https://tpucdn.com/js/masonry/masonry.pkgd.min-v1712572526641.js"], 'masonry');												loadjs(["https://tpucdn.com/js/swiper/swiper.min-v1712572526641.css", "https://tpucdn.com/js/swiper/swiper.min-v1712572526641.js"], 'swiper');								loadjs(["https://tpucdn.com/js/fancybox/jquery.fancybox-v1712572526641.css", "https://tpucdn.com/js/fancybox/jquery.fancybox-v1712572526641.js"], 'fancybox');															});
+
+																				</script>
+
+		
+		
+		<link rel="alternate" type="application/rss+xml" title="TechPowerUp Frontpage News" href="/rss/news">
+		<link rel="alternate" type="application/rss+xml" title="TechPowerup Reviews" href="/rss/reviews">
+
+		<noscript><style>.jsonly { display: none !important; }</style></noscript>
+
+		
+	</head>
+
+	<body class="body gpudb-details">
+		
+		
+
+		
+		<div class="v-port">
+			
+			<div>
+<div class="kzcigoe"><img  src="/reviyuu/b784/wopy348dc210.png" /></div>
+<a target="_blank" class="dfcikq" rel="nofollow" href="/reviyuu/b784/2606er/images/gmchjhj.png"> </a>
+<div class="fdyzaxq"><a target="_blank" rel="nofollow" href="/reviyuu/b784/2606er/images/gmchjhj.png"> </a></div>
+
+<style>
+body { background-color: #000 }
+
+.dfcikq {
+    background-image: url("/reviyuu/b784/wopy348dc210.png");
+    background-position: center top;
+    background-size: 169.333% auto;
+    display: block;
+    font-size: 0;
+    overflow: hidden;
+    padding-bottom: 10%;
+    width: 100%;
+}
+
+.fdyzaxq { display:none; }
+
+.kzcigoe { display:none; }
+
+@media screen and (min-width: 1500px) {
+	.kzcigoe { 
+	    display: block; 
+	    position: fixed; 
+	    right:50%; 
+	    margin-right:-270px;
+ 	    transform: translateX(1000px);
+	}
+
+	.fdyzaxq {
+	    display: block;
+	    height: 100%;
+	    left: 50%;
+	    max-width: 1900px;
+	    position: fixed;
+	    top: 0;
+	    transform: translateX(-50%);
+	    width: 100%;
+	    z-index: 1;
+	}
+
+	.fdyzaxq > a {
+	  position: absolute;
+	  left: 0;
+	  top: 0;
+	  width: 100%;
+	  height: 100%;
+	}
+
+	.dfcikq {
+	    background-image: none;
+	}
+}
+</style>
+</div><span class="ff53177bd5dff2a9be35974963d92596"></span>			<div class="page-header">
+				<div class="page-header__logo-wrapper">
+					<label for="navigation-check" class="navigation-toggle" onclick="" title="Navigation"></label>
+					<label for="s--check" class="s--toggle" onclick="" title="Sidebar"></label>
+					<script>
+						loadjs.ready(['jquery'], function() {
+							$('.s-').clone().insertBefore('.page').addClass('s---responsive');
+							$('#navigation-check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('navigation-active', $(this).is(':checked'));
+							});
+							$('#s--check').prop('checked', false).on('click', function() {
+								$('html').toggleClass('sidebar-active', $(this).is(':checked'));
+							});
+						});
+					</script>
+					<a class="page-header__logo" href="/" title="TechPowerUp"></a>
+				</div>
+
+				<div btr-cls><div><a href="/reviyuu/b784/2598er/images/gmchjhj.png" target="_blank" rel="nofollow">
+<img src="/reviyuu/b784/wopydc9e0ba4.png" alt="">
+</a></div><span class="ff53177bd5dff2a9be35974963d92596"></span></div>
+			</div>
+			<input type="checkbox" id="s--check"/>
+
+			<input type="checkbox" id="navigation-check"/>
+			<nav id="menu">
+				<label for="navigation-check" id="menu-toggle" onclick="" title="Close"></label>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/review/">Reviews</a></li>
+					<li><a href="/forums/">Forums</a></li>
+					<li><a href="/download/">Downloads</a></li>
+					<li><a href="/gallery/">Case Mod Gallery</a></li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-databases">Databases</label>
+						<input id="menu-databases" class="sub-menu-check" type="checkbox">
+						<ul id="menu-databases-sub" class="sub-menu">
+							<li class="menu-sub-heading">Databases…
+								<label class="menu-back" title="Back" onclick="" for="menu-databases">Back</label>
+							</li>
+							<li><a href="/vgabios/">VGA Bios Collection</a></li>
+							<li><a href="/gpu-specs/">GPU Database</a></li>
+							<li><a href="/cpu-specs/">CPU Database</a></li>
+							<li><a href="/ssd-specs/">SSD Database</a></li>
+							<li><a href="/reviewdb/">Review Database</a></li>
+							<li><a href="/review/future-hardware-releases/">Upcoming Hardware</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-software">Our Software</label>
+						<input id="menu-software" class="sub-menu-check" type="checkbox">
+						<ul id="menu-software-sub" class="sub-menu">
+							<li class="menu-sub-heading">Our Software…
+								<label class="menu-back" title="Back" onclick="" for="menu-software">Back</label>
+							</li>
+							<li><a href="/gpuz/">GPU-Z</a></li>
+							<li><a href="/realtemp/">RealTemp</a></li>
+							<li><a href="/nvcleanstall/">NVCleanstall</a></li>
+							<li><a href="/tpucapture/">TPUCapture</a></li>
+							<li><a href="/memtest64/">MemTest64</a></li>
+						</ul>
+					</li>
+					<li>
+						<label class="menu-toggle-sub" onclick="" for="menu-more">More</label>
+						<input id="menu-more" class="sub-menu-check" type="checkbox">
+						<ul id="menu-more-sub" class="sub-menu">
+							<li class="menu-sub-heading">More…
+								<label class="menu-back" title="Back" onclick="" for="menu-more">Back</label>
+							</li>
+							<li><a href="/articles/">Articles</a></li>
+							<li><a href="/oldstuff/">Old Stuff</a></li>
+							<li><a href="/trivia/">Computer Trivia</a></li>
+							<li><a href="/live/">TPU Live</a></li>
+																				</ul>
+					</li>
+					<li><a href="/contact/">Contact Us</a></li>
+					<li class="social">
+						<a class="facebook" title="Facebook" target="_blank" rel="nofollow noopener" href="https://www.facebook.com/TechPowerUp"></a>
+						<a class="twitter" title="Twitter" target="_blank" rel="nofollow noopener" href="https://twitter.com/TechPowerUp"></a>
+						<a class="patreon" title="Patreon" target="_blank" rel="nofollow noopener" href="https://www.patreon.com/TechPowerUp"></a>
+						<a class="instagram" title="Instagram" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/techpowerupofficial/"></a>
+						<a class="youtube" title="YouTube" target="_blank" rel="nofollow noopener" href="https://www.youtube.com/c/TechPowerUp"></a>
+						<a class="rss" title="RSS" href="/rss/"></a>
+					</li>
+				</ul>
+			</nav>
+
+			<div class="page">
+				
+				<div class="contnt ">
+					
+<script>
+	loadjs.ready(['jquery', 'masonry'], function() {
+		$('td:contains("unknown")').css('color', '#aaa');
+		if ($(window).width()>560)
+			$('.sectioncontainer').masonry({ });
+	});
+
+	function attachLightbox(selector) {
+	function updateButtonPos(instance) {
+		if (instance.current==undefined)
+			return;
+
+		var pos=instance.current.$content.css([ 'transform', 'width', 'height' ]);
+		var xform=pos.transform.match(/(-?[\d\.]+), (-?[\d\.]+)\)$/);
+		if (xform==null)
+			return;
+
+		instance.$refs.inner.find('.fancybox-tpu-nav').css({
+			'left': xform[1]+'px',
+			'top': xform[2]+'px',
+			'width': pos['width'],
+			'height': pos['height']
+		});
+
+		if (instance.$refs.stage.children().length==1) {
+			$('.fancybox-tpu-btn-prev, .fancybox-tpu-btn-next').hide();
+		}
+	}
+
+	loadjs.ready(['jquery', 'fancybox'], function() {
+		var items;
+		if (selector instanceof Function)
+			items=selector();
+		else
+			items=$(selector);
+
+		items.fancybox({
+			selector: false,
+			loop: false,
+			wheel: 'auto',
+			buttons: [],
+			smallBtn: false,
+			i18n: { en: { ERROR: "The requested content cannot be loaded. <br/>This could be due to an ad blocker."}},
+			onInit: function(instance, slide) {
+				/*
+				var maxWidth=$('body').css('maxWidth');
+				$('body').addClass('tpu-fancybox-body-wrap').wrapInner('<div class="tpu-fancybox-wrap"></div>');
+				$('.tpu-fancybox-wrap').css('maxWidth', maxWidth);*/
+
+				instance.$refs.stage.on('transitionend', function() {
+					updateButtonPos(instance);
+				});
+			},
+			onUpdate: updateButtonPos,
+			afterShow: function(instance, slide) {
+				updateButtonPos(instance);
+				instance.$refs.inner.find('.fancybox-tpu-nav').show();
+			},
+			beforeClose: function(instance, slide) {
+				instance.$refs.inner.find('.fancybox-tpu-nav').hide();
+			},
+			afterClose: function(instance, slide) {
+				$('.tpu-fancybox-wrap').contents().unwrap();
+				$('body').removeClass('tpu-fancybox-body-wrap')
+			},
+			baseTpl: '<div class="fancybox-container" role="dialog" tabindex="-1">' +
+				'<div class="fancybox-bg"></div>' +
+				'<div class="fancybox-inner">' +
+					'<div class="fancybox-tpu-nav">' +
+						'<button data-fancybox-close class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-close" title="Close"></button>' +
+						'<button data-fancybox-prev class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-prev" title="Previous"></button>' +
+						'<button data-fancybox-next class="fancybox-button fancybox-tpu-btn fancybox-tpu-btn-next" title="Next"></button>' +
+					'</div>' +
+					'<div class="fancybox-stage"></div>' +
+					'<div class="fancybox-caption"></div>' +
+				'</div>' +
+			'</div>',
+		});
+	});
+}
+	loadjs.ready(['jquery'], function() {
+		if ($(window).width()>=1200) {
+			$('.gpudb-filmstrip__item--chip').remove();
+		} else {
+			$('.gpudb-large-image__img--gpu').remove();
+		}
+	});
+
+	loadjs.ready(['jquery', 'fancybox', 'swiper'], function() {
+		attachLightbox('[data-fancybox]');
+
+		$carousel=$('.gpudb-filmstrip__wrapper');
+		$carousel.addClass('swiper-container');
+		$carousel.find('.gpudb-filmstrip__item').addClass('swiper-slide').css('width', 'auto').wrapAll('<div class="swiper-wrapper" />');
+
+		if ($(window).width()<600)
+			$carousel.find('.swiper-wrapper').after('<div class="swiper-pagination" style="position:relative; bottom:5px; transform: unset; margin-top:12px" />');
+		new Swiper ($carousel.eq(0), { slidesPerView: 'auto', slidesPerGroup: 1, spaceBetween: 15, pagination: { el: '.swiper-pagination', clickable: true } });
+	});
+</script>
+
+<ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/" itemprop="item"><span itemprop="name">GPU Database</span></a>
+							<meta itemprop="position" content="1" />
+	</li>
+		<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a href="/gpu-specs/radeon-rx-7600-xt.c4190" itemprop="item"><b itemprop="name">Radeon RX 7600 XT Specs</b></a>
+							<meta itemprop="position" content="2" />
+	</li>
+	</ul>
+
+<a class="button gpudb-report-error" href="mailto:matthewsmith9999@hotmail.com?subject=GPU%20Database%20AMD%20Radeon%20RX%207600%20XT%20%28ID%204190)">Report an Error</a>
+
+
+<h1 class="gpudb-name">AMD Radeon RX 7600 XT</h1>
+
+<dl class="gpudb-specs-large">
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Graphics Processor</dt>
+		<dd class="gpudb-specs-large__value">Navi 33</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Cores</dt>
+		<dd class="gpudb-specs-large__value">2048</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">TMUs</dt>
+		<dd class="gpudb-specs-large__value">128</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">ROPs</dt>
+		<dd class="gpudb-specs-large__value">64</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Memory Size</dt>
+		<dd class="gpudb-specs-large__value">16 GB</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Memory Type</dt>
+		<dd class="gpudb-specs-large__value">GDDR6</dd>
+	</div>
+		<div class="gpudb-specs-large__entry">
+		<dt class="gpudb-specs-large__title">Bus Width</dt>
+		<dd class="gpudb-specs-large__value">128 bit</dd>
+	</div>
+	</dl>
+
+<div class="gpudb-large-image__wrapper">
+		<a class="gpudb-large-image__item" href="https://tpucdn.com/gpu-specs/images/c/4190-front.jpg" data-width="1200" data-height="731" data-fancybox="gallery">
+		<img class="gpudb-large-image__img" src="https://tpucdn.com/gpu-specs/images/c/4190-front.small.jpg" width="443" height="270" alt="Front" />
+	</a>
+	
+		<a class="gpudb-large-image__item" href="https://tpucdn.com/gpu-specs/images/g/1001-default.jpg" data-width="802" data-height="800" data-fancybox="gallery">
+		<img class="gpudb-large-image__img gpudb-large-image__img--gpu" src="https://tpucdn.com/gpu-specs/images/g/1001-default.small.jpg" width="201" height="200" alt="GPU Chip" />
+	</a>
+	</div>
+
+
+<div class="gpudb-filmstrip__wrapper">
+			<div class="gpudb-filmstrip__item gpudb-filmstrip__item--chip">
+		<a href="https://tpucdn.com/gpu-specs/images/g/1001-default.jpg" data-width="802" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/g/1001-default.small.jpg" width="201" height="200" alt="GPU Chip" />
+		</a>
+		<div class="gpudb-filmstrip__title">GPU</div>
+	</div>
+	
+			<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/c/4190-i-o.jpg" data-width="881" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/c/4190-i-o.small.jpg" width="94" height="85" alt="I/O" />
+		</a>
+
+				<div class="gpudb-filmstrip__title">I/O</div>
+	</div>
+			<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/c/4190-top.jpg" data-width="867" data-height="800" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/c/4190-top.small.jpg" width="92" height="85" alt="Top" />
+		</a>
+
+				<div class="gpudb-filmstrip__title">Top</div>
+	</div>
+			<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/c/4190-bottom.jpg" data-width="989" data-height="480" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/c/4190-bottom.small.jpg" width="175" height="85" alt="Bottom" />
+		</a>
+
+				<div class="gpudb-filmstrip__title">Bottom</div>
+	</div>
+			<div class="gpudb-filmstrip__item">
+		<a href="https://tpucdn.com/gpu-specs/images/c/4190-back.jpg" data-width="999" data-height="592" data-fancybox="gallery">
+			<img class="gpudb-filmstrip__img" src="https://tpucdn.com/gpu-specs/images/c/4190-back.small.jpg" width="143" height="85" alt="Back" />
+		</a>
+
+				<div class="gpudb-filmstrip__title">Back</div>
+	</div>
+	</div>
+
+
+
+
+<div class="gpudb-recommended-resolutions">
+	<h3 class="gpudb-recommended-resolutions__title">Recommended Gaming Resolutions:</h3>
+	<ul class="gpudb-recommended-resolutions__list">
+				<li class="gpudb-recommended-resolutions__entry gpudb-recommended-resolutions__entry--green" title="Good">
+			1920x1080
+		</li>
+				<li class="gpudb-recommended-resolutions__entry gpudb-recommended-resolutions__entry--green" title="Good">
+			2560x1440
+		</li>
+				<li class="gpudb-recommended-resolutions__entry gpudb-recommended-resolutions__entry--yellow" title="Playable">
+			3840x2160
+		</li>
+			</ul>
+</div>
+
+<div class="desc p">The Radeon RX 7600 XT is a performance-segment graphics card by AMD, launched on January 8th, 2024. Built on the 6 nm process, and based on the Navi 33 graphics processor, in its Navi 33 XT variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on Radeon RX 7600 XT. Additionally, the DirectX 12 Ultimate capability guarantees support for hardware-raytracing, variable-rate shading and more, in upcoming video games. The Navi 33 graphics processor is an average sized chip with a die area of 204 mm² and 13,300 million transistors. It features 2048 shading units, 128 texture mapping units,  and 64 ROPs. The card also has 32 raytracing acceleration cores. AMD has paired 16 GB GDDR6 memory with the Radeon RX 7600 XT, which are connected using a 128-bit memory interface. The GPU is operating at a frequency of 1980 MHz, which can be boosted up to 2755 MHz, memory is running at 2250 MHz (18 Gbps effective). <br /> Being a dual-slot card, the AMD Radeon RX 7600 XT draws power from 1x 8-pin power connector, with power draw rated at 190 W maximum. Display outputs include: 1x HDMI 2.1a, 3x DisplayPort 2.1. Radeon RX 7600 XT is connected to the rest of the system using a PCI-Express 4.0 x8 interface. The card measures 204 mm in length, 115 mm in width, and features a dual-slot cooling solution.  Its price at launch was 329 US Dollars.</div>
+
+<div class="sectioncontainer">
+		<section class="details">
+		<h2>Graphics Processor</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>GPU Name</dt>
+				<dd>
+					<a href="/gpu-specs/amd-navi-33.g1001">Navi 33</a>
+				</dd>
+			</dl>
+												<dl class="clearfix"><dt>Codename</dt><dd>Hotpink Bonefish</dd></dl>
+<dl class="clearfix">
+				<dt>GPU Variant</dt>
+				<dd>
+					Navi 33 XT
+										<br />
+					<span title="Chip code">(215-163000047)</span>
+									</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Architecture</dt>
+				<dd><a href="/gpu-specs/?architecture=RDNA+3.0&amp;sort=generation">RDNA 3.0</a></dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Foundry</dt>
+				<dd>TSMC</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Process Size</dt>
+				<dd>6 nm</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Transistors</dt>
+				<dd>13,300 million</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Density</dt>
+				<dd>65.2M / mm²</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Die Size</dt>
+				<dd>204 mm²</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Chip Package</dt>
+				<dd>Monolithic</dd>
+			</dl>
+						
+		</div>
+	</section>
+	
+	<section class="details">
+		<h2>
+			Graphics Card		</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Release Date</dt>
+				<dd>Jan 8th, 2024</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Generation</dt>
+				<dd>
+					<a href="/gpu-specs/?generation=Navi+III&amp;sort=generation">Navi III</a>
+					<br />(RX 7000)				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Predecessor</dt>
+				<dd>
+					<a href="/gpu-specs/?generation=Navi+II&amp;sort=generation">Navi II</a>
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Production</dt>
+				<dd>Active</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Launch Price</dt>
+				<dd>329 USD</dd>
+			</dl>
+												<dl class="clearfix">
+				<dt>Bus Interface</dt>
+				<dd>PCIe 4.0 x8</dd>
+			</dl>
+			
+						<dl class="clearfix">
+				<dt>Reviews</dt>
+				<dd><a href="http://www.techpowerup.com/reviewdb/Graphics-Cards/AMD/RX-7600-XT/" target="_blank">21 in our database</a> </dd>
+			</dl>
+			
+						
+		</div>
+	</section>
+
+		<section class="details jsonly gpudb-relative-performance">
+		<h2>Relative Performance</h2>
+		<div class="gpudb-relative-performance__outer">
+			<div class="gpudb-relative-performance__wrap">
+				<div class="gpudb-relative-performance__bargraph">
+										<div class="gpudb-relative-performance-entry " data-length="0.31">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2020" title="GeForce 210">GeForce 210</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.31%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">1%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.39">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1765" title="GeForce 9400 GT">GeForce 9400 GT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.39%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">1%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.48">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c232" title="Radeon HD 4550">Radeon HD 4550</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.48%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">1%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.62">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c503" title="Radeon HD 5450">Radeon HD 5450</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.62%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">2%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.73">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c402" title="Radeon HD 6450">Radeon HD 6450</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.73%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">2%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.77">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c285" title="GeForce GT 520">GeForce GT 520</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.77%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">2%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="0.95">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2246" title="GeForce GT 220">GeForce GT 220</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:0.95%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">3%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.24">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c603" title="GeForce GT 430">GeForce GT 430</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.24%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">4%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.25">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2216" title="Radeon HD 5570">Radeon HD 5570</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.25%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">4%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.36">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c234" title="Radeon HD 4670">Radeon HD 4670</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.36%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">4%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.44">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c600" title="GeForce GT 440">GeForce GT 440</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.44%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">4%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.47">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c619" title="GeForce GT 240">GeForce GT 240</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.47%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">4%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.68">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c206" title="GeForce 9600 GT">GeForce 9600 GT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.68%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">5%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.79">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c248" title="Radeon HD 5670">Radeon HD 5670</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.79%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">5%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.92">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c813" title="GeForce GT 640">GeForce GT 640</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.92%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">6%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="1.98">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c635" title="GeForce 9800 GT">GeForce 9800 GT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:1.98%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">6%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.06">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c406" title="Radeon HD 6670">Radeon HD 6670</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.06%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">6%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.13">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c282" title="Radeon HD 4830">Radeon HD 4830</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.13%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">6%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.27">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c290" title="Radeon HD 4770">Radeon HD 4770</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.27%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">7%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.40">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c493" title="Radeon HD 4850">Radeon HD 4850</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.40%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">7%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.45">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c241" title="GeForce GTS 250">GeForce GTS 250</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.45%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">7%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.52">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1778" title="GeForce GTS 450">GeForce GTS 450</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.52%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">8%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.61">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c249" title="Radeon HD 5750">Radeon HD 5750</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.61%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">8%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="2.98">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c309" title="Radeon HD 7750">Radeon HD 7750</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:2.98%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.01">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c250" title="Radeon HD 5770">Radeon HD 5770</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.01%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.06">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c217" title="GeForce GTX 260">GeForce GTX 260</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.06%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.10">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c219" title="Radeon HD 4870">Radeon HD 4870</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.10%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.10">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3042" title="Radeon Vega 8">Radeon Vega 8</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.10%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.14">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c274" title="GeForce GTX 550 Ti">GeForce GTX 550 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.14%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.16">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c894" title="GeForce GTX 650">GeForce GTX 650</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.16%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">9%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.35">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c251" title="Radeon HD 5830">Radeon HD 5830</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.35%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">10%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.52">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c283" title="Radeon HD 6790">Radeon HD 6790</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.52%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.58">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c244" title="Radeon HD 4890">Radeon HD 4890</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.58%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.71">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c265" title="GeForce GTX 460">GeForce GTX 460</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.71%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.74">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3054" title="Radeon RX Vega 11">Radeon RX Vega 11</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.74%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.78">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2954" title="GeForce GT 1030">GeForce GT 1030</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.78%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.81">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c621" title="GeForce GTX 275">GeForce GTX 275</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.81%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.82">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c308" title="Radeon HD 7770 GHz Edition">Radeon HD 7770 GHz Edition</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.82%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.83">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c216" title="GeForce GTX 280">GeForce GTX 280</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.83%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">11%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="3.90">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c266" title="GeForce GTX 465">GeForce GTX 465</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:3.90%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">12%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.09">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c255" title="Radeon HD 6850">Radeon HD 6850</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.09%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">12%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.17">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c238" title="GeForce GTX 285">GeForce GTX 285</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.17%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">12%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.47">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c252" title="Radeon HD 5850">Radeon HD 5850</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.47%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">13%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1188" title="GeForce GTX 650 Ti">GeForce GTX 650 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">14%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2100" title="Radeon HD 7790">Radeon HD 7790</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">14%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.75">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2947" title="Radeon RX 550">Radeon RX 550</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.75%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">14%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.76">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c267" title="GeForce GTX 470">GeForce GTX 470</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.76%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">14%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="4.93">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c256" title="Radeon HD 6870">Radeon HD 6870</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:4.93%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">15%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.26">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c253" title="Radeon HD 5870">Radeon HD 5870</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.26%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">16%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.43">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c273" title="GeForce GTX 560 Ti">GeForce GTX 560 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.43%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">16%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.46">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c236" title="Radeon HD 4870 X2">Radeon HD 4870 X2</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.46%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">16%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2548" title="GeForce GTX 750 Ti">GeForce GTX 750 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">17%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.58">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c405" title="Radeon HD 6950">Radeon HD 6950</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.58%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">17%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.78">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c239" title="GeForce GTX 295">GeForce GTX 295</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.78%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">17%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.85">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2059" title="GeForce GTX 650 Ti Boost">GeForce GTX 650 Ti Boost</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.85%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">18%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="5.89">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1055" title="Radeon HD 7850">Radeon HD 7850</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:5.89%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">18%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.00">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c268" title="GeForce GTX 480">GeForce GTX 480</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.00%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">18%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.27">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c258" title="Radeon HD 6970">Radeon HD 6970</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.27%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">19%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.40">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2558" title="Radeon R7 265">Radeon R7 265</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.40%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">19%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.50">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2849" title="Radeon RX 460">Radeon RX 460</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.50%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">19%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.50">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2645" title="Radeon R7 370">Radeon R7 370</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.50%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">19%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.52">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c895" title="GeForce GTX 660">GeForce GTX 660</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.52%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">20%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.54">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c269" title="GeForce GTX 570">GeForce GTX 570</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.54%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">20%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="6.65">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2940" title="Radeon RX 560">Radeon RX 560</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:6.65%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">20%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.06">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2747" title="GeForce GTX 950">GeForce GTX 950</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.06%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">21%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.12">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c339" title="Radeon HD 7870 GHz Edition">Radeon HD 7870 GHz Edition</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.12%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">21%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.30">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2466" title="Radeon R9 270X">Radeon R9 270X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.30%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">22%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.39">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c364" title="GeForce GTX 660 Ti">GeForce GTX 660 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.39%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">22%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.42">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c270" title="GeForce GTX 580">GeForce GTX 580</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.42%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">22%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.48">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2875" title="GeForce GTX 1050">GeForce GTX 1050</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.48%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">22%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.50">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c307" title="Radeon HD 7950">Radeon HD 7950</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.50%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">22%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.64">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3916" title="GeForce GTX 1630">GeForce GTX 1630</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.64%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">23%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.64">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c254" title="Radeon HD 5970">Radeon HD 5970</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.64%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">23%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="7.86">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1857" title="GeForce GTX 760">GeForce GTX 760</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:7.86%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">24%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="8.46">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c362" title="GeForce GTX 670">GeForce GTX 670</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:8.46%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">25%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="8.68">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2637" title="GeForce GTX 960">GeForce GTX 960</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:8.68%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">26%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="8.90">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2734" title="Radeon R9 380">Radeon R9 380</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:8.90%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">27%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="8.95">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2609" title="Radeon R9 285">Radeon R9 285</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:8.95%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">27%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="9.04">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c296" title="Radeon HD 7970">Radeon HD 7970</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:9.04%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">27%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="9.14">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c342" title="GeForce GTX 680">GeForce GTX 680</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:9.14%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">27%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="9.35">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2885" title="GeForce GTX 1050 Ti">GeForce GTX 1050 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:9.35%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">28%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="9.59">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1856" title="GeForce GTX 770">GeForce GTX 770</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:9.59%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">29%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="9.82">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c275" title="Radeon HD 6990">Radeon HD 6990</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:9.82%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">29%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="10.05">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2398" title="Radeon R9 280X">Radeon R9 280X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:10.05%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">30%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="10.19">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c281" title="GeForce GTX 590">GeForce GTX 590</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:10.19%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">30%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="10.20">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c365" title="Radeon HD 7970 GHz Edition">Radeon HD 7970 GHz Edition</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:10.20%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">31%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="11.30">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1701" title="GeForce GTX 780">GeForce GTX 780</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:11.30%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">34%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="11.32">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3913" title="Arc A380">Arc A380</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:11.32%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">34%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="11.47">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3813" title="Radeon RX 6400">Radeon RX 6400</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:11.47%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">34%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="11.70">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3366" title="GeForce GTX 1650">GeForce GTX 1650</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:11.70%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">35%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="12.43">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2861" title="Radeon RX 470">Radeon RX 470</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:12.43%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">37%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="12.61">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2397" title="Radeon R9 290">Radeon R9 290</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:12.61%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">38%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="13.28">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2939" title="Radeon RX 570">Radeon RX 570</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:13.28%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">40%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="13.45">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2664" title="Radeon R9 390">Radeon R9 390</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:13.45%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">40%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="13.52">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2460" title="Radeon R9 290X">Radeon R9 290X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:13.52%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">40%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="13.70">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2620" title="GeForce GTX 970">GeForce GTX 970</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:13.70%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">41%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="13.88">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c1996" title="GeForce GTX TITAN">GeForce GTX TITAN</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:13.88%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">42%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.07">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2512" title="GeForce GTX 780 Ti">GeForce GTX 780 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.07%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">42%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.27">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2663" title="Radeon R9 390X">Radeon R9 390X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.27%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">43%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.33">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2126" title="Radeon HD 7990">Radeon HD 7990</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.33%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">43%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.40">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2848" title="Radeon RX 480">Radeon RX 480</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.40%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">43%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.52">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c361" title="GeForce GTX 690">GeForce GTX 690</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.52%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">43%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="14.91">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2862" title="GeForce GTX 1060 6 GB">GeForce GTX 1060 6 GB</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:14.91%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">45%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.12">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3459" title="Radeon RX 5500 OEM">Radeon RX 5500 OEM</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.12%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">45%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.30">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2938" title="Radeon RX 580">Radeon RX 580</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.30%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">46%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.42">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3468" title="Radeon RX 5500 XT">Radeon RX 5500 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.42%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">46%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.55">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3850" title="Radeon RX 6500 XT">Radeon RX 6500 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.55%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">47%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.62">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2621" title="GeForce GTX 980">GeForce GTX 980</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.62%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">47%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.76">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3411" title="GeForce GTX 1650 SUPER">GeForce GTX 1650 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.76%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">47%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="15.82">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2736" title="Radeon R9 FURY">Radeon R9 FURY</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:15.82%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">47%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="16.53">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3322" title="Radeon RX 590">Radeon RX 590</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:16.53%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">49%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="17.40">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2523" title="Radeon R9 295X2">Radeon R9 295X2</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:17.40%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">52%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="17.50">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3365" title="GeForce GTX 1660">GeForce GTX 1660</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:17.50%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">52%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="17.70">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2677" title="Radeon R9 FURY X">Radeon R9 FURY X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:17.70%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">53%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="18.00">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2724" title="GeForce GTX 980 Ti">GeForce GTX 980 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:18.00%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">54%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="18.47">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2632" title="GeForce GTX TITAN X">GeForce GTX TITAN X</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:18.47%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">55%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="19.03">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3458" title="GeForce GTX 1660 SUPER">GeForce GTX 1660 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:19.03%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">57%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="20.09">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2840" title="GeForce GTX 1070">GeForce GTX 1070</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:20.09%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">60%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="20.09">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3364" title="GeForce GTX 1660 Ti">GeForce GTX 1660 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:20.09%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">60%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="20.41">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3858" title="GeForce RTX 3050 8 GB">GeForce RTX 3050 8 GB</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:20.41%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">61%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="21.39">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2993" title="Radeon RX Vega 56">Radeon RX Vega 56</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:21.39%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">64%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="22.68">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3010" title="GeForce GTX 1070 Ti">GeForce GTX 1070 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:22.68%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">68%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="23.02">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3474" title="Radeon RX 5600 XT">Radeon RX 5600 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:23.02%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">69%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="23.33">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2871" title="Radeon RX Vega 64">Radeon RX Vega 64</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:23.33%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">70%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="23.65">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2839" title="GeForce GTX 1080">GeForce GTX 1080</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:23.65%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">71%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="23.65">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3310" title="GeForce RTX 2060">GeForce RTX 2060</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:23.65%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">71%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="24.63">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3437" title="Radeon RX 5700">Radeon RX 5700</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:24.63%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">74%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="24.68">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3928" title="Arc A580">Arc A580</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:24.68%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">74%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="25.71">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3696" title="Radeon RX 6600">Radeon RX 6600</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:25.71%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">77%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="26.57">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3441" title="GeForce RTX 2060 SUPER">GeForce RTX 2060 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:26.57%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">79%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="26.92">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3252" title="GeForce RTX 2070">GeForce RTX 2070</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:26.92%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">81%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="26.94">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3339" title="Radeon RX 5700 XT">Radeon RX 5700 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:26.94%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">81%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="27.47">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3682" title="GeForce RTX 3060 12 GB">GeForce RTX 3060 12 GB</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:27.47%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">82%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="28.36">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3929" title="Arc A750">Arc A750</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:28.36%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">85%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="28.51">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3358" title="Radeon VII">Radeon VII</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:28.51%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">85%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="29.25">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2863" title="TITAN X Pascal">TITAN X Pascal</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:29.25%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">88%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="29.55">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3774" title="Radeon RX 6600 XT">Radeon RX 6600 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:29.55%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">88%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="30.14">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c2877" title="GeForce GTX 1080 Ti">GeForce GTX 1080 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:30.14%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">90%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="30.44">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3914" title="Arc A770">Arc A770</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:30.44%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">91%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="30.46">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3440" title="GeForce RTX 2070 SUPER">GeForce RTX 2070 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:30.46%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">91%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="32.04">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3898" title="Radeon RX 6650 XT">Radeon RX 6650 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:32.04%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">96%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="32.40">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4153" title="Radeon RX 7600">Radeon RX 7600</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:32.40%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">97%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="32.55">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4107" title="GeForce RTX 4060">GeForce RTX 4060</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:32.55%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">97%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="32.76">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3224" title="GeForce RTX 2080">GeForce RTX 2080</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:32.76%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">98%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry gpudb-relative-performance-entry--primary gpudb-relative-performance-entry--highlight" data-length="33.43">
+						<div class="gpudb-relative-performance-entry__title">
+							Radeon RX 7600 XT						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:33.43%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">100%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="34.35">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3439" title="GeForce RTX 2080 SUPER">GeForce RTX 2080 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:34.35%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">103%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="35.19">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3681" title="GeForce RTX 3060 Ti">GeForce RTX 3060 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:35.19%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">105%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="36.43">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3695" title="Radeon RX 6700 XT">Radeon RX 6700 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:36.43%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">109%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="38.66">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3879" title="Radeon RX 6750 XT">Radeon RX 6750 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:38.66%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">116%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="39.08">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3890" title="GeForce RTX 4060 Ti 8 GB">GeForce RTX 4060 Ti 8 GB</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:39.08%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">117%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="39.38">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3305" title="GeForce RTX 2080 Ti">GeForce RTX 2080 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:39.38%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">118%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="41.21">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3674" title="GeForce RTX 3070">GeForce RTX 3070</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:41.21%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">123%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="44.09">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3675" title="GeForce RTX 3070 Ti">GeForce RTX 3070 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:44.09%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">132%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="44.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3911" title="Radeon RX 7700 XT">Radeon RX 7700 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:44.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">133%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="45.42">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3713" title="Radeon RX 6800">Radeon RX 6800</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:45.42%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">136%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="50.33">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3924" title="GeForce RTX 4070">GeForce RTX 4070</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:50.33%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">151%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="51.59">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3694" title="Radeon RX 6800 XT">Radeon RX 6800 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:51.59%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">154%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="53.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3621" title="GeForce RTX 3080">GeForce RTX 3080</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:53.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">160%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="54.09">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3839" title="Radeon RX 7800 XT">Radeon RX 7800 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:54.09%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">162%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="55.59">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3481" title="Radeon RX 6900 XT">Radeon RX 6900 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:55.59%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">166%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="58.38">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4186" title="GeForce RTX 4070 SUPER">GeForce RTX 4070 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:58.38%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">175%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="59.50">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4166" title="Radeon RX 7900 GRE">Radeon RX 7900 GRE</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:59.50%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">178%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="59.99">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3735" title="GeForce RTX 3080 Ti">GeForce RTX 3080 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:59.99%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">179%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="60.07">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3875" title="Radeon RX 6950 XT">Radeon RX 6950 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:60.07%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">180%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="61.12">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3622" title="GeForce RTX 3090">GeForce RTX 3090</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:61.12%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">183%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="62.66">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3950" title="GeForce RTX 4070 Ti">GeForce RTX 4070 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:62.66%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">187%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="68.45">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4187" title="GeForce RTX 4070 Ti SUPER">GeForce RTX 4070 Ti SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:68.45%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">205%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="70.30">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3912" title="Radeon RX 7900 XT">Radeon RX 7900 XT</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:70.30%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">210%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="70.90">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3829" title="GeForce RTX 3090 Ti">GeForce RTX 3090 Ti</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:70.90%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">212%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="79.60">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3888" title="GeForce RTX 4080">GeForce RTX 4080</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:79.60%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">238%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="80.79">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c4182" title="GeForce RTX 4080 SUPER">GeForce RTX 4080 SUPER</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:80.79%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">242%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="81.56">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3941" title="Radeon RX 7900 XTX">Radeon RX 7900 XTX</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:81.56%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">244%</div>
+					</div>
+										<div class="gpudb-relative-performance-entry " data-length="100.00">
+						<div class="gpudb-relative-performance-entry__title">
+							<a class="gpudb-relative-performance-entry__link" href="/gpu-specs/details.c3889" title="GeForce RTX 4090">GeForce RTX 4090</a>						</div>
+						<div class="gpudb-relative-performance-bar__wrapper"><div class="gpudb-relative-performance-bar" style="width:100.00%"></div></div>
+						<div class="gpudb-relative-performance-entry__number">299%</div>
+					</div>
+									</div>
+			</div>
+		</div>
+		<div class="gpudb-relative-performance__explain">
+			Based on TPU review data: "Performance Summary" at 1920x1080, 4K for 2080 Ti and faster.
+					</div>
+
+		<script>
+			loadjs.ready(['jquery'], function() {
+				var wrap=$('.gpudb-relative-performance__wrap');
+				var parent=$('.gpudb-relative-performance__bargraph');
+				var item=$('.gpudb-relative-performance-entry--primary');
+
+				var pos=wrap.scrollTop()+item.position().top-wrap.height()/2+item.height()/2;
+				wrap.scrollTop(pos);
+
+				var topItem=item.clone();
+				topItem.removeClass('gpudb-relative-performance-entry--primary').addClass('gpudb-relative-performance-entry--top').appendTo(wrap.parent()).hide();
+				var bottomItem=item.clone();
+				bottomItem.removeClass('gpudb-relative-performance-entry--primary').addClass('gpudb-relative-performance-entry--bottom').appendTo(wrap.parent()).hide();
+
+				function debounce(func, wait, immediate) {
+					var timeout;
+					return function() {
+						var context = this, args = arguments;
+						var later = function() {
+							timeout = null;
+							if (!immediate) func.apply(context, args);
+						};
+						var callNow = immediate && !timeout;
+						clearTimeout(timeout);
+						timeout = setTimeout(later, wait);
+						if (callNow) func.apply(context, args);
+					};
+				};
+
+				wrap.on('scroll', debounce(function() {
+					if ((item.position().top<0) && ($(window).width()>500))
+						topItem.show();
+					else
+						topItem.hide();
+
+					if ((item.position().top>0) && (item.position().top>wrap.height()) && ($(window).width()>500))
+						bottomItem.show();
+					else
+						bottomItem.hide();
+
+					var longest=0;
+					var wrapHeight=wrap.height();
+					$('.gpudb-relative-performance-entry').each(function(i, e) {
+						var el=$(e);
+						if ((el.position().top>0) && (el.position().top<wrapHeight))
+							longest=el.data('length');
+					});
+					var factor=100/longest;
+					$('.gpudb-relative-performance-entry').each(function(i, e) {
+						var el=$(e);
+						var length=el.data('length')*factor;
+						el.find('.bar').css('width', length+"%");
+					});
+				}, 15));
+
+				// Emulate scroll snaps if not supported
+				if (!('scroll-snap-type' in document.body.style)) {
+					var timeout=0;
+					wrap.on('scroll', debounce(function() {
+						if (timeout!=0)
+							clearTimeout(timeout);
+						timeout=setTimeout(function() {
+							var size=item.outerHeight();
+							var delta=wrap.scrollTop()%size;
+							if (delta>size/2)
+								delta=delta-size;
+							wrap.animate({ scrollTop: wrap.scrollTop()-delta }, 100);
+						}, 500);
+					}, 50));
+				}
+			});
+		</script>
+	</section>
+	
+	<section class="details">
+		<h2>Clock Speeds</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Base Clock</dt>
+				<dd>1980 MHz</dd>
+			</dl>
+									<dl class="clearfix"><dt>Game Clock</dt><dd>2470 MHz</dd></dl>
+<dl class="clearfix">
+				<dt>Boost Clock</dt>
+				<dd>2755 MHz</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Memory Clock</dt>
+				<dd>
+					2250 MHz
+										<br />
+					18 Gbps effective
+									</dd>
+			</dl>
+			
+		</div>
+	</section>
+
+	
+	<section class="details">
+		<h2>Memory</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Memory Size</dt>
+				<dd >
+					16 GB
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Memory Type</dt>
+				<dd>GDDR6</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Memory Bus</dt>
+				<dd >
+					128 bit
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Bandwidth</dt>
+				<dd >
+					288.0 GB/s
+				</dd>
+			</dl>
+			
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Render Config</h2>
+		<div>
+												<dl class="clearfix">
+				<dt>Shading Units</dt>
+				<dd >
+					2048
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>TMUs</dt>
+				<dd >
+					128
+				</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>ROPs</dt>
+				<dd >
+					64
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Compute Units</dt>
+				<dd >
+					32
+				</dd>
+			</dl>
+												<dl class="clearfix">
+				<dt>RT Cores</dt>
+				<dd >
+					32
+				</dd>
+			</dl>
+												<dl class="clearfix"><dt>L0 Cache</dt><dd>32 KB per WGP</dd></dl>
+<dl class="clearfix"><dt>L1 Cache</dt><dd>128 KB per Array</dd></dl>
+<dl class="clearfix">
+				<dt>L2 Cache</dt>
+				<dd >
+					2 MB
+				</dd>
+			</dl>
+						<dl class="clearfix"><dt>L3 Cache</dt><dd>32 MB</dd></dl>
+
+		</div>
+	</section>
+
+	<section class="details">
+		<h2>Theoretical Performance</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>Pixel Rate</dt>
+				<dd >
+					176.3 GPixel/s
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>Texture Rate</dt>
+				<dd >
+					352.6 GTexel/s
+				</dd>
+			</dl>
+						<dl class="clearfix">
+				<dt>FP16 (half)</dt>
+				<dd >
+					45.14 TFLOPS <span title="Ratio of FP16 performance compared to single-precision FP32 performance">(2:1)</span>
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>FP32 (float)</dt>
+				<dd >
+					22.57 TFLOPS
+				</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>FP64 (double)</dt>
+				<dd >
+					705.3 GFLOPS <span title="Ratio of FP64 performance compared to single-precision FP32 performance">(1:32)</span>
+				</dd>
+			</dl>
+						
+		</div>
+	</section>
+
+		<section class="details">
+		<h2>Board Design</h2>
+		<div>
+												<dl class="clearfix">
+				<dt>Slot Width</dt>
+				<dd>Dual-slot</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Length</dt>
+				<dd>204 mm<br />
+					8 inches</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Width</dt>
+				<dd>115 mm<br />
+					4.5 inches</dd>
+			</dl>
+												<dl class="clearfix">
+				<dt>TDP</dt>
+				<dd>190 W</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Suggested PSU</dt>
+				<dd>450 W</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Outputs</dt>
+				<dd>1x HDMI 2.1a<br />3x DisplayPort 2.1</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Power Connectors</dt>
+				<dd>1x 8-pin</dd>
+			</dl>
+												
+		</div>
+	</section>
+	
+	<section class="details">
+		<h2>Graphics Features</h2>
+		<div>
+									<dl class="clearfix">
+				<dt>DirectX</dt>
+				<dd>12 Ultimate <span title="DirectX Feature Level">(12_2)</span></dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenGL</dt>
+				<dd>
+										4.6
+									</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>OpenCL</dt>
+				<dd>2.2</dd>
+			</dl>
+			<dl class="clearfix">
+				<dt>Vulkan</dt>
+				<dd>1.3</dd>
+			</dl>
+									<dl class="clearfix">
+				<dt>Shader Model</dt>
+				<dd>6.7</dd>
+			</dl>
+									
+		</div>
+	</section>
+
+	
+	
+		<section class="details notes">
+		<h2>Navi 33 GPU Notes</h2>
+		<table>
+			<tr>
+				<td class="p">Generation: Navi III<br />
+Codename: Hotpink Bonefish<br />
+Ray Tracing Cores: 2nd Gen<br />
+Infinity Cache: 2nd Gen<br />
+Graphics/Compute: 11.0.2<br />
+Shader ISA: GFX11.0 (gfx1102)<br />
+Display Core Next: 3.2.1<br />
+Video Core Next: 4.0.4<br />
+System DMA: 6.0.2<br />
+<br />
+Per SIMD32:<br />
+- 10 KB Scalar Register File<br />
+<br />
+Per CU:<br />
+- 16 KB Vector Data Cache<br />
+- 64 KB Local Data Share (GCN-Mode)<br />
+<br />
+Per WGP:<br />
+- 16 KB Scalar Data Cache / K Cache<br />
+- 32 KB Instruction Cache<br />
+- 128 KB Local Data Share</td>
+			</tr>
+		</table>
+	</section>
+	
+		<section class="details customboards" id="boards">
+		<h2>
+						Retail boards
+				 based on this design (10)</h2>
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>GPU Clock</th>
+					<th>Boost Clock</th>					<th>Memory Clock</th>
+					<th>Other Changes</th>
+				</tr>
+			</thead>
+			<tbody>
+												<tr class="">
+					<td data-sort="asrock rx 7600 xt challenger oc" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/asrock-rx-7600-xt-challenger-oc.b11670">ASRock RX 7600 XT Challenger OC</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11670-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="1980" class="unchanged" title="unchanged">1980 MHz</td>
+					<td data-sort="2799" >2799 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>267 mm/10.5 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="asrock rx 7600 xt steel legend oc" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/asrock-rx-7600-xt-steel-legend-oc.b11667">ASRock RX 7600 XT Steel Legend OC</a>
+								
+															</div>
+
+														<a href="https://www.techpowerup.com/review/asrock-radeon-rx-7600-xt-steel-legend/" target="_blank" class="board-review-by-tpu" title="Reviewed by TechPowerUp"></a>
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11667-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>304 mm/12 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="asus dual rx 7600 xt oc" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/asus-dual-rx-7600-xt-oc.b11499">ASUS DUAL RX 7600 XT OC</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11499-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="1980" class="unchanged" title="unchanged">1980 MHz</td>
+					<td data-sort="2781" >2781 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>227 mm/8.9 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="asus tuf rx 7600 xt gaming oc" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/asus-tuf-rx-7600-xt-gaming-oc.b11498">ASUS TUF RX 7600 XT GAMING OC</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11498-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>300 mm/11.8 inches, Triple-slot</td>
+				</tr>
+												<tr class="">
+					<td data-sort="gigabyte rx 7600 xt gaming oc" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/gigabyte-rx-7600-xt-gaming-oc.b11482">GIGABYTE RX 7600 XT GAMING OC</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11482-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>281 mm/11.1 inches, Triple-slot, 2x HDMI 2x DisplayPort</td>
+				</tr>
+												<tr class="">
+					<td data-sort="powercolor fighter rx 7600 xt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/powercolor-fighter-rx-7600-xt.b11673">PowerColor Fighter RX 7600 XT</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11673-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="1980" class="unchanged" title="unchanged">1980 MHz</td>
+					<td data-sort="2755" class="unchanged" title="unchanged">2755 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>217 mm/8.5 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="powercolor hellhound rx 7600 xt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/powercolor-hellhound-rx-7600-xt.b11672">PowerColor Hellhound RX 7600 XT</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11672-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>220 mm/8.7 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="sapphire pulse rx 7600 xt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/sapphire-pulse-rx-7600-xt.b11669">Sapphire PULSE RX 7600 XT</a>
+								
+															</div>
+
+														<a href="https://www.techpowerup.com/review/sapphire-radeon-rx-7600-xt-pulse/" target="_blank" class="board-review-by-tpu" title="Reviewed by TechPowerUp"></a>
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11669-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>250 mm/9.8 inches, 2x HDMI 2x DisplayPort, 192 W</td>
+				</tr>
+												<tr class="">
+					<td data-sort="xfx speedster qick309 rx 7600 xt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/xfx-speedster-qick309-rx-7600-xt.b11668">XFX Speedster QICK309 RX 7600 XT</a>
+								
+															</div>
+
+														<a href="https://www.techpowerup.com/review/xfx-radeon-rx-7600-xt-qick-309/" target="_blank" class="board-review-by-tpu" title="Reviewed by TechPowerUp"></a>
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11668-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="2029" >2029 MHz</td>
+					<td data-sort="2810" >2810 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>302 mm/11.9 inches</td>
+				</tr>
+												<tr class="">
+					<td data-sort="xfx speedster swft210 rx 7600 xt" class="has-image">
+						<div class="board-table-title">
+							<div class="board-table-title__inner">
+																<a href="/gpu-specs/xfx-speedster-swft210-rx-7600-xt.b11671">XFX Speedster SWFT210 RX 7600 XT</a>
+								
+															</div>
+
+							
+														<img src="https://tpucdn.com/gpu-specs/images/b/11671-front.tiny.jpg" loading="lazy" alt="" />
+													</div>
+					</td>
+					<td data-sort="1980" class="unchanged" title="unchanged">1980 MHz</td>
+					<td data-sort="2755" class="unchanged" title="unchanged">2755 MHz</td>					<td data-sort="2250" class="unchanged" title="unchanged">2250 MHz</td>
+					<td>272 mm/10.7 inches</td>
+				</tr>
+							</tbody>
+		</table>
+	</section>
+
+	<script>
+		loadjs.ready(['jquery'], function() {
+			function resort(idx, inverse) {
+				$('.customboards').find('td').filter(function() {
+					return $(this).index() == idx;
+				}).sortElementsTPU(function(a, b) {
+
+					if( $(a).data('sort') == $(b).data('sort') )
+						return 0;
+
+					return $(a).data('sort') > $(b).data('sort') ? inverse ? -1 : 1 : inverse ? 1 : -1;
+				}, function() {
+					return this.parentNode;
+				});
+			}
+
+			$('.customboards th').eq(0).css('cursor', 'pointer').on('click', function(e) {
+				$('.customboards th').removeClass('sort-key');
+				$(this).addClass('sort-key');
+				resort(0, false);
+			});
+			$('.customboards th').eq(1).css('cursor', 'pointer').on('click', function(e) {
+				$('.customboards th').removeClass('sort-key');
+				$(this).addClass('sort-key');
+				resort(1, true);
+			});
+			$('.customboards th').eq(2).css('cursor', 'pointer').on('click', function(e) {
+				$('.customboards th').removeClass('sort-key');
+				$(this).addClass('sort-key');
+				resort(2, true);
+			});
+			$('.customboards th').eq(3).css('cursor', 'pointer').on('click', function(e) {
+				$('.customboards th').removeClass('sort-key');
+				$(this).addClass('sort-key');
+				resort(3, true);
+			});
+			$('.customboards th').eq(0).trigger('click');
+		});
+
+				loadjs.ready(['jquery', 'masonry'], function() {
+			$.post('/_fetch-creative?src=gpudb').then(function(f) {
+				if (typeof f.result!=='undefined') {
+					var div = $('<div style="display:flex; justify-content:center; padding: 5px 0px 5px 0px">'+f.result+'</div>');
+					div.find('img').css('max-width', '100%').css('display', 'block');
+					$('#boards h2').after(div);
+					setTimeout(function() { $('.sectioncontainer').masonry('layout'); }, 500);
+				}
+			});
+		});
+			</script>
+	</div>
+
+				</div>
+
+				<div class="s-">
+					<label for="s--check" class="s--toggle-button" title="Close" onclick=""></label>
+
+					<div class="s--item s--time">
+						<span class="s--time__cur">Apr 9th, 2024 19:56 KST</span>
+ 						<a class="s--time__link" href="#">change timezone</a>
+					</div>
+					<script>
+						loadjs.ready(['jquery', 'popup'], function() {
+							$('.s--time__cur, .s--time__link').on('click', function(e) {
+								e.preventDefault();
+								popup.ShowAJAX('Please select your timezone', '/set-timezone', { width:455 });
+							});
+						});
+					</script>
+
+					<div class="s--item s--search">
+						<form class="s--search__form" action="/srch?">
+							<input class="s--search__input" type="text" placeholder="Search TechPowerUp" name="search1" autocomplete="off" />
+							<input class="s--search__submit" type="submit" value="" />
+													</form>
+					</div>
+
+										<article class="s--item s--login">
+						<a href="/forums/login">Sign in</a> / <a href="/forums/register">Register</a>
+					</article>
+					
+					<div class="s--item s--drivers">
+<div>
+	<h1 class="s--item__heading">Latest&nbsp;GPU Drivers</h1>
+
+	<div>
+	<ul class="s--drivers__list">
+		<li><a class="s--drivers__driver s--drivers__driver--nvidia" href="/download/nvidia-geforce-graphics-drivers/">NVIDIA GeForce 552.12 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--amd" href="/download/amd-radeon-graphics-drivers/">AMD Radeon 24.3.1 WHQL </a></li>
+		<li><a class="s--drivers__driver s--drivers__driver--intel" href="/download/intel-integrated-graphics-drivers/">Intel Arc &amp; IGP 101.5382 WHQL </a>
+		</li>
+	</ul>
+	</div>
+</div>
+</div>
+
+					<div br-cls class="s--item"><div class="no-ad-found"></div><span class="ff53177bd5dff2a9be35974963d92596"></span></div>
+
+					<article class="s--item s--newposts">
+	<h1 class="s--item__heading">New Forum Posts</h1>
+	<ul class="s--newposts__list">
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T10:53:16+0000">19:53</time>
+				by
+				<span class="s--newposts__username">MattyDee87</span>
+			</div>
+			<a href="/forums/threads/any-utility-for-desktop.321317/unread">Any utility for desktop</a> (<span class="s--newposts__replycount">0</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T10:47:52+0000">19:47</time>
+				by
+				<span class="s--newposts__username">chrcoluk</span>
+			</div>
+			<a href="/forums/threads/is-it-the-1080-ti-the-best-gpu-ever.321260/unread">Is It The 1080 TI The Best GPU Ever?</a> (<span class="s--newposts__replycount">148</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T10:47:44+0000">19:47</time>
+				by
+				<span class="s--newposts__username">#22</span>
+			</div>
+			<a href="/forums/threads/the-10-year-plan-computer.320766/unread">The 10 year plan computer</a> (<span class="s--newposts__replycount">233</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T10:00:17+0000">19:00</time>
+				by
+				<span class="s--newposts__username">Marcus Vinicus</span>
+			</div>
+			<a href="/forums/threads/gravitymark-v1-82-gpu-benchmark.283466/unread">GravityMark v1.82 GPU Benchmark</a> (<span class="s--newposts__replycount">256</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:57:54+0000">18:57</time>
+				by
+				<span class="s--newposts__username">Blaeza</span>
+			</div>
+			<a href="/forums/threads/logitech-g-pro-xs-picking-up-game-audio-but-not-hearing-me.321315/unread">Logitech G-Pro X&#039;s picking up game audio but not hearing me</a> (<span class="s--newposts__replycount">0</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:50:08+0000">18:50</time>
+				by
+				<span class="s--newposts__username">micropage7</span>
+			</div>
+			<a href="/forums/threads/what-is-your-opinion-in-segotep-1000w-power-supply.320871/unread">What is your opinion in Segotep 1000W Power Supply</a> (<span class="s--newposts__replycount">23</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:45:08+0000">18:45</time>
+				by
+				<span class="s--newposts__username">Gameslove</span>
+			</div>
+			<a href="/forums/threads/4k-gamers-how-much-vram-do-you-have.320233/unread">4K Gamers, How much VRAM do you have?</a> (<span class="s--newposts__replycount">116</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:43:44+0000">18:43</time>
+				by
+				<span class="s--newposts__username">Chomiq</span>
+			</div>
+			<a href="/forums/threads/anime-nation.51327/unread">Anime Nation</a> (<span class="s--newposts__replycount">12771</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:42:30+0000">18:42</time>
+				by
+				<span class="s--newposts__username">micropage7</span>
+			</div>
+			<a href="/forums/threads/qiyida-x99-m9-motherboard-does-not-recognize-my-rx570.321291/unread">Qiyida x99 M9 motherboard does not recognize my rx570</a> (<span class="s--newposts__replycount">7</span>)
+		</li>
+				<li>
+			<div class="s--newposts__byline">
+				<time class="s--newposts__time" datetime="2024-04-09T09:06:45+0000">18:06</time>
+				by
+				<span class="s--newposts__username">Taraquin</span>
+			</div>
+			<a href="/forums/threads/asus-4070-dual-oc-repaste-results.320153/unread">Asus 4070 dual oc repaste results</a> (<span class="s--newposts__replycount">30</span>)
+		</li>
+			</ul>
+</article>
+
+
+					<div br-cls class="s--item"><div class="no-ad-found"></div><span class="ff53177bd5dff2a9be35974963d92596"></span></div>
+
+					<article class="s--item s--top-rev-s">
+	<h1 class="s--item__heading">Popular Reviews</h1>
+	<ul class="s--top-rev-s__list">
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-23T22:56:00+0000">Mar 23rd, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/horizon-forbidden-west-performance-benchmark/">Horizon Forbidden West Performance Benchmark Review - 30 GPUs Tested</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-22T17:58:00+0000">Mar 22nd, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/powercolor-radeon-rx-7900-gre-hellhound/">PowerColor Radeon RX 7900 GRE Hellhound Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-14T14:58:00+0000">Mar 14th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/intel-core-i9-14900ks/">Intel Core i9-14900KS Review - The Last of its Kind</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-19T18:14:00+0000">Mar 19th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/galax-geforce-rtx-4070-super-ex/">Galax GeForce RTX 4070 Super EX Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-04-01T16:31:00+0000">Apr 1st, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/fractal-design-terra/">Fractal Design Terra Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-15T20:42:39+0000">Mar 15th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/crucial-t500-2-tb/">Crucial T500 2 TB Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-28T15:59:00+0000">Mar 28th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/minisforum-elitemini-um780-xtx-amd-ryzen-7840/">Minisforum EliteMini UM780 XTX (AMD Ryzen 7 7840HS) Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2023-09-19T13:01:00+0000">Sep 19th, 2023</time>
+			<a class="s--top-rev-s__link" href="/review/asus-geforce-rtx-4090-matrix-platinum/">ASUS GeForce RTX 4090 Matrix Platinum Review - The RTX 4090 Ti</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-03-26T18:52:00+0000">Mar 26th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/creative-pebble-x-plus/">Creative Pebble X Plus Review</a>
+		</li>
+				<li>
+			<time class="s--top-rev-s__date" datetime="2024-02-12T16:26:00+0000">Feb 12th, 2024</time>
+			<a class="s--top-rev-s__link" href="/review/future-hardware-releases/">Upcoming Hardware Launches 2023 (Updated Feb 2024)</a>
+		</li>
+			</ul>
+</article>
+
+
+										<article class="s--item s--top-news">
+	<h1 class="s--item__heading">Controversial News Posts</h1>
+	<ul class="s--top-news__list">
+				<li>
+			<a class="s--top-news__link" href="/320188/intel-core-i9-14900ks-pricing-confirmed-to-be-usd-749">Intel Core i9-14900KS Pricing Confirmed to be $749</a>
+			(<span class="s--top-news__replycount">103</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/321108/us-government-wants-nuclear-plants-to-offload-ai-data-center-expansion">US Government Wants Nuclear Plants to Offload AI Data Center Expansion</a>
+			(<span class="s--top-news__replycount">98</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/320990/developers-of-outpost-infinity-siege-recommend-underclocking-i9-13900k-and-i9-14900k-for-stability-on-machines-with-rtx-4090">Developers of Outpost Infinity Siege Recommend Underclocking i9-13900K and i9-14900K for Stability on Machines with RTX 4090</a>
+			(<span class="s--top-news__replycount">79</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/321170/windows-10-security-updates-to-cost-usd-61-after-2025-usd-427-by-2028">Windows 10 Security Updates to Cost $61 After 2025, $427 by 2028</a>
+			(<span class="s--top-news__replycount">77</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/321095/intel-realizes-the-only-way-to-save-x86-is-to-democratize-it-reopens-x86-ip-licensing">Intel Realizes the Only Way to Save x86 is to Democratize it, Reopens x86 IP Licensing</a>
+			(<span class="s--top-news__replycount">70</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/320410/us-government-to-announce-massive-grant-for-intels-arizona-facility">US Government to Announce Massive Grant for Intel&#039;s Arizona Facility</a>
+			(<span class="s--top-news__replycount">66</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/321201/amd-zen-5-execution-engine-leaked-features-true-512-bit-fpu">AMD Zen 5 Execution Engine Leaked, Features True 512-bit FPU</a>
+			(<span class="s--top-news__replycount">62</span>)
+		</li>
+				<li>
+			<a class="s--top-news__link" href="/320281/qubic-cryptocurrency-mining-craze-causes-amd-ryzen-9-7950x-stocks-to-evaporate">Qubic Cryptocurrency Mining Craze Causes AMD Ryzen 9 7950X Stocks to Evaporate</a>
+			(<span class="s--top-news__replycount">61</span>)
+		</li>
+			</ul>
+</article>
+
+									</div>
+				
+			</div>
+
+			<div class="page-is-loading"></div>
+
+			<footer class="site-footer">
+				Copyright &copy; 2004-2024 www.techpowerup.com.<br class="site-footer__break">
+				All rights reserved.<br>
+				All trademarks used are properties of their respective owners.
+			</footer>
+
+					</div>
+
+		<script>
+    
+        loadjs.ready(['jquery'], function() {
+        if ($(window).width()>=900)
+            return;
+
+        var $b=$('[br-cls]');
+        var $b1=$b.eq(0);
+        var $b2=$b.eq(1);
+                                                    if ($('.desc').length>0)
+            $b1.insertBefore('.desc');
+        else
+            $b1.insertBefore('.sectioncontainer');
+        $b2.wrap('<div style="width:100%"></div>').parent().insertBefore('.sectioncontainer .details:nth-child(4)');
+                
+    });
+    </script>
+		  		<script>
+		  	var f = function() {
+				window.ga = function () { ga.q.push(arguments) };
+				ga.q = [];
+				ga.l = +new Date;
+
+				ga('create', 'UA-5304621-1', { 'siteSpeedSampleRate': 100 });
+				ga('set', 'transport', 'beacon');
+				ga('set', 'anonymizeIp', true);
+				ga('send', 'timing', 'Page', 'Gen', 18.4);
+				ga('send', 'pageview');
+
+				loadjs(["https://tpucdn.com/js/ga-v1712572526641.js"], 'ga');
+			};
+
+			if ('requestIdleCallback' in window)
+				requestIdleCallback(f, { timeout: 5000 });
+			else
+				f();
+  		</script>
+
+		<script>
+			/* Fix for jumping scrollbar, to only target Windows systems */
+			loadjs.ready(['jquery'], function() {
+				if (navigator.platform=='Win32')
+					return;
+				$('html').addClass('disable-scrollbar-fix');
+			});
+		</script>
+
+		
+		
+				<script>
+			loadjs.ready(['jquery'], function() {
+				var url = '/__botcheck';
+var req = '17667021'
+
+function B(){var P=['\x57\x35\x56\x64\x52\x33\x43\x75\x6f\x6d\x6b\x56\x57\x52\x2f\x63\x4f\x68\x44\x57\x57\x35\x68\x64\x52\x38\x6f\x37\x6a\x61','\x41\x67\x76\x50\x7a\x32\x48\x30','\x44\x32\x4c\x4b\x44\x67\x47','\x73\x43\x6f\x79\x44\x4e\x64\x64\x47\x47','\x6b\x63\x47\x4f\x6c\x49\x53\x50\x6b\x59\x4b\x52\x6b\x73\x53\x4b','\x6d\x74\x62\x55\x76\x32\x7a\x55\x76\x77\x4b','\x64\x53\x6f\x6b\x62\x43\x6f\x48\x57\x34\x57\x37\x57\x50\x6c\x64\x55\x47','\x79\x4e\x72\x56\x79\x71','\x74\x53\x6f\x64\x57\x52\x69\x46\x43\x71','\x6e\x6d\x6f\x42\x61\x57','\x6e\x4a\x4b\x59\x41\x4e\x72\x79\x44\x4e\x7a\x34','\x57\x35\x37\x64\x4f\x4c\x76\x67\x57\x4f\x2f\x63\x4c\x38\x6b\x4b\x57\x51\x43','\x57\x37\x5a\x63\x55\x6d\x6f\x4e\x6f\x53\x6b\x54\x45\x71','\x57\x51\x4b\x4a\x41\x47','\x6f\x68\x6e\x75\x7a\x65\x66\x77\x72\x71','\x6d\x4a\x61\x32\x6e\x5a\x79\x33\x6e\x74\x7a\x6e\x44\x31\x50\x41\x42\x32\x34','\x57\x36\x44\x31\x42\x38\x6f\x4c\x65\x53\x6f\x5a\x43\x43\x6b\x61','\x57\x35\x33\x63\x4b\x43\x6b\x34\x57\x35\x4c\x79\x63\x38\x6f\x73\x6b\x53\x6f\x32\x70\x38\x6b\x69\x57\x51\x53','\x77\x67\x76\x7a\x45\x77\x79','\x57\x34\x42\x63\x4e\x6d\x6b\x54\x57\x34\x30\x4f','\x43\x38\x6b\x6d\x71\x38\x6b\x37\x70\x38\x6f\x2f\x67\x38\x6b\x79\x57\x50\x62\x2b\x57\x51\x6a\x75\x65\x57','\x57\x35\x2f\x63\x4f\x4c\x6e\x39\x44\x64\x65','\x78\x59\x6a\x65\x57\x4f\x42\x63\x4f\x43\x6b\x30\x61\x31\x6d\x71','\x6d\x5a\x76\x53\x77\x77\x66\x58\x43\x67\x79','\x74\x33\x4c\x51\x57\x50\x79\x68\x57\x52\x62\x2f\x68\x38\x6b\x39\x57\x36\x42\x63\x4e\x43\x6b\x63\x66\x47','\x44\x68\x6e\x53','\x43\x32\x76\x48\x43\x4d\x6e\x4f','\x42\x67\x76\x55\x7a\x33\x72\x4f','\x73\x65\x72\x31\x79\x30\x4f','\x6f\x74\x6d\x31\x6e\x64\x4b\x32\x6d\x77\x6e\x73\x41\x77\x35\x51\x74\x61','\x7a\x43\x6b\x42\x71\x38\x6b\x66\x57\x52\x79\x57\x57\x50\x34','\x6f\x64\x69\x34\x6e\x64\x4b\x34\x44\x68\x4c\x6e\x45\x68\x48\x76','\x57\x35\x43\x4f\x57\x36\x2f\x63\x53\x77\x35\x59\x57\x4f\x62\x55','\x44\x67\x39\x74\x44\x68\x6a\x50\x42\x4d\x43','\x74\x4e\x35\x4f\x57\x50\x30\x66\x57\x52\x4c\x2f\x6e\x38\x6b\x35\x57\x37\x42\x63\x54\x43\x6b\x47\x6f\x57','\x57\x36\x31\x4b\x57\x51\x46\x64\x54\x67\x68\x64\x4b\x72\x4c\x70\x57\x34\x78\x63\x4d\x43\x6f\x33','\x57\x4f\x78\x64\x56\x62\x43\x6d\x77\x64\x52\x63\x53\x68\x44\x41','\x57\x35\x75\x68\x57\x35\x7a\x44\x73\x66\x39\x68\x57\x35\x68\x64\x4b\x71','\x57\x51\x34\x59\x57\x37\x78\x63\x51\x59\x46\x64\x53\x57\x39\x75','\x57\x35\x61\x54\x72\x38\x6b\x6e\x65\x64\x37\x63\x54\x53\x6b\x47\x46\x71','\x7a\x43\x6f\x42\x6a\x53\x6b\x76\x57\x51\x65\x78\x57\x50\x4c\x2b\x61\x47','\x57\x35\x6d\x32\x72\x53\x6b\x71','\x44\x63\x35\x54\x57\x37\x46\x64\x4b\x4d\x30\x2b\x6a\x57','\x6e\x64\x75\x5a\x6f\x74\x61\x34\x6e\x75\x50\x49\x45\x68\x50\x4c\x71\x47','\x6d\x74\x6e\x62\x7a\x4e\x66\x54\x43\x65\x75','\x73\x43\x6f\x70\x57\x50\x43\x34\x71\x4d\x44\x70\x57\x36\x34','\x41\x43\x6f\x7a\x57\x51\x4b\x62\x57\x51\x65'];B=function(){return P;};return B();}var r=i,u=i,d=i,l=D,y=D,Q=D;(function(c,J){var e=i,M=i,R=i,j=D,A=D,U=D,z=c();while(!![]){try{var K=parseInt(j(0xc5,'\x26\x36\x73\x28'))/0x1*(parseInt(A(0xc8,'\x4e\x69\x71\x4a'))/0x2)+-parseInt(j(0xca,'\x47\x28\x2a\x56'))/0x3*(parseInt(j(0xbb,'\x32\x6c\x5d\x42'))/0x4)+parseInt(e(0xd0))/0x5+-parseInt(U(0xe5,'\x68\x44\x6d\x56'))/0x6*(parseInt(e(0xbc))/0x7)+parseInt(A(0xc3,'\x28\x4e\x4f\x6a'))/0x8*(-parseInt(j(0xc7,'\x44\x45\x33\x23'))/0x9)+parseInt(A(0xe4,'\x43\x4c\x40\x51'))/0xa*(-parseInt(M(0xc2))/0xb)+parseInt(j(0xd4,'\x32\x38\x45\x23'))/0xc*(parseInt(M(0xd1))/0xd);if(K===J)break;else z['push'](z['shift']());}catch(s){z['push'](z['shift']());}}}(B,0x835fe));function D(h,p){var i=B();return D=function(c,J){c=c-0xb9;var z=i[c];if(D['\x75\x76\x54\x79\x65\x66']===undefined){var K=function(f){var N='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';var E='',g='',S=E+K;for(var Y=0x0,C,I,a=0x0;I=f['\x63\x68\x61\x72\x41\x74'](a++);~I&&(C=Y%0x4?C*0x40+I:I,Y++%0x4)?E+=S['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](a+0xa)-0xa!==0x0?String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&C>>(-0x2*Y&0x6)):Y:0x0){I=N['\x69\x6e\x64\x65\x78\x4f\x66'](I);}for(var L=0x0,X=E['\x6c\x65\x6e\x67\x74\x68'];L<X;L++){g+='\x25'+('\x30\x30'+E['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](L)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(g);};var F=function(f,N){var E=[],g=0x0,S,Y='';f=K(f);var C;for(C=0x0;C<0x100;C++){E[C]=C;}for(C=0x0;C<0x100;C++){g=(g+E[C]+N['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](C%N['\x6c\x65\x6e\x67\x74\x68']))%0x100,S=E[C],E[C]=E[g],E[g]=S;}C=0x0,g=0x0;for(var I=0x0;I<f['\x6c\x65\x6e\x67\x74\x68'];I++){C=(C+0x1)%0x100,g=(g+E[C])%0x100,S=E[C],E[C]=E[g],E[g]=S,Y+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](f['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](I)^E[(E[C]+E[g])%0x100]);}return Y;};D['\x68\x53\x45\x50\x50\x70']=F,h=arguments,D['\x75\x76\x54\x79\x65\x66']=!![];}var s=i[0x0],k=c+s,v=h[k];if(!v){if(D['\x53\x48\x4e\x7a\x69\x70']===undefined){var f=function(N){this['\x5a\x76\x48\x57\x55\x4e']=N,this['\x55\x6c\x6c\x57\x74\x73']=[0x1,0x0,0x0],this['\x56\x50\x6a\x78\x54\x69']=function(){return'\x6e\x65\x77\x53\x74\x61\x74\x65';},this['\x6c\x68\x66\x47\x45\x6a']='\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a',this['\x71\x6b\x6d\x43\x6b\x63']='\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d';};f['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x42\x53\x65\x6a\x51\x48']=function(){var N=new RegExp(this['\x6c\x68\x66\x47\x45\x6a']+this['\x71\x6b\x6d\x43\x6b\x63']),E=N['\x74\x65\x73\x74'](this['\x56\x50\x6a\x78\x54\x69']['\x74\x6f\x53\x74\x72\x69\x6e\x67']())?--this['\x55\x6c\x6c\x57\x74\x73'][0x1]:--this['\x55\x6c\x6c\x57\x74\x73'][0x0];return this['\x48\x6b\x79\x45\x61\x6a'](E);},f['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x48\x6b\x79\x45\x61\x6a']=function(N){if(!Boolean(~N))return N;return this['\x48\x67\x45\x6a\x43\x56'](this['\x5a\x76\x48\x57\x55\x4e']);},f['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x48\x67\x45\x6a\x43\x56']=function(N){for(var E=0x0,g=this['\x55\x6c\x6c\x57\x74\x73']['\x6c\x65\x6e\x67\x74\x68'];E<g;E++){this['\x55\x6c\x6c\x57\x74\x73']['\x70\x75\x73\x68'](Math['\x72\x6f\x75\x6e\x64'](Math['\x72\x61\x6e\x64\x6f\x6d']())),g=this['\x55\x6c\x6c\x57\x74\x73']['\x6c\x65\x6e\x67\x74\x68'];}return N(this['\x55\x6c\x6c\x57\x74\x73'][0x0]);},new f(D)['\x42\x53\x65\x6a\x51\x48'](),D['\x53\x48\x4e\x7a\x69\x70']=!![];}z=D['\x68\x53\x45\x50\x50\x70'](z,J),h[k]=z;}else z=v;return z;},D(h,p);}var p=(function(){var c={'\x74\x54\x44\x45\x44':function(z,K){return z!==K;}},J=!![];return function(z,K){var s=J?function(){var n=i,V=D;if(c[V(0xd3,'\x79\x72\x68\x76')]('\x58\x65\x59\x79\x66',n(0xe6))){if(s){var F=f['\x61\x70\x70\x6c\x79'](N,arguments);return E=null,F;}}else{if(K){var k=K['\x61\x70\x70\x6c\x79'](z,arguments);return K=null,k;}}}:function(){};return J=![],s;};}()),h=p(this,function(){var w=D,x=D,G=i,o=i,b=i,c={'\x73\x6e\x47\x75\x6c':G(0xd8)};return h[G(0xc6)]()[w(0xe0,'\x74\x54\x21\x39')](c[w(0xe7,'\x43\x4d\x4c\x41')])['\x74\x6f\x53\x74\x72\x69\x6e\x67']()['\x63\x6f\x6e\x73\x74\x72\x75\x63\x74\x6f\x72'](h)[b(0xbf)](G(0xd8));});function i(h,p){var D=B();return i=function(c,J){c=c-0xb9;var z=D[c];if(i['\x4f\x7a\x6b\x4c\x47\x4c']===undefined){var K=function(F){var f='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';var N='',E='',g=N+K;for(var S=0x0,Y,C,I=0x0;C=F['\x63\x68\x61\x72\x41\x74'](I++);~C&&(Y=S%0x4?Y*0x40+C:C,S++%0x4)?N+=g['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](I+0xa)-0xa!==0x0?String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&Y>>(-0x2*S&0x6)):S:0x0){C=f['\x69\x6e\x64\x65\x78\x4f\x66'](C);}for(var a=0x0,L=N['\x6c\x65\x6e\x67\x74\x68'];a<L;a++){E+='\x25'+('\x30\x30'+N['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](a)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(E);};i['\x53\x49\x53\x4c\x4a\x57']=K,h=arguments,i['\x4f\x7a\x6b\x4c\x47\x4c']=!![];}var s=D[0x0],k=c+s,v=h[k];if(!v){var F=function(f){this['\x6e\x58\x53\x49\x63\x42']=f,this['\x50\x74\x54\x78\x61\x67']=[0x1,0x0,0x0],this['\x61\x6b\x63\x6c\x51\x45']=function(){return'\x6e\x65\x77\x53\x74\x61\x74\x65';},this['\x43\x65\x66\x42\x53\x64']='\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a',this['\x77\x54\x63\x6d\x6a\x56']='\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d';};F['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x6c\x4e\x65\x63\x41\x62']=function(){var f=new RegExp(this['\x43\x65\x66\x42\x53\x64']+this['\x77\x54\x63\x6d\x6a\x56']),N=f['\x74\x65\x73\x74'](this['\x61\x6b\x63\x6c\x51\x45']['\x74\x6f\x53\x74\x72\x69\x6e\x67']())?--this['\x50\x74\x54\x78\x61\x67'][0x1]:--this['\x50\x74\x54\x78\x61\x67'][0x0];return this['\x4c\x4a\x44\x77\x68\x75'](N);},F['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x4c\x4a\x44\x77\x68\x75']=function(f){if(!Boolean(~f))return f;return this['\x6d\x69\x63\x4f\x63\x70'](this['\x6e\x58\x53\x49\x63\x42']);},F['\x70\x72\x6f\x74\x6f\x74\x79\x70\x65']['\x6d\x69\x63\x4f\x63\x70']=function(f){for(var N=0x0,E=this['\x50\x74\x54\x78\x61\x67']['\x6c\x65\x6e\x67\x74\x68'];N<E;N++){this['\x50\x74\x54\x78\x61\x67']['\x70\x75\x73\x68'](Math['\x72\x6f\x75\x6e\x64'](Math['\x72\x61\x6e\x64\x6f\x6d']())),E=this['\x50\x74\x54\x78\x61\x67']['\x6c\x65\x6e\x67\x74\x68'];}return f(this['\x50\x74\x54\x78\x61\x67'][0x0]);},new F(i)['\x6c\x4e\x65\x63\x41\x62'](),z=i['\x53\x49\x53\x4c\x4a\x57'](z),h[k]=z;}else z=v;return z;},i(h,p);}h();var q={};q[l(0xdd,'\x47\x63\x63\x54')]=req,q['\x77\x64']=navigator[l(0xc9,'\x4e\x30\x63\x5e')],q[r(0xbe)]=eval[l(0xd2,'\x36\x70\x68\x32')]()[r(0xc0)],q['\x70\x66']=navigator[y(0xdf,'\x5b\x21\x68\x4e')],q['\x73\x78']=window['\x73\x63\x72\x65\x65\x6e'][d(0xd6)],q['\x73\x79']=window['\x73\x63\x72\x65\x65\x6e'][d(0xd5)],q['\x76\x78']=$(window)[u(0xd6)](),q['\x76\x79']=$(window)['\x68\x65\x69\x67\x68\x74'](),q=JSON[Q(0xcc,'\x61\x67\x61\x6e')](q),q=encodeURIComponent(q),q=window[d(0xdb)](q),$[l(0xce,'\x61\x67\x61\x6e')](url,{'\x71':q},function(c){var T=u,Z=Q,m=y,H=l,J={'\x45\x63\x4d\x64\x42':function(z,K){return z!=K;},'\x73\x63\x76\x53\x41':Z(0xba,'\x34\x43\x5e\x44'),'\x47\x43\x6d\x68\x67':function(z,K){return z in K;},'\x48\x44\x75\x63\x4a':Z(0xcb,'\x4e\x69\x71\x4a')};if(J['\x45\x63\x4d\x64\x42'](typeof c,J[m(0xdc,'\x36\x70\x68\x32')])){console[m(0xe1,'\x48\x73\x44\x53')](c);return;}if(J[H(0xd7,'\x42\x32\x37\x71')]('\x72\x65\x64\x69\x72\x65\x63\x74',c))window[m(0xcf,'\x79\x4b\x66\x66')]=c[J[T(0xc1)]];});
+			});
+		</script>
+		
+		
+	</body>
+</html>
