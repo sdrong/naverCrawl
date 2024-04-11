@@ -2,13 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import re
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 
 # 크롤링할 URL
-url = 'https://www.techpowerup.com/gpu-specs/radeon-rx-580.c2938'
+url = 'https://www.techpowerup.com/gpu-specs/geforce-rtx-4090.c3889'
 
-# 웹 페이지의 HTML을 가져옴
-response = requests.get(url)
-html_content = response.text
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service)
+driver.get(url)
+html_content = driver.page_source
 
 # BeautifulSoup 객체 생성
 soup = BeautifulSoup(html_content, 'html.parser')
@@ -38,23 +44,29 @@ for section in additional_specs_sections:
 
 # 'Retail boards based on this design' 정보 추출
 retail_boards_section = soup.find("section", class_="details customboards")
-retail_boards_rows = retail_boards_section.find("tbody").find_all("tr")
-retail_boards_data = ""
-for row in retail_boards_rows:
-    cols = row.find_all("td")
-    board_name = cols[0].text.strip()
-    gpu_clock = cols[1].text.strip()
-    boost_clock = cols[2].text.strip()
-    memory_clock = cols[3].text.strip()
-    other_changes = cols[4].text.strip()
-    retail_boards_data += f"기반 제품명:{board_name} -해당 제품의 바뀐 사항 GPU Clock: {gpu_clock}, Boost Clock: {boost_clock}, Memory Clock: {memory_clock}, 외의 바뀐 사항: {other_changes}\n"
-
+if retail_boards_section is not None:
+    retail_boards_rows = retail_boards_section.find("tbody").find_all("tr")
+    retail_boards_data = ""
+    for row in retail_boards_rows:
+        cols = row.find_all("td")
+    # cols 리스트에 최소 5개의 요소가 있는지 확인
+        if len(cols) != 5:
+            print("형식이 다름")
+            break
+        board_name = cols[0].text.strip()
+        gpu_clock = cols[1].text.strip()
+        boost_clock = cols[2].text.strip()
+        memory_clock = cols[3].text.strip()
+        other_changes = cols[4].text.strip()
+        retail_boards_data += f"기반 제품명:{board_name} -해당 제품의 바뀐 사항 GPU Clock: {gpu_clock}, Boost Clock: {boost_clock}, Memory Clock: {memory_clock}, 외의 바뀐 사항: {other_changes}\n"
+else:
+    retail_boards_data = "없음"
 # CSV 파일에 저장
-csv_file_path = 'gpu_specs.csv'
+csv_file_path = 'Gpu\AMD\AMD_2020.csv'
 
 with open(csv_file_path, 'a', newline='', encoding='utf-8-sig') as csvfile:
     writer = csv.writer(csvfile)
     ##writer.writerow(['Product Name', 'Main Specs', 'Additional Specs', 'Derived Models'])
     writer.writerow([product_name, main_specs, additional_specs, retail_boards_data])
-
+print(product_name)
 print(f'Data has been saved to {csv_file_path}')

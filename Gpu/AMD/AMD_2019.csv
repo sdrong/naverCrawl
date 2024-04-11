@@ -1,0 +1,2799 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+AMD Radeon 630 Mobile,"Graphics Processor: Polaris 23
+Cores: 512
+TMUs: 32
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 MXL (216-0923020)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: May 13th, 2019
+Generation: Polaris Mobile (M600)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1082 MHz
+Boost Clock: 1211 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 16
+Compute Units: 8
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 19.38 GPixel/s
+Texture Rate: 38.75 GTexel/s
+FP16 (half): 1,240 GFLOPS (1:1)
+FP32 (float): 1,240 GFLOPS
+FP64 (double): 77.50 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: D090
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon E9390 PCIe,"Graphics Processor: Ellesmere
+Cores: 1792
+TMUs: 112
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Oct 15th, 2019
+Generation: Embedded (9000)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 713 MHz
+Boost Clock: 1089 MHz
+Memory Clock: 1250 MHz 5 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 160.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 32
+Compute Units: 28
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 34.85 GPixel/s
+Texture Rate: 122.0 GTexel/s
+FP16 (half): 3.903 TFLOPS (1:1)
+FP32 (float): 3.903 TFLOPS
+FP64 (double): 243.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Single-slot
+Length: 173 mm 6.8 inches
+TDP: 75 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C954-87
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon E9560 PCIe,"Graphics Processor: Ellesmere
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Oct 15th, 2019
+Generation: Embedded (9000)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1120 MHz
+Boost Clock: 1237 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.58 GPixel/s
+Texture Rate: 178.1 GTexel/s
+FP16 (half): 5.700 TFLOPS (1:1)
+FP32 (float): 5.700 TFLOPS
+FP64 (double): 356.3 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Single-slot
+Length: 241 mm 9.5 inches
+TDP: 130 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+Board Number: C954-87
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 5300M,"Graphics Processor: Navi 14
+Cores: 1280
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 PROA (215-0932268)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Mobile Graphics:
+Release Date: Nov 13th, 2019
+Generation: Radeon Pro Mac (Navi Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1250 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 1280
+TMUs: 80
+ROPs: 32
+Compute Units: 20
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 40.00 GPixel/s
+Texture Rate: 100.0 GTexel/s
+FP16 (half): 6.400 TFLOPS (2:1)
+FP32 (float): 3.200 TFLOPS
+FP64 (double): 200.0 GFLOPS (1:16)
+
+Board Design:
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 5500M,"Graphics Processor: Navi 14
+Cores: 1536
+TMUs: 96
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 ULA (215-0932236)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Mobile Graphics:
+Release Date: Nov 13th, 2019
+Generation: Radeon Pro Mac (Navi Mobile)
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1450 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 1536
+TMUs: 96
+ROPs: 32
+Compute Units: 24
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 46.40 GPixel/s
+Texture Rate: 139.2 GTexel/s
+FP16 (half): 8.909 TFLOPS (2:1)
+FP32 (float): 4.454 TFLOPS
+FP64 (double): 278.4 GFLOPS (1:16)
+
+Board Design:
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 570X,"Graphics Processor: Ellesmere
+Cores: 1792
+TMUs: 112
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere PROA
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Mar 18th, 2019
+Generation: Radeon Pro Mac (500X Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1105 MHz
+Memory Clock: 1695 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 217.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 32
+Compute Units: 28
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 35.36 GPixel/s
+Texture Rate: 123.8 GTexel/s
+FP16 (half): 3.960 TFLOPS (1:1)
+FP32 (float): 3.960 TFLOPS
+FP64 (double): 247.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 150 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 575X,"Graphics Processor: Ellesmere
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XLA
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Mar 18th, 2019
+Generation: Radeon Pro Mac (500X Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 1096 MHz
+Memory Clock: 1695 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 217.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 35.07 GPixel/s
+Texture Rate: 140.3 GTexel/s
+FP16 (half): 4.489 TFLOPS (1:1)
+FP32 (float): 4.489 TFLOPS
+FP64 (double): 280.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 150 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 580X,"Graphics Processor: Ellesmere
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XTA (216-0876220)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Mar 18th, 2019
+Generation: Radeon Pro Mac (500X Series)
+Production: Active
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1100 MHz
+Boost Clock: 1200 MHz
+Memory Clock: 1710 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 218.9 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.40 GPixel/s
+Texture Rate: 172.8 GTexel/s
+FP16 (half): 5.530 TFLOPS (1:1)
+FP32 (float): 5.530 TFLOPS
+FP64 (double): 345.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 185 W
+Outputs: 2x HDMI 2.0b
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega 48,"Graphics Processor: Vega 10
+Cores: 3072
+TMUs: 192
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 PRO
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Mobile Graphics:
+Release Date: Mar 19th, 2019
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 1200 MHz
+Memory Clock: 786 MHz 1572 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 402.4 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 192
+ROPs: 64
+Compute Units: 48
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 76.80 GPixel/s
+Texture Rate: 230.4 GTexel/s
+FP16 (half): 14.75 TFLOPS (2:1)
+FP32 (float): 7.373 TFLOPS
+FP64 (double): 460.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: unknown
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega 64X,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Mobile Graphics:
+Release Date: Mar 19th, 2019
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1250 MHz
+Boost Clock: 1468 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 93.95 GPixel/s
+Texture Rate: 375.8 GTexel/s
+FP16 (half): 24.05 TFLOPS (2:1)
+FP32 (float): 12.03 TFLOPS
+FP64 (double): 751.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 250 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega II,"Graphics Processor: Vega 20
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 32 GB
+Memory Type: HBM2
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 XT
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Jun 3rd, 2019
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Launch Price: 2,199 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1574 MHz
+Boost Clock: 1720 MHz
+Memory Clock: 806 MHz 1612 Mbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 825.3 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 110.1 GPixel/s
+Texture Rate: 440.3 GTexel/s
+FP16 (half): 28.18 TFLOPS (2:1)
+FP32 (float): 14.09 TFLOPS
+FP64 (double): 880.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Quad-slot
+TDP: 475 W
+Suggested PSU: 850 W
+Outputs: 1x HDMI 2.0b 4x Thunderbolt
+Board Number: MW672ZM/A
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega II Duo,"Graphics Processor: Vega 20 x2
+Cores: 4096 x2
+TMUs: 256 x2
+ROPs: 64 x2
+Memory Size: 32 GB x2
+Memory Type: HBM2
+Bus Width: 4096 bit x2","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 XT
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Jun 3rd, 2019
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Launch Price: 4,399 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1400 MHz
+Boost Clock: 1720 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 1.02 TB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 110.1 GPixel/s
+Texture Rate: 440.3 GTexel/s
+FP16 (half): 28.18 TFLOPS (2:1)
+FP32 (float): 14.09 TFLOPS
+FP64 (double): 880.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Quad-slot
+TDP: 475 W
+Suggested PSU: 850 W
+Outputs: 1x HDMI 2.0b 4x Thunderbolt
+Board Number: MW732ZM/A
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W5300M,"Graphics Processor: Navi 14
+Cores: 1280
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 PRO XLM
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Mobile Graphics:
+Release Date: Nov 13th, 2019
+Generation: Radeon Pro Mobile (W5x00M)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1250 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 1280
+TMUs: 80
+ROPs: 32
+Compute Units: 20
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 40.00 GPixel/s
+Texture Rate: 100.0 GTexel/s
+FP16 (half): 6.400 TFLOPS (2:1)
+FP32 (float): 3.200 TFLOPS
+FP64 (double): 200.0 GFLOPS (1:16)
+
+Board Design:
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W5500X,"Graphics Processor: Navi 14
+Cores: 1536
+TMUs: 96
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 PRO XL
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Graphics Card:
+Release Date: Dec 11th, 2019
+Generation: Radeon Pro Mac (Navi Series)
+Production: Active
+Launch Price: 599 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1187 MHz
+Boost Clock: 1757 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1536
+TMUs: 96
+ROPs: 32
+Compute Units: 24
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 56.22 GPixel/s
+Texture Rate: 168.7 GTexel/s
+FP16 (half): 10.80 TFLOPS (2:1)
+FP32 (float): 5.398 TFLOPS
+FP64 (double): 337.3 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 125 W
+Suggested PSU: 300 W
+Outputs: 2x HDMI 2.0b
+Board Number: MXM52AM/A
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W5700,"Graphics Processor: Navi 10
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 10
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 10,300 million
+Density: 41.0M / mm²
+Die Size: 251 mm²
+Chip Package: BGA-1928
+
+Graphics Card:
+Release Date: Nov 19th, 2019
+Generation: Radeon Pro Navi (Navi Series)
+Predecessor: Radeon Pro Vega
+Production: Active
+Launch Price: 799 USD
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1400 MHz
+Boost Clock: 1880 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+Compute Units: 36
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 120.3 GPixel/s
+Texture Rate: 270.7 GTexel/s
+FP16 (half): 17.33 TFLOPS (2:1)
+FP32 (float): 8.663 TFLOPS
+FP64 (double): 541.4 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 205 W
+Suggested PSU: 550 W
+Outputs: 5x mini-DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W5700X,"Graphics Processor: Navi 10
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 10
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 10,300 million
+Density: 41.0M / mm²
+Die Size: 251 mm²
+Chip Package: BGA-1928
+
+Graphics Card:
+Release Date: Dec 11th, 2019
+Generation: Radeon Pro Mac (Navi Series)
+Production: Active
+Launch Price: 999 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1243 MHz
+Boost Clock: 2040 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+Compute Units: 40
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 130.6 GPixel/s
+Texture Rate: 326.4 GTexel/s
+FP16 (half): 20.89 TFLOPS (2:1)
+FP32 (float): 10.44 TFLOPS
+FP64 (double): 652.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Quad-slot
+Length: 305 mm 12 inches
+TDP: 205 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0b 4x Thunderbolt
+Board Number: MW662AM/A
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 3200,"Graphics Processor: Polaris 23
+Cores: 640
+TMUs: 32
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 XT GL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Jul 2nd, 2019
+Generation: Radeon Pro Polaris (WX x200)
+Predecessor: Radeon Pro GCN
+Successor: Radeon Pro Vega
+Production: Active
+Launch Price: 199 USD
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 1295 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 32
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 20.72 GPixel/s
+Texture Rate: 41.44 GTexel/s
+FP16 (half): 1.658 TFLOPS (1:1)
+FP32 (float): 1.658 TFLOPS
+FP64 (double): 103.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Single-slot
+Length: 167 mm 6.6 inches
+Width: 69 mm 2.7 inches
+TDP: 65 W
+Suggested PSU: 250 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: None
+Board Number: 109-D09187-00B_02
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 3200 Mobile,"Graphics Processor: Polaris 23
+Cores: 640
+TMUs: 32
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 XT GLM (216-0923062)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jul 2nd, 2019
+Generation: Radeon Pro Mobile (WX x200)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 1082 MHz
+Memory Clock: 1000 MHz 4 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 64.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 32
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 17.31 GPixel/s
+Texture Rate: 34.62 GTexel/s
+FP16 (half): 1,385 GFLOPS (1:1)
+FP32 (float): 1,385 GFLOPS
+FP64 (double): 86.56 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 65 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 5300 XT OEM,"Graphics Processor: Navi 14
+Cores: 1408
+TMUs: 88
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 XL
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Graphics Card:
+Release Date: Oct 7th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1670 MHz
+Game Clock: 1717 MHz
+Boost Clock: 1845 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 1408
+TMUs: 88
+ROPs: 32
+Compute Units: 22
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 59.04 GPixel/s
+Texture Rate: 162.4 GTexel/s
+FP16 (half): 10.39 TFLOPS (2:1)
+FP32 (float): 5.196 TFLOPS
+FP64 (double): 324.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 180 mm 7.1 inches
+TDP: 100 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+Board Number: 109-D33257-00B_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 5300M,"Graphics Processor: Navi 14
+Cores: 1408
+TMUs: 88
+ROPs: 32
+Memory Size: 3 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 XLM
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Mobile Graphics:
+Release Date: Nov 13th, 2019
+Generation: Navi Mobile (RX 5000M)
+Predecessor: Polaris Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Game Clock: 1181 MHz
+Boost Clock: 1445 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 3 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 168.0 GB/s
+
+Render Config:
+Shading Units: 1408
+TMUs: 88
+ROPs: 32
+Compute Units: 22
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 46.24 GPixel/s
+Texture Rate: 127.2 GTexel/s
+FP16 (half): 8.138 TFLOPS (2:1)
+FP32 (float): 4.069 TFLOPS
+FP64 (double): 254.3 GFLOPS (1:16)
+
+Board Design:
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 5500 OEM,"Graphics Processor: Navi 14
+Cores: 1408
+TMUs: 88
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 XT (215-0932220)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Graphics Card:
+Release Date: Oct 7th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Bus Interface: PCIe 4.0 x8
+Reviews: 1 in our database
+
+Clock Speeds:
+Base Clock: 1500 MHz
+Game Clock: 1670 MHz
+Boost Clock: 1845 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1408
+TMUs: 88
+ROPs: 32
+Compute Units: 22
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 59.04 GPixel/s
+Texture Rate: 162.4 GTexel/s
+FP16 (half): 10.39 TFLOPS (2:1)
+FP32 (float): 5.196 TFLOPS
+FP64 (double): 324.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 180 mm 7.1 inches
+Width: 110 mm 4.3 inches
+TDP: 110 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: 109-D33257-00B_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:HP RX 5500 -해당 제품의 바뀐 사항 GPU Clock: 1500 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 2x DisplayPort
+"
+AMD Radeon RX 5500 XT,"Graphics Processor: Navi 14
+Cores: 1408
+TMUs: 88
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 XTX (215-0932396)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Graphics Card:
+Release Date: Dec 12th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Launch Price: 169 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 49 in our database
+
+Clock Speeds:
+Base Clock: 1607 MHz
+Game Clock: 1717 MHz
+Boost Clock: 1845 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1408
+TMUs: 88
+ROPs: 32
+Compute Units: 22
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 59.04 GPixel/s
+Texture Rate: 162.4 GTexel/s
+FP16 (half): 10.39 TFLOPS (2:1)
+FP32 (float): 5.196 TFLOPS
+FP64 (double): 324.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 180 mm 7.1 inches
+TDP: 130 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Part Number: 102-D33220
+Board Number: 109-D33257-00B_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock Challenger D RX 5500 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 241 mm/9.5 inches
+기반 제품명:ASRock Challenger D RX 5500 XT OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 241 mm/9.5 inches
+기반 제품명:ASRock Challenger RX 5500 XT ITX 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 190 mm/7.5 inches
+기반 제품명:ASRock Phantom Gaming D RX 5500 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 241 mm/9.5 inches
+기반 제품명:ASUS DUAL RX 5500 XT EVO OC -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 242 mm/9.5 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RX 5500 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 280 mm/11 inches, Triple-slot
+기반 제품명:BIOSTAR RX 5500 XT Extreme Gaming -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 5500 XT X-Serial Warrior -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 259 mm/10.2 inches
+기반 제품명:GIGABYTE RX 5500 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:GIGABYTE RX 5500 XT GAMING OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 281 mm/11.1 inches
+기반 제품명:GIGABYTE RX 5500 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:GIGABYTE RX 5500 XT OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 225 mm/8.9 inches
+기반 제품명:KUROUTOSHIKOU RX 5500 XT -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:KUROUTOSHIKOU RX 5500 XT 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MSI RX 5500 XT GAMING -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RX 5500 XT GAMING 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 247 mm/9.7 inches
+기반 제품명:MSI RX 5500 XT GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RX 5500 XT GAMING X 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 247 mm/9.7 inches
+기반 제품명:MSI RX 5500 XT MECH -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 215 mm/8.5 inches
+기반 제품명:MSI RX 5500 XT MECH 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 215 mm/8.5 inches
+기반 제품명:MSI RX 5500 XT MECH OC -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 215 mm/8.5 inches
+기반 제품명:MSI RX 5500 XT MECH OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1647 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 215 mm/8.5 inches
+기반 제품명:PowerColor Red Dragon RX 5500 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 227 mm/8.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:PowerColor RX 5500 XT -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 5500 XT  Special Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 257 mm/10.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 5500 XT -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 233 mm/9.2 inches, 135 W
+기반 제품명:Sapphire PULSE RX 5500 XT 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 233 mm/9.2 inches
+기반 제품명:Sapphire PULSE RX 5500 XT SF 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 177 mm/7 inches
+기반 제품명:XFX RX 5500 XT THICC II Pro 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1607 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 281 mm/11.1 inches
+기반 제품명:Yeston RX 5500 XT Game Ace -해당 제품의 바뀐 사항 GPU Clock: 1685 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 2x DVI 1x HDMI 1x DisplayPort
+"
+AMD Radeon RX 5500M,"Graphics Processor: Navi 14
+Cores: 1408
+TMUs: 88
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 14
+GPU Variant: Navi 14 XTM
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 6,400 million
+Density: 40.5M / mm²
+Die Size: 158 mm²
+Chip Package: BGA-1125
+
+Mobile Graphics:
+Release Date: Oct 7th, 2019
+Generation: Navi Mobile (RX 5000M)
+Predecessor: Polaris Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1375 MHz
+Game Clock: 1448 MHz
+Boost Clock: 1645 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1408
+TMUs: 88
+ROPs: 32
+Compute Units: 22
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 52.64 GPixel/s
+Texture Rate: 144.8 GTexel/s
+FP16 (half): 9.265 TFLOPS (2:1)
+FP32 (float): 4.632 TFLOPS
+FP64 (double): 289.5 GFLOPS (1:16)
+
+Board Design:
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 560 XT,"Graphics Processor: Ellesmere
+Cores: 1792
+TMUs: 112
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Polaris 10 LE1
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Mar 13th, 2019
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1074 MHz
+Boost Clock: 1226 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 32
+Compute Units: 28
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.23 GPixel/s
+Texture Rate: 137.3 GTexel/s
+FP16 (half): 4.394 TFLOPS (1:1)
+FP32 (float): 4.394 TFLOPS
+FP64 (double): 274.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Sapphire PULSE RX 560 XT Platinum Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1074 MHz, Boost Clock: 1226 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 2x HDMI 2x DisplayPort
+"
+AMD Radeon RX 560X Mobile,"Graphics Processor: Polaris 31
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 31
+GPU Variant: Polaris 31 MXL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jan 9th, 2019
+Generation: Polaris Mobile (RX M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 1223 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 19.57 GPixel/s
+Texture Rate: 68.49 GTexel/s
+FP16 (half): 2.192 TFLOPS (1:1)
+FP32 (float): 2.192 TFLOPS
+FP64 (double): 137.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 65 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 5700,"Graphics Processor: Navi 10
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 10
+GPU Variant: Navi 10 XL (215-0917220)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 10,300 million
+Density: 41.0M / mm²
+Die Size: 251 mm²
+Chip Package: BGA-1928
+
+Graphics Card:
+Release Date: Jul 7th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Launch Price: 349 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 26 in our database
+
+Clock Speeds:
+Base Clock: 1465 MHz
+Game Clock: 1625 MHz
+Boost Clock: 1725 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+Compute Units: 36
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 110.4 GPixel/s
+Texture Rate: 248.4 GTexel/s
+FP16 (half): 15.90 TFLOPS (2:1)
+FP32 (float): 7.949 TFLOPS
+FP64 (double): 496.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 268 mm 10.6 inches
+Width: 111 mm 4.4 inches
+Height: 36 mm 1.4 inches
+TDP: 180 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Part Number: 102-D18202
+Board Number: 109-D18237-00C_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock Challenger D RX 5700 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:ASRock Phantom D RX 5700 OC -해당 제품의 바뀐 사항 GPU Clock: 1610 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, Triple-slot
+기반 제품명:ASRock RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RX 5700 EVO OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 271 mm/10.7 inches, Triple-slot
+기반 제품명:ASUS RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS TUF RX 5700 EVO GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1565 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 283 mm/11.1 inches, Triple-slot
+기반 제품명:ASUS TUF RX 5700 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1565 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RX 5700 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1610 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:Dataland RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 5700 X-Serial -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, Triple-slot
+기반 제품명:Dataland RX 5700 X-Serial Ares -해당 제품의 바뀐 사항 GPU Clock: 1540 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:GIGABYTE RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 5700 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1565 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, Triple-slot
+기반 제품명:HIS RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX 5700 IceQ X2 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:KUROUTOSHIKOU RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KUROUTOSHIKOU RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:MSI RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 5700 EVOKE -해당 제품의 바뀐 사항 GPU Clock: 1490 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 EVOKE GP -해당 제품의 바뀐 사항 GPU Clock: 1490 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 EVOKE GP OC -해당 제품의 바뀐 사항 GPU Clock: 1540 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 EVOKE OC -해당 제품의 바뀐 사항 GPU Clock: 1540 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1490 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 297 mm/11.7 inches, Triple-slot
+기반 제품명:MSI RX 5700 GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1610 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 297 mm/11.7 inches, Triple-slot
+기반 제품명:MSI RX 5700 MECH -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RX 5700 MECH GP -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RX 5700 MECH GP OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RX 5700 MECH OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:PowerColor Red Devil RX 5700 OC -해당 제품의 바뀐 사항 GPU Clock: 1610 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:PowerColor Red Dragon RX 5700 OC -해당 제품의 바뀐 사항 GPU Clock: 1565 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:PowerColor RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor RX 5700 ITX -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 175 mm/6.9 inches, 1x HDMI 2x DisplayPort
+기반 제품명:PowerColor RX 5700 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:Sapphire NITRO+ RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1610 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot
+기반 제품명:Sapphire PULSE RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1540 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:Sapphire RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 5700 -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 5700 Double Dissipation Ultra -해당 제품의 바뀐 사항 GPU Clock: 1565 MHz, Boost Clock: 1750 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 293 mm/11.5 inches, Triple-slot
+기반 제품명:Yeston RX 5700 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1465 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 5700 XT,"Graphics Processor: Navi 10
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 10
+GPU Variant: Navi 10 XT (215-0917210)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 10,300 million
+Density: 41.0M / mm²
+Die Size: 251 mm²
+Chip Package: BGA-1928
+
+Graphics Card:
+Release Date: Jul 7th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Launch Price: 399 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 121 in our database
+
+Clock Speeds:
+Base Clock: 1605 MHz
+Game Clock: 1755 MHz
+Boost Clock: 1905 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+Compute Units: 40
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 121.9 GPixel/s
+Texture Rate: 304.8 GTexel/s
+FP16 (half): 19.51 TFLOPS (2:1)
+FP32 (float): 9.754 TFLOPS
+FP64 (double): 609.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 272 mm 10.7 inches
+Width: 111 mm 4.4 inches
+Height: 36 mm 1.4 inches
+TDP: 225 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Part Number: 102-D18205
+Board Number: 109-D18237-00C_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock Challenger D RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:ASRock Challenger Pro RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 279 mm/11 inches
+기반 제품명:ASRock Phantom D RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1690 MHz, Boost Clock: 1945 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, Triple-slot
+기반 제품명:ASRock Phantom Elite RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, Triple-slot
+기반 제품명:ASRock RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock RX 5700 XT TAICHI OC+ -해당 제품의 바뀐 사항 GPU Clock: 1810 MHz, Boost Clock: 2025 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 324 mm/12.8 inches, Triple-slot, 2x HDMI 4x DisplayPort
+기반 제품명:ASUS RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS TUF RX 5700 XT EVO GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 283 mm/11.1 inches, Triple-slot
+기반 제품명:ASUS TUF RX 5700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RX 5700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:BIOSTAR RX 5700 XT Extreme Gaming -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 5700 XT X-Serial Ares -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:Dataland RX 5700 XT X-Serial Demon -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:Dataland RX 5700 XT X-Serial Warrior -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, Triple-slot
+기반 제품명:GIGABYTE AORUS RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, Triple-slot, 3x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 5700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:HIS RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX 5700 XT BLUE ARMY -해당 제품의 바뀐 사항 GPU Clock: 1670 MHz, Boost Clock: 1925 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:HIS RX 5700 XT BLUE ARMY OC -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:HIS RX 5700 XT IceQ X2 -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:HIS RX 5700 XT PINK ARMY -해당 제품의 바뀐 사항 GPU Clock: 1670 MHz, Boost Clock: 1925 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:HIS RX 5700 XT PINK ARMY OC -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:KUROUTOSHIKOU RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KUROUTOSHIKOU RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:KUROUTOSHIKOU RX 5700 XT ProRender -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:MSI RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 5700 XT EVOKE -해당 제품의 바뀐 사항 GPU Clock: 1630 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 XT EVOKE OC -해당 제품의 바뀐 사항 GPU Clock: 1690 MHz, Boost Clock: 1945 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MSI RX 5700 XT GAMING -해당 제품의 바뀐 사항 GPU Clock: 1630 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 297 mm/11.7 inches, Triple-slot
+기반 제품명:MSI RX 5700 XT GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 297 mm/11.7 inches, Triple-slot
+기반 제품명:MSI RX 5700 XT MECH -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RX 5700 XT MECH OC -해당 제품의 바뀐 사항 GPU Clock: 1670 MHz, Boost Clock: 1925 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:PowerColor Liquid Devil RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1900 MHz, Boost Clock: 2070 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:PowerColor Red Devil RX 5700 XT Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:PowerColor Red Devil RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:PowerColor Red Dragon RX 5700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 1650 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:PowerColor RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:PowerColor RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire GPRO X070 -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 180 W
+기반 제품명:Sapphire NITRO+ RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 5700 XT BE -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 5700 XT Special Edition -해당 제품의 바뀐 사항 GPU Clock: 1840 MHz, Boost Clock: 2035 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 306 mm/12 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1670 MHz, Boost Clock: 1925 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:Sapphire PULSE RX 5700 XT BE -해당 제품의 바뀐 사항 GPU Clock: 1670 MHz, Boost Clock: 1925 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:Sapphire RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 5700 XT -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 5700 XT Double Dissipation -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:XFX RX 5700 XT RAW II -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 278 mm/10.9 inches, Triple-slot
+기반 제품명:XFX RX 5700 XT RAW II Ultra -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 278 mm/10.9 inches, Triple-slot
+기반 제품명:XFX RX 5700 XT THICC II -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 293 mm/11.5 inches, Triple-slot
+기반 제품명:XFX RX 5700 XT THICC II Ultra -해당 제품의 바뀐 사항 GPU Clock: 1730 MHz, Boost Clock: 1980 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 293 mm/11.5 inches, Triple-slot
+기반 제품명:XFX RX 5700 XT THICC III Ultra -해당 제품의 바뀐 사항 GPU Clock: 1810 MHz, Boost Clock: 2025 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:XFX RX 5700 XT Triple Dissipation -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 326 mm/12.8 inches
+기반 제품명:Yeston RX 5700 XT Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Yeston RX 5700 XT Game Master -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1905 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:Yeston RX 5700 XT Sakura Hitomi -해당 제품의 바뀐 사항 GPU Clock: 1770 MHz, Boost Clock: 2010 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+"
+AMD Radeon RX 5700 XT 50th Anniversary,"Graphics Processor: Navi 10
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 10
+GPU Variant: Navi 10 XTX (215-0917244)
+Architecture: RDNA 1.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 10,300 million
+Density: 41.0M / mm²
+Die Size: 251 mm²
+Chip Package: BGA-1928
+
+Graphics Card:
+Release Date: Jul 7th, 2019
+Generation: Navi (RX 5000)
+Predecessor: Vega
+Successor: Navi II
+Production: Active
+Launch Price: 449 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 121 in our database
+
+Clock Speeds:
+Base Clock: 1680 MHz
+Game Clock: 1830 MHz
+Boost Clock: 1980 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+Compute Units: 40
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 126.7 GPixel/s
+Texture Rate: 316.8 GTexel/s
+FP16 (half): 20.28 TFLOPS (2:1)
+FP32 (float): 10.14 TFLOPS
+FP64 (double): 633.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 272 mm 10.7 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 225 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Part Number: 102-D18206
+Board Number: 109-D18237-00C
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 640 Mobile,"Graphics Processor: Polaris 23
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: May 13th, 2019
+Generation: Polaris Mobile (M600)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1082 MHz
+Boost Clock: 1218 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 64 bit
+Bandwidth: 48.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 19.49 GPixel/s
+Texture Rate: 48.72 GTexel/s
+FP16 (half): 1.559 TFLOPS (1:1)
+FP32 (float): 1.559 TFLOPS
+FP64 (double): 97.44 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 11,"Graphics Processor: Picasso
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Jul 7th, 2019
+Generation: Vega IGP (Picasso)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 11.20 GPixel/s
+Texture Rate: 61.60 GTexel/s
+FP16 (half): 3.942 TFLOPS (2:1)
+FP32 (float): 1.971 TFLOPS
+FP64 (double): 123.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 11 Mobile,"Graphics Processor: Picasso-M
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Oct 22nd, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 11.20 GPixel/s
+Texture Rate: 61.60 GTexel/s
+FP16 (half): 3.942 TFLOPS (2:1)
+FP32 (float): 1.971 TFLOPS
+FP64 (double): 123.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon VII,"Graphics Processor: Vega 20
+Cores: 3840
+TMUs: 240
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 XT
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Feb 7th, 2019
+Generation: Vega II (Radeon VII)
+Predecessor: Vega
+Successor: Navi
+Production: Active
+Launch Price: 699 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1400 MHz
+Boost Clock: 1750 MHz
+Peak Clock: 1802 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 1.02 TB/s
+
+Render Config:
+Shading Units: 3840
+TMUs: 240
+ROPs: 64
+Compute Units: 60
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 112.0 GPixel/s
+Texture Rate: 420.0 GTexel/s
+FP16 (half): 26.88 TFLOPS (2:1)
+FP32 (float): 13.44 TFLOPS
+FP64 (double): 3.360 TFLOPS (1:4)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 280 mm 11 inches
+Width: 125 mm 4.9 inches
+Height: 40 mm 1.6 inches
+TDP: 295 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D36037-00_04
+BIOS Number: 113-D3600200-105
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Alienware Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:AMD Radeon VII 50th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock Phantom Gaming X Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:KUROUTOSHIKOU Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:VisionTek Radeon VII -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX Radeon VII Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 1400 MHz, Boost Clock: 1750 MHz, Memory Clock: 1000 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon Vega 10 Mobile,"Graphics Processor: Picasso-M
+Cores: 640
+TMUs: 40
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 6th, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 8
+Compute Units: 10
+
+Theoretical Performance:
+Pixel Rate: 11.20 GPixel/s
+Texture Rate: 56.00 GTexel/s
+FP16 (half): 3.584 TFLOPS (2:1)
+FP32 (float): 1.792 TFLOPS
+FP64 (double): 112.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 11,"Graphics Processor: Picasso
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Sep 30th, 2019
+Generation: Vega IGP (Picasso)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1400 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 11.20 GPixel/s
+Texture Rate: 61.60 GTexel/s
+FP16 (half): 3.942 TFLOPS (2:1)
+FP32 (float): 1.971 TFLOPS
+FP64 (double): 123.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 3,"Graphics Processor: Picasso
+Cores: 192
+TMUs: 12
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Nov 20th, 2019
+Generation: Vega IGP (Picasso)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1100 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 4
+Compute Units: 3
+
+Theoretical Performance:
+Pixel Rate: 4.400 GPixel/s
+Texture Rate: 13.20 GTexel/s
+FP16 (half): 844.8 GFLOPS (2:1)
+FP32 (float): 422.4 GFLOPS
+FP64 (double): 26.40 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 3 Embedded,"Graphics Processor: Picasso-M
+Cores: 192
+TMUs: 12
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: 2019
+Generation: Vega IGP (Picasso)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 4
+Compute Units: 3
+
+Theoretical Performance:
+Pixel Rate: 4.800 GPixel/s
+Texture Rate: 14.40 GTexel/s
+FP16 (half): 921.6 GFLOPS (2:1)
+FP32 (float): 460.8 GFLOPS
+FP64 (double): 28.80 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 10 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 3 Mobile,"Graphics Processor: Picasso-M
+Cores: 192
+TMUs: 12
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 6th, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1001 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 4
+Compute Units: 3
+
+Theoretical Performance:
+Pixel Rate: 4.004 GPixel/s
+Texture Rate: 12.01 GTexel/s
+FP16 (half): 768.8 GFLOPS (2:1)
+FP32 (float): 384.4 GFLOPS
+FP64 (double): 24.02 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 6 Mobile,"Graphics Processor: Picasso-M
+Cores: 384
+TMUs: 24
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 6th, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 8
+Compute Units: 6
+
+Theoretical Performance:
+Pixel Rate: 9.600 GPixel/s
+Texture Rate: 28.80 GTexel/s
+FP16 (half): 1.843 TFLOPS (2:1)
+FP32 (float): 921.6 GFLOPS
+FP64 (double): 57.60 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 8,"Graphics Processor: Picasso
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Jul 7th, 2019
+Generation: Vega IGP (Picasso)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1250 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 10.00 GPixel/s
+Texture Rate: 40.00 GTexel/s
+FP16 (half): 2.560 TFLOPS (2:1)
+FP32 (float): 1,280 GFLOPS
+FP64 (double): 80.00 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 8 Mobile,"Graphics Processor: Picasso-M
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 6th, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1200 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 9.600 GPixel/s
+Texture Rate: 38.40 GTexel/s
+FP16 (half): 2.458 TFLOPS (2:1)
+FP32 (float): 1,229 GFLOPS
+FP64 (double): 76.80 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 9 Mobile,"Graphics Processor: Picasso-M
+Cores: 576
+TMUs: 36
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Picasso-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Oct 22nd, 2019
+Generation: Vega IGP (Picasso Mobile)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1300 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 576
+TMUs: 36
+ROPs: 8
+Compute Units: 9
+
+Theoretical Performance:
+Pixel Rate: 10.40 GPixel/s
+Texture Rate: 46.80 GTexel/s
+FP16 (half): 2.995 TFLOPS (2:1)
+FP32 (float): 1,498 GFLOPS
+FP64 (double): 93.60 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음

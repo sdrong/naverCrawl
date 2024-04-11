@@ -1,0 +1,2372 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+AMD Radeon 550X Mobile,"Graphics Processor: Polaris 23
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 MXT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Apr 11th, 2018
+Generation: Polaris Mobile (M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 1082 MHz
+Memory Clock: 1000 MHz 4 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 64 bit
+Bandwidth: 32.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 256 KB
+
+Theoretical Performance:
+Pixel Rate: 17.31 GPixel/s
+Texture Rate: 43.28 GTexel/s
+FP16 (half): 1,385 GFLOPS (1:1)
+FP32 (float): 1,385 GFLOPS
+FP64 (double): 86.56 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Instinct MI50,"Graphics Processor: Vega 20
+Cores: 3840
+TMUs: 240
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 GLXT
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Nov 18th, 2018
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1200 MHz
+Boost Clock: 1746 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 1.02 TB/s
+
+Render Config:
+Shading Units: 3840
+TMUs: 240
+ROPs: 64
+Compute Units: 60
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 111.7 GPixel/s
+Texture Rate: 419.0 GTexel/s
+FP16 (half): 26.82 TFLOPS (2:1)
+FP32 (float): 13.41 TFLOPS
+FP64 (double): 6.705 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x mini-DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Instinct MI60,"Graphics Processor: Vega 20
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 32 GB
+Memory Type: HBM2
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 GL
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Nov 18th, 2018
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1200 MHz
+Boost Clock: 1800 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 1.02 TB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 115.2 GPixel/s
+Texture Rate: 460.8 GTexel/s
+FP16 (half): 29.49 TFLOPS (2:1)
+FP32 (float): 14.75 TFLOPS
+FP64 (double): 7.373 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 555X,"Graphics Processor: Polaris 21
+Cores: 768
+TMUs: 48
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 PRO
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jul 16th, 2018
+Generation: Radeon Pro Mac (500X Series)
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 907 MHz
+Memory Clock: 1470 MHz 5.9 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 94.08 GB/s
+
+Render Config:
+Shading Units: 768
+TMUs: 48
+ROPs: 16
+Compute Units: 12
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 14.51 GPixel/s
+Texture Rate: 43.54 GTexel/s
+FP16 (half): 1,393 GFLOPS (1:1)
+FP32 (float): 1,393 GFLOPS
+FP64 (double): 87.07 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 560X,"Graphics Processor: Polaris 21
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XT (215-0908004)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jul 16th, 2018
+Generation: Radeon Pro Mac (500X Series)
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 1004 MHz
+Memory Clock: 1470 MHz 5.9 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 94.08 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 16.06 GPixel/s
+Texture Rate: 64.26 GTexel/s
+FP16 (half): 2.056 TFLOPS (1:1)
+FP32 (float): 2.056 TFLOPS
+FP64 (double): 128.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro V340 16 GB,"Graphics Processor: Vega 10 x2
+Cores: 3584 x2
+TMUs: 224 x2
+ROPs: 64 x2
+Memory Size: 16 GB x2
+Memory Type: HBM2
+Bus Width: 2048 bit x2","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL GL (215-0894304)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 26th, 2018
+Generation: Radeon Pro Vega (Vega Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 852 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 336.0 GTexel/s
+FP16 (half): 21.50 TFLOPS (2:1)
+FP32 (float): 10.75 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 1x mini-DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05387-00_03
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro V340 8 GB,"Graphics Processor: Vega 10 x2
+Cores: 3584 x2
+TMUs: 224 x2
+ROPs: 64 x2
+Memory Size: 8 GB x2
+Memory Type: HBM2
+Bus Width: 2048 bit x2","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL GL (215-0894304)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 26th, 2018
+Generation: Radeon Pro Vega (Vega Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 852 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 336.0 GTexel/s
+FP16 (half): 21.50 TFLOPS (2:1)
+FP32 (float): 10.75 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 1x mini-DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05387-00_03
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro V420,"Graphics Processor: Vega 20
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 32 GB
+Memory Type: HBM2
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Vega 20
+GPU Variant: Vega 20 GLXT WS (215-0914026)
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 13,230 million
+Density: 40.0M / mm²
+Die Size: 331 mm²
+Chip Package: BGA-1933
+
+Graphics Card:
+Release Date: Never Released
+Generation: Radeon Pro Vega (Vega II Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 800 MHz
+Boost Clock: 1700 MHz
+Memory Clock: 800 MHz 1600 Mbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: HBM2
+Memory Bus: 4096 bit
+Bandwidth: 819.2 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 108.8 GPixel/s
+Texture Rate: 435.2 GTexel/s
+FP16 (half): 27.85 TFLOPS (2:1)
+FP32 (float): 13.93 TFLOPS
+FP64 (double): 6.963 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 6x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: D164
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega 16,"Graphics Processor: Vega 12
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: HBM2
+Bus Width: 1024 bit","Graphics Processor:
+GPU Name: Vega 12
+GPU Variant: Vega 12 XLA
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Mobile Graphics:
+Release Date: Nov 14th, 2018
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 815 MHz
+Boost Clock: 1190 MHz
+Memory Clock: 1200 MHz 2.4 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: HBM2
+Memory Bus: 1024 bit
+Bandwidth: 307.2 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 38.08 GPixel/s
+Texture Rate: 76.16 GTexel/s
+FP16 (half): 4.874 TFLOPS (2:1)
+FP32 (float): 2.437 TFLOPS
+FP64 (double): 152.3 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.0
+
+",없음
+AMD Radeon Pro Vega 20,"Graphics Processor: Vega 12
+Cores: 1280
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: HBM2
+Bus Width: 1024 bit","Graphics Processor:
+GPU Name: Vega 12
+GPU Variant: Vega 12 XTA
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Mobile Graphics:
+Release Date: Nov 14th, 2018
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 815 MHz
+Boost Clock: 1283 MHz
+Memory Clock: 740 MHz 1480 Mbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: HBM2
+Memory Bus: 1024 bit
+Bandwidth: 189.4 GB/s
+
+Render Config:
+Shading Units: 1280
+TMUs: 80
+ROPs: 32
+Compute Units: 20
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 41.06 GPixel/s
+Texture Rate: 102.6 GTexel/s
+FP16 (half): 6.569 TFLOPS (2:1)
+FP32 (float): 3.284 TFLOPS
+FP64 (double): 205.3 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 100 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.0
+
+",없음
+AMD Radeon Pro WX 8200,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Radeon Pro Polaris (WX x200)
+Predecessor: Radeon Pro GCN
+Successor: Radeon Pro Vega
+Production: Active
+Launch Price: 999 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1200 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 336.0 GTexel/s
+FP16 (half): 21.50 TFLOPS (2:1)
+FP32 (float): 10.75 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: 109-D05157-00C_04
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX Vega M GL,"Graphics Processor: Polaris 22
+Cores: 1280
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: HBM2
+Bus Width: 1024 bit","Graphics Processor:
+GPU Name: Polaris 22
+GPU Variant: VegaM MGL XL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,000 million
+Density: 24.0M / mm²
+Die Size: 208 mm²
+
+Mobile Graphics:
+Release Date: Apr 24th, 2018
+Generation: Vega (Vega M)
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 931 MHz
+Boost Clock: 1011 MHz
+Memory Clock: 700 MHz 1400 Mbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: HBM2
+Memory Bus: 1024 bit
+Bandwidth: 179.2 GB/s
+
+Render Config:
+Shading Units: 1280
+TMUs: 80
+ROPs: 32
+Compute Units: 20
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 32.35 GPixel/s
+Texture Rate: 80.88 GTexel/s
+FP16 (half): 2.588 TFLOPS (1:1)
+FP32 (float): 2.588 TFLOPS
+FP64 (double): 161.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 65 W
+Outputs: Portable Device Dependent
+Board Number: D136
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 540X Mobile,"Graphics Processor: Polaris 23
+Cores: 512
+TMUs: 32
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 MXL (216-0923020)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Apr 11th, 2018
+Generation: Polaris Mobile (RX M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1124 MHz
+Boost Clock: 1211 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 16
+Compute Units: 8
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 19.38 GPixel/s
+Texture Rate: 38.75 GTexel/s
+FP16 (half): 1,240 GFLOPS (1:1)
+FP32 (float): 1,240 GFLOPS
+FP64 (double): 77.50 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 550X 640SP,"Graphics Processor: Baffin
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin LE
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Apr 11th, 2018
+Generation: Polaris (RX 500X)
+Predecessor: Polaris
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1019 MHz
+Boost Clock: 1071 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 17.14 GPixel/s
+Texture Rate: 42.84 GTexel/s
+FP16 (half): 1,371 GFLOPS (1:1)
+FP32 (float): 1,371 GFLOPS
+FP64 (double): 85.68 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 145 mm 5.7 inches
+TDP: 60 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: D090-21
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 550X Mobile,"Graphics Processor: Polaris 23
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: Polaris 23
+GPU Variant: Polaris 23 MXT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 2,200 million
+Density: 21.4M / mm²
+Die Size: 103 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Apr 11th, 2018
+Generation: Polaris Mobile (RX M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1100 MHz
+Boost Clock: 1176 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 64 bit
+Bandwidth: 48.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 18.82 GPixel/s
+Texture Rate: 47.04 GTexel/s
+FP16 (half): 1.505 TFLOPS (1:1)
+FP32 (float): 1.505 TFLOPS
+FP64 (double): 94.08 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 560DX,"Graphics Processor: Polaris 21
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Apr 11th, 2018
+Generation: Polaris (RX 500X)
+Predecessor: Polaris
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1090 MHz
+Boost Clock: 1175 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 18.80 GPixel/s
+Texture Rate: 65.80 GTexel/s
+FP16 (half): 2.106 TFLOPS (1:1)
+FP32 (float): 2.106 TFLOPS
+FP64 (double): 131.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 65 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C994
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Dell RX 560DX OEM -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 560X,"Graphics Processor: Polaris 21
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XT (215-0908004)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Apr 11th, 2018
+Generation: Polaris (RX 500X)
+Predecessor: Polaris
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1175 MHz
+Boost Clock: 1275 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 20.40 GPixel/s
+Texture Rate: 81.60 GTexel/s
+FP16 (half): 2.611 TFLOPS (1:1)
+FP32 (float): 2.611 TFLOPS
+FP64 (double): 163.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C981
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Dell RX 560X OEM -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 560X Mobile,"Graphics Processor: Polaris 21
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21M XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Apr 11th, 2018
+Generation: Polaris Mobile (RX M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+GPU Clock: 1275 MHz
+Memory Clock: 1450 MHz 5.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 92.80 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 20.40 GPixel/s
+Texture Rate: 81.60 GTexel/s
+FP16 (half): 2.611 TFLOPS (1:1)
+FP32 (float): 2.611 TFLOPS
+FP64 (double): 163.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 65 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 570X,"Graphics Processor: Polaris 20
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XL (215-0910052)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 11th, 2018
+Generation: Polaris (RX 500X)
+Predecessor: Polaris
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1168 MHz
+Boost Clock: 1244 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.81 GPixel/s
+Texture Rate: 159.2 GTexel/s
+FP16 (half): 5.095 TFLOPS (1:1)
+FP32 (float): 5.095 TFLOPS
+FP64 (double): 318.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+Board Number: D000
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Dell RX 570X OEM -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 580 2048SP,"Graphics Processor: Polaris 20
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XL (215-0910052)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Oct 15th, 2018
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+Reviews: 52 in our database
+
+Clock Speeds:
+Base Clock: 1168 MHz
+Boost Clock: 1284 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 41.09 GPixel/s
+Texture Rate: 164.4 GTexel/s
+FP16 (half): 5.259 TFLOPS (1:1)
+FP32 (float): 5.259 TFLOPS
+FP64 (double): 328.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C940, D000
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 580 2048SP 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:Dataland RX 580 2048SP X-Serial -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1310 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:Dataland RX 580 2048SP X-Serial 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1310 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 242 mm/9.5 inches
+기반 제품명:Dataland RX 580 2048SP X-Serial Plus -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1306 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MAXSUN RX 580 2048SP Big Mac -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 580 2048SP ARMOR -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 246 mm/9.7 inches
+기반 제품명:MSI RX 580 2048SP ARMOR 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 246 mm/9.7 inches
+기반 제품명:Sapphire RX 580 2048SP OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1306 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire RX 580 2048SP OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1306 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 170 mm/6.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:XFX RX 580 2048SP Black Wolf -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1286 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:XFX RX 580 2048SP Black Wolf 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1286 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 243 mm/9.6 inches
+기반 제품명:Yeston RX 580 2048SP CUTE PET -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 580G,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XTX (215-0910038)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Oct 15th, 2018
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+Reviews: 52 in our database
+
+Clock Speeds:
+Base Clock: 1257 MHz
+Boost Clock: 1330 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 42.56 GPixel/s
+Texture Rate: 191.5 GTexel/s
+FP16 (half): 6.129 TFLOPS (1:1)
+FP32 (float): 6.129 TFLOPS
+FP64 (double): 383.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 185 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C940, D009-04
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Sapphire RX 580G Platinum Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1330 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+"
+AMD Radeon RX 580X,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XTX (215-0910038)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 11th, 2018
+Generation: Polaris (RX 500X)
+Predecessor: Polaris
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1257 MHz
+Boost Clock: 1340 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 42.88 GPixel/s
+Texture Rate: 193.0 GTexel/s
+FP16 (half): 6.175 TFLOPS (1:1)
+FP32 (float): 6.175 TFLOPS
+FP64 (double): 385.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 185 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C940
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Dell RX 580X OEM -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 580X Mobile,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20M XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Apr 11th, 2018
+Generation: Polaris Mobile (RX M500X)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+GPU Clock: 1266 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 40.51 GPixel/s
+Texture Rate: 182.3 GTexel/s
+FP16 (half): 5.834 TFLOPS (1:1)
+FP32 (float): 5.834 TFLOPS
+FP64 (double): 364.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 100 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 590,"Graphics Processor: Polaris 30
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 30
+GPU Variant: Polaris 30 XT (215-0922006)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 12 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Nov 15th, 2018
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 279 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 36 in our database
+
+Clock Speeds:
+Base Clock: 1469 MHz
+Boost Clock: 1545 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 49.44 GPixel/s
+Texture Rate: 222.5 GTexel/s
+FP16 (half): 7.119 TFLOPS (1:1)
+FP32 (float): 7.119 TFLOPS
+FP64 (double): 445.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 175 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C944-41
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock Phantom Gaming U RX 590 OC -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1560 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASRock Phantom Gaming X RX 590 OC -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1560 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 590 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Dataland RX 590 X-Serial Plus -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 590 GAMING Rev. 1.0 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 590 GAMING Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:HIS RX 590 IceQ X2 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: Triple-slot, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 590 IceQ X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: Triple-slot, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MSI RX 590 ARMOR -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 278 mm/10.9 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 590 ARMOR OC -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1565 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 278 mm/10.9 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor Red Devil RX 590 OC -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1576 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 590 OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1555 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 590 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 590 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1560 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 590 AMD 50 Gold Edition -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1560 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 590 Special Edition -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1560 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 590 -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:VisionTek RX 590 OC Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1580 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX RX 590 50th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1600 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX RX 590 Fatboy -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, Triple-slot, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX RX 590 Fatboy OC+ -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1580 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, Triple-slot, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Yeston RX 590 Game Master -해당 제품의 바뀐 사항 GPU Clock: 1469 MHz, Boost Clock: 1545 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, 1x DVI 1x HDMI 3x DisplayPort
+"
+AMD Radeon RX Vega 11,"Graphics Processor: Raven
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Feb 12th, 2018
+Generation: Vega IGP (Raven Ridge)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1240 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 9.920 GPixel/s
+Texture Rate: 54.56 GTexel/s
+FP16 (half): 3.492 TFLOPS (2:1)
+FP32 (float): 1.746 TFLOPS
+FP64 (double): 109.1 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 11 Embedded,"Graphics Processor: Raven
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Apr 19th, 2018
+Generation: Vega IGP (Raven Ridge)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1251 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 10.01 GPixel/s
+Texture Rate: 55.04 GTexel/s
+FP16 (half): 3.523 TFLOPS (2:1)
+FP32 (float): 1.761 TFLOPS
+FP64 (double): 110.1 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 56 Mobile,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XLM
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Mobile Graphics:
+Release Date: Jun 1st, 2018
+Generation: Polaris Mobile (Vega)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x16
+Reviews: 23 in our database
+
+Clock Speeds:
+Base Clock: 1138 MHz
+Boost Clock: 1301 MHz
+Memory Clock: 800 MHz 1600 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 409.6 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 83.26 GPixel/s
+Texture Rate: 291.4 GTexel/s
+FP16 (half): 18.65 TFLOPS (2:1)
+FP32 (float): 9.326 TFLOPS
+FP64 (double): 582.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+Length: 105 mm 4.1 inches
+TDP: 120 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega M GH,"Graphics Processor: Polaris 22
+Cores: 1536
+TMUs: 96
+ROPs: 64
+Memory Size: 4 GB
+Memory Type: HBM2
+Bus Width: 1024 bit","Graphics Processor:
+GPU Name: Polaris 22
+GPU Variant: VegaM XT (C7398773)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,000 million
+Density: 24.0M / mm²
+Die Size: 208 mm²
+
+Mobile Graphics:
+Release Date: Feb 1st, 2018
+Generation: Vega (Vega M)
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 1063 MHz
+Boost Clock: 1190 MHz
+Memory Clock: 800 MHz 1600 Mbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: HBM2
+Memory Bus: 1024 bit
+Bandwidth: 204.8 GB/s
+
+Render Config:
+Shading Units: 1536
+TMUs: 96
+ROPs: 64
+Compute Units: 24
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 76.16 GPixel/s
+Texture Rate: 114.2 GTexel/s
+FP16 (half): 3.656 TFLOPS (1:1)
+FP32 (float): 3.656 TFLOPS
+FP64 (double): 228.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 100 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega M GL,"Graphics Processor: Polaris 22
+Cores: 1280
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: HBM2
+Bus Width: 1024 bit","Graphics Processor:
+GPU Name: Polaris 22
+GPU Variant: VegaM XL (D715A714)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,000 million
+Density: 24.0M / mm²
+Die Size: 208 mm²
+
+Mobile Graphics:
+Release Date: Feb 1st, 2018
+Generation: Vega (Vega M)
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 931 MHz
+Boost Clock: 1011 MHz
+Memory Clock: 700 MHz 1400 Mbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: HBM2
+Memory Bus: 1024 bit
+Bandwidth: 179.2 GB/s
+
+Render Config:
+Shading Units: 1280
+TMUs: 80
+ROPs: 32
+Compute Units: 20
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 32.35 GPixel/s
+Texture Rate: 80.88 GTexel/s
+FP16 (half): 2.588 TFLOPS (1:1)
+FP32 (float): 2.588 TFLOPS
+FP64 (double): 161.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 65 W
+Outputs: Portable Device Dependent
+Board Number: D136
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 11 Embedded,"Graphics Processor: Raven
+Cores: 704
+TMUs: 44
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Feb 13th, 2018
+Generation: Vega IGP (Great Horned Owl)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1301 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 704
+TMUs: 44
+ROPs: 8
+Compute Units: 11
+
+Theoretical Performance:
+Pixel Rate: 10.41 GPixel/s
+Texture Rate: 57.24 GTexel/s
+FP16 (half): 3.664 TFLOPS (2:1)
+FP32 (float): 1.832 TFLOPS
+FP64 (double): 114.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 3 Embedded,"Graphics Processor: Raven
+Cores: 192
+TMUs: 12
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Feb 13th, 2018
+Generation: Vega IGP (Great Horned Owl)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1001 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 4
+Compute Units: 3
+
+Theoretical Performance:
+Pixel Rate: 4.004 GPixel/s
+Texture Rate: 12.01 GTexel/s
+FP16 (half): 768.8 GFLOPS (2:1)
+FP32 (float): 384.4 GFLOPS
+FP64 (double): 24.02 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 3 Mobile,"Graphics Processor: Raven-M
+Cores: 192
+TMUs: 12
+ROPs: 4
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 8th, 2018
+Generation: Vega IGP (Raven Ridge-M)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1101 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 12
+ROPs: 4
+Compute Units: 3
+
+Theoretical Performance:
+Pixel Rate: 4.404 GPixel/s
+Texture Rate: 13.21 GTexel/s
+FP16 (half): 845.6 GFLOPS (2:1)
+FP32 (float): 422.8 GFLOPS
+FP64 (double): 26.42 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 6 Embedded,"Graphics Processor: Raven
+Cores: 384
+TMUs: 24
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: May 10th, 2018
+Generation: Vega IGP (Raven Ridge)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1280 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 8
+Compute Units: 6
+
+Theoretical Performance:
+Pixel Rate: 10.24 GPixel/s
+Texture Rate: 30.72 GTexel/s
+FP16 (half): 1.966 TFLOPS (2:1)
+FP32 (float): 983.0 GFLOPS
+FP64 (double): 61.44 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 6 Mobile,"Graphics Processor: Raven-M
+Cores: 384
+TMUs: 24
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 8th, 2018
+Generation: Vega IGP (Raven Ridge-M)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1101 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 8
+Compute Units: 6
+
+Theoretical Performance:
+Pixel Rate: 8.808 GPixel/s
+Texture Rate: 26.42 GTexel/s
+FP16 (half): 1.691 TFLOPS (2:1)
+FP32 (float): 845.6 GFLOPS
+FP64 (double): 52.85 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 8,"Graphics Processor: Raven
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Feb 12th, 2018
+Generation: Vega IGP (Raven Ridge)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1100 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 8.800 GPixel/s
+Texture Rate: 35.20 GTexel/s
+FP16 (half): 2.253 TFLOPS (2:1)
+FP32 (float): 1,126 GFLOPS
+FP64 (double): 70.40 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega 8 Embedded,"Graphics Processor: Raven
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Apr 19th, 2018
+Generation: Vega IGP (Raven Ridge)
+Predecessor: GCN 3.0 IGP
+Successor: Vega II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1101 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 8.808 GPixel/s
+Texture Rate: 35.23 GTexel/s
+FP16 (half): 2.255 TFLOPS (2:1)
+FP32 (float): 1,127 GFLOPS
+FP64 (double): 70.46 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음

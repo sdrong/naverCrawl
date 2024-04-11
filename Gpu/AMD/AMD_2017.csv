@@ -1,0 +1,3023 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+AMD P30PH,"Graphics Processor: Polaris 20
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Unknown
+Generation: Mining GPUs
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1120 MHz
+Boost Clock: 1206 MHz
+Memory Clock: 2100 MHz 8.4 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 268.8 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.59 GPixel/s
+Texture Rate: 154.4 GTexel/s
+FP16 (half): 4.940 TFLOPS (1:1)
+FP32 (float): 4.940 TFLOPS
+FP64 (double): 308.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 180 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b
+Power Connectors: 2x 8-pin
+Board Number: P010
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Instinct MI25,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT GL (215-0894124)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Jun 27th, 2017
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1400 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 852 MHz 1704 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 436.2 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 384.0 GTexel/s
+FP16 (half): 24.58 TFLOPS (2:1)
+FP32 (float): 12.29 TFLOPS
+FP64 (double): 768.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: No outputs
+Power Connectors: 2x 8-pin
+Board Number: D051
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 555,"Graphics Processor: Polaris 21
+Cores: 768
+TMUs: 48
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 PRO
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jun 5th, 2017
+Generation: Radeon Pro Mac (500 Series)
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 850 MHz
+Memory Clock: 1275 MHz 5.1 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 81.60 GB/s
+
+Render Config:
+Shading Units: 768
+TMUs: 48
+ROPs: 16
+Compute Units: 12
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 13.60 GPixel/s
+Texture Rate: 40.80 GTexel/s
+FP16 (half): 1,306 GFLOPS (1:1)
+FP32 (float): 1,306 GFLOPS
+FP64 (double): 81.60 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 560,"Graphics Processor: Polaris 21
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XT (215-0908004)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Apr 18th, 2017
+Generation: Radeon Pro Mac (500 Series)
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+GPU Clock: 907 MHz
+Memory Clock: 1270 MHz 5.1 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 81.28 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 14.51 GPixel/s
+Texture Rate: 58.05 GTexel/s
+FP16 (half): 1.858 TFLOPS (1:1)
+FP32 (float): 1.858 TFLOPS
+FP64 (double): 116.1 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 570,"Graphics Processor: Ellesmere
+Cores: 1792
+TMUs: 112
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere PROA
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Jun 5th, 2017
+Generation: Radeon Pro Mac (500 Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1105 MHz
+Memory Clock: 1695 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 217.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 32
+Compute Units: 28
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 35.36 GPixel/s
+Texture Rate: 123.8 GTexel/s
+FP16 (half): 3.960 TFLOPS (1:1)
+FP32 (float): 3.960 TFLOPS
+FP64 (double): 247.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 150 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 575,"Graphics Processor: Ellesmere
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XLA
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Jun 5th, 2017
+Generation: Radeon Pro Mac (500 Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 1096 MHz
+Memory Clock: 1695 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 217.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 35.07 GPixel/s
+Texture Rate: 140.3 GTexel/s
+FP16 (half): 4.489 TFLOPS (1:1)
+FP32 (float): 4.489 TFLOPS
+FP64 (double): 280.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 150 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: 109-C29557-00
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro 580,"Graphics Processor: Ellesmere
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XTA (216-0876220)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Jun 5th, 2017
+Generation: Radeon Pro Mac (500 Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1100 MHz
+Boost Clock: 1200 MHz
+Memory Clock: 1695 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 217.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.40 GPixel/s
+Texture Rate: 172.8 GTexel/s
+FP16 (half): 5.530 TFLOPS (1:1)
+FP32 (float): 5.530 TFLOPS
+FP64 (double): 345.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 185 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Duo Polaris,"Graphics Processor: Ellesmere x2
+Cores: 2304 x2
+TMUs: 144 x2
+ROPs: 32 x2
+Memory Size: 16 GB x2
+Memory Type: GDDR5
+Bus Width: 256 bit x2","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere Gemini GL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 24th, 2017
+Generation: Radeon Pro GCN
+Predecessor: FirePro GCN
+Successor: Radeon Pro Polaris
+Production: Active
+Launch Price: 999 USD
+Bus Interface: PCIe 3.0 x16
+Reviews: 6 in our database
+
+Clock Speeds:
+GPU Clock: 1243 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.78 GPixel/s
+Texture Rate: 179.0 GTexel/s
+FP16 (half): 5.728 TFLOPS (1:1)
+FP32 (float): 5.728 TFLOPS
+FP64 (double): 358.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 305 mm 12 inches
+Width: 111 mm 4.4 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: 109-D08637-00B_02
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro SSG,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT GL (215-0894124)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 8th, 2017
+Generation: Radeon Pro Vega (Vega Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Launch Price: 6,999 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1440 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 384.0 GTexel/s
+FP16 (half): 24.58 TFLOPS (2:1)
+FP32 (float): 12.29 TFLOPS
+FP64 (double): 768.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: 6x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro V320,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL GL SERVER (215-0894144)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Jun 29th, 2017
+Generation: Radeon Pro Vega (Vega Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 852 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 336.0 GTexel/s
+FP16 (half): 21.50 TFLOPS (2:1)
+FP32 (float): 10.75 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05187-00_03
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega 56,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL (215-0894216)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Mobile Graphics:
+Release Date: Aug 14th, 2017
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1138 MHz
+Boost Clock: 1250 MHz
+Memory Clock: 786 MHz 1572 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 402.4 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 80.00 GPixel/s
+Texture Rate: 280.0 GTexel/s
+FP16 (half): 17.92 TFLOPS (2:1)
+FP32 (float): 8.960 TFLOPS
+FP64 (double): 560.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 210 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro Vega 64,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Mobile Graphics:
+Release Date: Jun 27th, 2017
+Generation: Radeon Pro Mac (Vega Series)
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1250 MHz
+Boost Clock: 1350 MHz
+Memory Clock: 786 MHz 1572 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 402.4 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 86.40 GPixel/s
+Texture Rate: 345.6 GTexel/s
+FP16 (half): 22.12 TFLOPS (2:1)
+FP32 (float): 11.06 TFLOPS
+FP64 (double): 691.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 250 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 4130 Mobile,"Graphics Processor: Baffin
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: BaffinM LE GL (216-0896288)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Mar 1st, 2017
+Generation: Radeon Pro Mobile (WX x100)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1002 MHz
+Boost Clock: 1053 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 16.85 GPixel/s
+Texture Rate: 42.12 GTexel/s
+FP16 (half): 1,348 GFLOPS (1:1)
+FP32 (float): 1,348 GFLOPS
+FP64 (double): 84.24 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: 109-C98581-00_02
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 4150 Mobile,"Graphics Processor: Baffin
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: BaffinM PRO GL (216-0896288)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Mar 1st, 2017
+Generation: Radeon Pro Mobile (WX x100)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1002 MHz
+Boost Clock: 1053 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 16.85 GPixel/s
+Texture Rate: 58.97 GTexel/s
+FP16 (half): 1.887 TFLOPS (1:1)
+FP32 (float): 1.887 TFLOPS
+FP64 (double): 117.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: 109-C98581-00_02
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 4170 Mobile,"Graphics Processor: Baffin
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: BaffinM XT GL (215-0895074)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Mar 1st, 2017
+Generation: Radeon Pro Mobile (WX x100)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 1002 MHz
+Boost Clock: 1201 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 19.22 GPixel/s
+Texture Rate: 76.86 GTexel/s
+FP16 (half): 2.460 TFLOPS (1:1)
+FP32 (float): 2.460 TFLOPS
+FP64 (double): 153.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: 109-C99581-00B_02
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 7100 Mobile,"Graphics Processor: Ellesmere
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XT GL (215-0876358)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Mar 1st, 2017
+Generation: Radeon Pro Mobile (WX x100)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1188 MHz
+Boost Clock: 1243 MHz
+Memory Clock: 1250 MHz 5 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 160.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.78 GPixel/s
+Texture Rate: 179.0 GTexel/s
+FP32 (float): 5.728 TFLOPS
+FP64 (double): 358.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+Length: 25 mm 1 inches
+TDP: 130 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Dell Radeon Pro WX 7100 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1188 MHz, Boost Clock: 1243 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell Radeon Pro WX 7100 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1188 MHz, Boost Clock: 1243 MHz, Memory Clock: 1250 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon Pro WX 7130 Mobile,"Graphics Processor: Ellesmere
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere XT GL (215-0876358)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Mar 1st, 2017
+Generation: Radeon Pro Mobile (WX x100)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1188 MHz
+Boost Clock: 1243 MHz
+Memory Clock: 1250 MHz 5 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 160.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.78 GPixel/s
+Texture Rate: 179.0 GTexel/s
+FP32 (float): 5.728 TFLOPS
+FP64 (double): 358.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+Length: 25 mm 1 inches
+TDP: 130 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 8100,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL (215-0894216)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Dec 3rd, 2017
+Generation: Radeon Pro Polaris (WX x100)
+Predecessor: Radeon Pro GCN
+Successor: Radeon Pro Vega
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1200 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 1000 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 336.0 GTexel/s
+FP16 (half): 21.50 TFLOPS (2:1)
+FP32 (float): 10.75 TFLOPS
+FP64 (double): 672.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 6x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: 109-D05157-00C_04
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro WX 9100,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Jul 10th, 2017
+Generation: Radeon Pro Polaris (WX x100)
+Predecessor: Radeon Pro GCN
+Successor: Radeon Pro Vega
+Production: Active
+Launch Price: 1,599 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1200 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 96.00 GPixel/s
+Texture Rate: 384.0 GTexel/s
+FP16 (half): 24.58 TFLOPS (2:1)
+FP32 (float): 12.29 TFLOPS
+FP64 (double): 768.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 6x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: 109-D05157-00C_04
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 460 1024SP,"Graphics Processor: Baffin
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Jan 17th, 2017
+Generation: Arctic Islands (RX 400)
+Predecessor: Pirate Islands
+Successor: Polaris
+Production: Active
+Bus Interface: PCIe 3.0 x8
+Reviews: 38 in our database
+
+Clock Speeds:
+Base Clock: 1090 MHz
+Boost Clock: 1200 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 19.20 GPixel/s
+Texture Rate: 76.80 GTexel/s
+FP16 (half): 2.458 TFLOPS (1:1)
+FP32 (float): 2.458 TFLOPS
+FP64 (double): 153.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C994
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Sapphire NITRO RX 460 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1250 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 221 mm/8.7 inches
+기반 제품명:XFX RX 460 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1260 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 238 mm/9.4 inches
+"
+AMD Radeon RX 550 512SP,"Graphics Processor: Baffin
+Cores: 512
+TMUs: 32
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin LE
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Oct 13th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 79 USD
+Bus Interface: PCIe 3.0 x8
+Reviews: 5 in our database
+
+Clock Speeds:
+Base Clock: 1019 MHz
+Boost Clock: 1071 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 16
+Compute Units: 8
+L1 Cache: 16 KB (per CU)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 17.14 GPixel/s
+Texture Rate: 34.27 GTexel/s
+FP16 (half): 1,097 GFLOPS (1:1)
+FP32 (float): 1,097 GFLOPS
+FP64 (double): 68.54 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 145 mm 5.7 inches
+TDP: 50 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: D090
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock Phantom Gaming RX 550 -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1183 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:XFX RX 550 Core Edition 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1203 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 170 mm/6.7 inches
+기반 제품명:XFX RX 550 Double Dissipation 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1091 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 226 mm/8.9 inches
+기반 제품명:Yeston RX 550 GAEA -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 223 mm/8.8 inches
+기반 제품명:Yeston RX 550 Low Profile -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 170 mm/6.7 inches, Single-slot
+기반 제품명:Yeston RX 550 Speed Edition -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB
+"
+AMD Radeon RX 550 640SP,"Graphics Processor: Baffin
+Cores: 640
+TMUs: 40
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin LE
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Oct 13th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+Reviews: 5 in our database
+
+Clock Speeds:
+Base Clock: 1019 MHz
+Boost Clock: 1071 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 16
+Compute Units: 10
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 17.14 GPixel/s
+Texture Rate: 42.84 GTexel/s
+FP16 (half): 1,371 GFLOPS (1:1)
+FP32 (float): 1,371 GFLOPS
+FP64 (double): 85.68 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 145 mm 5.7 inches
+TDP: 60 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: D090
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AREZ PHOENIX RX 550 640SP -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 193 mm/7.6 inches
+기반 제품명:AREZ PHOENIX RX 550 M7 640SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 193 mm/7.6 inches
+기반 제품명:ASRock Phantom Gaming RX 550 640SP -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1183 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:ASUS PHOENIX RX 550 640SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 193 mm/7.6 inches
+기반 제품명:ASUS PHOENIX RX 550 M7 640SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 193 mm/7.6 inches
+기반 제품명:BIOSTAR RX 550 640SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB
+기반 제품명:Sapphire PULSE RX 550 640SP -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 158 mm/6.2 inches, Single-slot
+기반 제품명:Sapphire PULSE RX 550 640SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 4 GB, 158 mm/6.2 inches, Single-slot
+기반 제품명:Yeston RX 550 640SP Low Profile -해당 제품의 바뀐 사항 GPU Clock: 1019 MHz, Boost Clock: 1071 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+"
+AMD Radeon RX 560,"Graphics Processor: Polaris 21
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XT (215-0908004)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Apr 18th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 99 USD
+Bus Interface: PCIe 3.0 x8
+Reviews: 7 in our database
+
+Clock Speeds:
+Base Clock: 1175 MHz
+Boost Clock: 1275 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 20.40 GPixel/s
+Texture Rate: 81.60 GTexel/s
+FP16 (half): 2.611 TFLOPS (1:1)
+FP32 (float): 2.611 TFLOPS
+FP64 (double): 163.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C994
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AREZ STRIX RX 560 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:AREZ STRIX RX 560 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1326 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:ASUS DUAL RX 560 -해당 제품의 바뀐 사항 GPU Clock: 1199 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x HDMI 2x DisplayPort
+기반 제품명:ASUS RX 560 Dual Fan 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 221 mm/8.7 inches
+기반 제품명:ASUS RX 560 Dual Fan 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:ASUS ROG STRIX RX 560 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:ASUS ROG STRIX RX 560 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1326 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:BIOSTAR RX 560 -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:BIOSTAR RX 560 Dual Cooling -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ColorFire RX 560 -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ColorFire RX 560 V2 -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 560 X-Serial God of War 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1313 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 225 mm/8.9 inches
+기반 제품명:Dataland RX 560 X-Serial God of War 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1313 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:Dataland RX 560 X-Serial War 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 225 mm/8.9 inches
+기반 제품명:Dataland RX 560 X-Serial War 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:GIGABYTE RX 560 GAMING OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1287 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 190 mm/7.5 inches
+기반 제품명:GIGABYTE RX 560 GAMING OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1287 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:HIS RX 560 iCooler OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:KUROUTOSHIKOU RX 560 -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 560 AERO ITX OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1320 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 147 mm/5.8 inches
+기반 제품명:MSI RX 560 AERO ITX OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1320 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 155 mm/6.1 inches
+기반 제품명:MSI RX 560 Low Profile 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:MSI RX 560 Low Profile 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor Red Dragon RX 560 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1288 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 560 OC V2 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 225 mm/8.9 inches
+기반 제품명:PowerColor Red Dragon RX 560 OC V2 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:PowerColor Red Dragon RX 560 OC V3 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:PowerColor Red Dragon RX 560 OC V3 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1180 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire PULSE RX 560 2 GB 45W -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1216 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:Sapphire PULSE RX 560 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 210 mm/8.3 inches
+기반 제품명:Sapphire PULSE RX 560 4 GB 45W -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1216 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire PULSE RX 560 Mining -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI
+기반 제품명:Sapphire PULSE RX 560 OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1300 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 210 mm/8.3 inches
+기반 제품명:Sapphire PULSE RX 560 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1300 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 210 mm/8.3 inches
+기반 제품명:VisionTek RX 560 Overclocked -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 560 Black Wolf OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 211 mm/8.3 inches
+기반 제품명:XFX RX 560 Double Dissipation OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 211 mm/8.3 inches
+기반 제품명:XFX RX 560 Double Dissipation OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 211 mm/8.3 inches
+기반 제품명:XFX RX 560 Single Fan OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:XFX RX 560 Single Fan OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 560 Slim Single Slot OC -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1295 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Single-slot
+기반 제품명:Yeston RX 560 GAEA -해당 제품의 바뀐 사항 GPU Clock: 1175 MHz, Boost Clock: 1275 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 223 mm/8.8 inches
+"
+AMD Radeon RX 560 896SP,"Graphics Processor: Polaris 21
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Jul 4th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+Reviews: 7 in our database
+
+Clock Speeds:
+Base Clock: 1090 MHz
+Boost Clock: 1175 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 112.0 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 18.80 GPixel/s
+Texture Rate: 65.80 GTexel/s
+FP16 (half): 2.106 TFLOPS (1:1)
+FP32 (float): 2.106 TFLOPS
+FP64 (double): 131.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 45 W
+Suggested PSU: 200 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C981-21 C994-71
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASUS RX 560 Dual Fan OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1210 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:ASUS RX 560 Dual Fan OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1210 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 560 GAMING OC Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1224 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:MSI RX 560 AERO ITX OC -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 147 mm/5.8 inches
+기반 제품명:XFX RX 560 Wolf Warrior Edition -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 211 mm/8.3 inches
+"
+AMD Radeon RX 560 Mobile,"Graphics Processor: Baffin
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: BaffinM-XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jan 5th, 2017
+Generation: Polaris Mobile (RX M500)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+Base Clock: 784 MHz
+Boost Clock: 1032 MHz
+Memory Clock: 1710 MHz 6.8 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 109.4 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 16.51 GPixel/s
+Texture Rate: 57.79 GTexel/s
+FP16 (half): 1.849 TFLOPS (1:1)
+FP32 (float): 1.849 TFLOPS
+FP64 (double): 115.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 55 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 560 Mobile,"Graphics Processor: Baffin
+Cores: 1024
+TMUs: 64
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jan 5th, 2017
+Generation: Polaris Mobile (RX M500)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+Base Clock: 1090 MHz
+Boost Clock: 1202 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 16
+Compute Units: 16
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 19.23 GPixel/s
+Texture Rate: 76.93 GTexel/s
+FP16 (half): 2.462 TFLOPS (1:1)
+FP32 (float): 2.462 TFLOPS
+FP64 (double): 153.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 65 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 560 Mobile,"Graphics Processor: Baffin
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Baffin
+GPU Variant: Baffin XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Mobile Graphics:
+Release Date: Jan 5th, 2017
+Generation: Polaris Mobile (RX M500)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1053 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 16.85 GPixel/s
+Texture Rate: 58.97 GTexel/s
+FP16 (half): 1.887 TFLOPS (1:1)
+FP32 (float): 1.887 TFLOPS
+FP64 (double): 117.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 55 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 560D,"Graphics Processor: Polaris 21
+Cores: 896
+TMUs: 56
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Polaris 21
+GPU Variant: Polaris 21 XL
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 3,000 million
+Density: 24.4M / mm²
+Die Size: 123 mm²
+Chip Package: BGA-769
+
+Graphics Card:
+Release Date: Jul 4th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Bus Interface: PCIe 3.0 x8
+Reviews: 7 in our database
+
+Clock Speeds:
+Base Clock: 1090 MHz
+Boost Clock: 1175 MHz
+Memory Clock: 1500 MHz 6 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 896
+TMUs: 56
+ROPs: 16
+Compute Units: 14
+L1 Cache: 16 KB (per CU)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 18.80 GPixel/s
+Texture Rate: 65.80 GTexel/s
+FP16 (half): 2.106 TFLOPS (1:1)
+FP32 (float): 2.106 TFLOPS
+FP64 (double): 131.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 170 mm 6.7 inches
+TDP: 65 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0b 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: C994-57 C994-71
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AREZ RX 560 EVO 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB, 221 mm/8.7 inches
+기반 제품명:AREZ RX 560 EVO 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:AREZ RX 560 EVO OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB, 221 mm/8.7 inches
+기반 제품명:AREZ RX 560 EVO OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:ASRock Phantom Gaming RX 560 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:ASRock Phantom Gaming RX 560 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RX 560 EVO OC -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:ASUS ROG STRIX RX 560 EVO GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1187 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 190 mm/7.5 inches
+기반 제품명:BIOSTAR RX 560 Dual Cooling -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 560D Dual Stability -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x DVI
+기반 제품명:Dataland RX 560D X-Serial -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1200 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:Dell RX 560D OEM OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1200 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, Single-slot
+기반 제품명:EMTEK HV RX 560D NANO -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1200 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 153 mm/6 inches
+기반 제품명:GIGABYTE RX 560 OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1189 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 560 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1189 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 560 OC Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1199 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX 560 GREEN iCooler OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1196 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:HIS RX 560 GREEN iCooler OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1149 MHz, Boost Clock: 1196 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 560D Terminator 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB
+기반 제품명:MAXSUN RX 560D Terminator 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 560 AERO ITX OC -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 147 mm/5.8 inches
+기반 제품명:PowerColor Red Dragon RX 560 14CU 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1176 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2 GB, 225 mm/8.9 inches
+기반 제품명:PowerColor Red Dragon RX 560 14CU 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1176 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:PowerColor Red Dragon RX 560 14CU V2 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1176 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB, 225 mm/8.9 inches
+기반 제품명:Sapphire PULSE RX 560 OC -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1216 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 216 mm/8.5 inches
+기반 제품명:Sapphire PULSE RX 560D OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1226 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB, 210 mm/8.3 inches
+기반 제품명:Sapphire PULSE RX 560D OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1226 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 210 mm/8.3 inches
+기반 제품명:XFX RX 560D Double Dissipation -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX 560D Single Fan OC 2 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 2 GB, 211 mm/8.3 inches
+기반 제품명:XFX RX 560D Single Fan OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1196 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 211 mm/8.3 inches
+기반 제품명:Yeston RX 560D GAEA -해당 제품의 바뀐 사항 GPU Clock: 1090 MHz, Boost Clock: 1175 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 223 mm/8.8 inches
+"
+AMD Radeon RX 570,"Graphics Processor: Polaris 20
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XL (215-0910052)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 18th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 169 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 29 in our database
+
+Clock Speeds:
+Base Clock: 1168 MHz
+Boost Clock: 1244 MHz
+Memory Clock: 1750 MHz 7 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 39.81 GPixel/s
+Texture Rate: 159.2 GTexel/s
+FP16 (half): 5.095 TFLOPS (1:1)
+FP32 (float): 5.095 TFLOPS
+FP64 (double): 318.5 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x DVI 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+Board Number: C940, D000
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AREZ EXPEDITION RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:AREZ EXPEDITION RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:AREZ EXPEDITION RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:AREZ STRIX RX 570 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:AREZ STRIX RX 570 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1300 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASRock Phantom Gaming D RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 236 mm/9.3 inches
+기반 제품명:ASRock Phantom Gaming D RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1270 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 236 mm/9.3 inches
+기반 제품명:ASRock Phantom Gaming M1 RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1150 MHz, Boost Clock: 1244 MHz, Memory Clock: 1900 MHz, 외의 바뀐 사항: 215 mm/8.5 inches, 1x DVI
+기반 제품명:ASRock Phantom Gaming M1 RX 570 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1150 MHz, Boost Clock: 1244 MHz, Memory Clock: 2050 MHz, 외의 바뀐 사항: 8 GB, 215 mm/8.5 inches, 1x DVI
+기반 제품명:ASRock Phantom Gaming X RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1280 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 279 mm/11 inches
+기반 제품명:ASRock Phantom Gaming X RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1280 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 279 mm/11 inches
+기반 제품명:ASUS EXPEDITION RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS EXPEDITION RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS EXPEDITION RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 239 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 570 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 570 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1300 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 570 GAMING OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1300 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 240 mm/9.4 inches, 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:BIOSTAR RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:BIOSTAR RX 570 Avenger -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ColorFire RX 570 Ustorm -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 570 Dual Cool -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Dataland RX 570 X-Serial -해당 제품의 바뀐 사항 GPU Clock: 1270 MHz, Boost Clock: 1320 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 282 mm/11.1 inches
+기반 제품명:Dataland RX 570 X-Serial War -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1270 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:Dataland RX 570 X-Serial War 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1244 MHz, Boost Clock: 1270 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:GIGABYTE AORUS RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1280 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:GIGABYTE RX 570 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:GIGABYTE RX 570 GAMING 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 232 mm/9.1 inches
+기반 제품명:GIGABYTE RX 570 GAMING MINING -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:GIGABYTE RX 570 GAMING Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:GIGABYTE RX 580 GAMING MINING Rev. 1.1 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+기반 제품명:HIS RX 570 IceQ X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1264 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX 570 IceQ X2 Turbo 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1264 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:KUROUTOSHIKOU RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1250 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Big Mac -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Big Mac 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:MAXSUN RX 570 Diamond -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Giant -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MAXSUN RX 570 Overseas Edition -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Overseas Edition M.2 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 2x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MAXSUN RX 570 Overseas Edition M.3 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Overseas Edition M.4 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Overseas Edition V2 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX 570 Overseas Edition V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:MAXSUN RX 570 Platinum I -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 570 ARMOR -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 246 mm/9.7 inches
+기반 제품명:MSI RX 570 ARMOR 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 246 mm/9.7 inches
+기반 제품명:MSI RX 570 ARMOR MK2 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 ARMOR MK2 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1268 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 ARMOR OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1268 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 246 mm/9.7 inches
+기반 제품명:MSI RX 570 ARMOR OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1268 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 246 mm/9.7 inches
+기반 제품명:MSI RX 570 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 276 mm/10.9 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 GAMING 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1256 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1281 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 276 mm/10.9 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 GAMING X 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1281 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 276 mm/10.9 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 570 MECH 2 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1281 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ONDA RX 570 Model -해당 제품의 바뀐 사항 GPU Clock: 1100 MHz, Boost Clock: 1100 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1270 MHz, Boost Clock: 1320 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches
+기반 제품명:PowerColor Red Dragon RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1250 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:PowerColor Red Dragon RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1250 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 255 mm/10 inches
+기반 제품명:Pradeon RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire NITRO+ RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 570 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1244 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 570 -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 570 ITX MINI -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Sapphire PULSE RX 570 OC -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 570 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 570 OC V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1284 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8.00391 GB, 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire RX 570 Blockchain -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 16 GB, 1x HDMI
+기반 제품명:VisionTek RX 570 Overclocked -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1264 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RS RX 570 Black Edition -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1286 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:XFX RS RX 570 Black Edition 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1286 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 8 GB, 243 mm/9.6 inches
+기반 제품명:XFX RS RX 570 XXX -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1264 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:Yeston RX 570 GAMEACE -해당 제품의 바뀐 사항 GPU Clock: 1168 MHz, Boost Clock: 1244 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+"
+AMD Radeon RX 570 Mobile,"Graphics Processor: Ellesmere
+Cores: 2048
+TMUs: 128
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Ellesmere
+GPU Variant: Ellesmere PRO
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Dec 10th, 2017
+Generation: Polaris Mobile (RX M500)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+Base Clock: 926 MHz
+Boost Clock: 1206 MHz
+Memory Clock: 1650 MHz 6.6 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 211.2 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.59 GPixel/s
+Texture Rate: 154.4 GTexel/s
+FP16 (half): 4.940 TFLOPS (1:1)
+FP32 (float): 4.940 TFLOPS
+FP64 (double): 308.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 85 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 570 X2,"Graphics Processor: Polaris 20 x2
+Cores: 2048 x2
+TMUs: 128 x2
+ROPs: 32 x2
+Memory Size: 8 GB x2
+Memory Type: GDDR5
+Bus Width: 256 bit x2","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XL (215-0910052)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Unknown
+Generation: Mining GPUs
+Production: Active
+Bus Interface: PCIe 3.0 x16
+Reviews: 29 in our database
+
+Clock Speeds:
+Base Clock: 1120 MHz
+Boost Clock: 1206 MHz
+Memory Clock: 2100 MHz 8.4 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 268.8 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 32
+Compute Units: 32
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.59 GPixel/s
+Texture Rate: 154.4 GTexel/s
+FP16 (half): 4.940 TFLOPS (1:1)
+FP32 (float): 4.940 TFLOPS
+FP64 (double): 308.7 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 180 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b
+Power Connectors: 2x 8-pin
+Board Number: P010
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Sapphire RX 570 Mining -해당 제품의 바뀐 사항 GPU Clock: 1120 MHz, Boost Clock: 1206 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 580,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20 XTX (215-0910038)
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Graphics Card:
+Release Date: Apr 18th, 2017
+Generation: Polaris (RX 500)
+Predecessor: Arctic Islands
+Successor: Vega
+Production: Active
+Launch Price: 229 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 52 in our database
+
+Clock Speeds:
+Base Clock: 1257 MHz
+Boost Clock: 1340 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 42.88 GPixel/s
+Texture Rate: 193.0 GTexel/s
+FP16 (half): 6.175 TFLOPS (1:1)
+FP32 (float): 6.175 TFLOPS
+FP64 (double): 385.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 241 mm 9.5 inches
+TDP: 185 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: C940, D009-04
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1266 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB
+기반 제품명:AMD Radeon RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1266 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:AREZ DUAL RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ DUAL RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:AREZ STRIX RX 580 GAMING TOP -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASRock Phantom Gaming D RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 236 mm/9.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASRock Phantom Gaming D RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASRock Phantom Gaming M2 RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1150 MHz, Boost Clock: 1340 MHz, Memory Clock: 2050 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 1x DVI
+기반 제품명:ASRock Phantom Gaming X RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASUS DUAL RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1360 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX 580 GAMING TOP -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:BIOSTAR RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:BIOSTAR RX 580 Dual Cooling -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ColorFire RX 580 Ustorm -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland DEVIL RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1411 MHz, Boost Clock: 1439 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 18th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 282 mm/11.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial God of War 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Dataland RX 580 X-Serial God of War 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1340 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Diamond RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE AORUS RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1365 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1365 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RX 580 XTR -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1425 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 580 GAMING 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 GAMING 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 Gaming Box -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 212 mm/8.3 inches
+기반 제품명:GIGABYTE RX 580 GAMING Mining 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RX 580 GAMING Mining 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 IceQ X2 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:HIS RX 580 XTR IceQ X2 Roaring Turbo -해당 제품의 바뀐 사항 GPU Clock: 1364 MHz, Boost Clock: 1430 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:KUROUTOSHIKOU RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:KUROUTOSHIKOU RX 580 OC DF3 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MAXSUN RX 580 Big Mac 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Big Mac 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 JetStream 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 279 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 JetStream 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 296 mm/11.7 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RX 580 Overseas Edition M.2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MSI RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 580 ARMOR 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR MK2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1353 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR MK2 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR SP 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 246 mm/9.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR SP 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 246 mm/9.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 ARMOR X -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1353 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 275 mm/10.8 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING X+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1431 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 GAMING+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1421 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 MECH 2 OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:MSI RX 580 V1 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 198 mm/7.8 inches
+기반 제품명:ONDA RX 580 Model 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PCYES RX 580 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 245 mm/9.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 580 Golden Sample OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1425 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Devil RX 580 OC -해당 제품의 바뀐 사항 GPU Clock: 1355 MHz, Boost Clock: 1380 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor Red Dragon RX 580 OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1350 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:PowerColor RX 580 Mining -해당 제품의 바뀐 사항 GPU Clock: 1215 MHz, Boost Clock: 1215 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI
+기반 제품명:PowerColor RX 580 Mining 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1215 MHz, Boost Clock: 1340 MHz, Memory Clock: 1950 MHz, 외의 바뀐 사항: 4 GB, 1x DVI
+기반 제품명:Pradeon RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 4 GB, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Pradeon RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Special Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 Special Edition V2 -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2100 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX 580 V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1411 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX 580 V2 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 230 mm/9.1 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:VisionTek RX 580 Overclocked -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTR RX 580 Black Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX GTR RX 580 XXX OC -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX GTR-S RX 580 Black Limited Edition OC+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1430 MHz, Memory Clock: 2025 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTR-S RX 580 Black Limited Edition OC+ -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1450 MHz, Memory Clock: 2025 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 Black Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1386 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 Black Edition -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1405 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 XXX 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:XFX GTS RX 580 XXX 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1366 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Yeston RX 580 GAMEACE 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 GB, 310 mm/12.2 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Yeston RX 580 GAMEACE 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1257 MHz, Boost Clock: 1340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 1x DVI 1x HDMI 3x DisplayPort
+"
+AMD Radeon RX 580 Mobile,"Graphics Processor: Polaris 20
+Cores: 2304
+TMUs: 144
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR5
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Polaris 20
+GPU Variant: Polaris 20M XT
+Architecture: GCN 4.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 5,700 million
+Density: 24.6M / mm²
+Die Size: 232 mm²
+Chip Package: BGA-1401
+
+Mobile Graphics:
+Release Date: Apr 18th, 2017
+Generation: Polaris Mobile (RX M500)
+Predecessor: Gem System
+Successor: Navi Mobile
+Production: Active
+Bus Interface: MXM-B (3.0)
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1077 MHz
+Memory Clock: 2000 MHz 8 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR5
+Memory Bus: 256 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 32
+Compute Units: 36
+L1 Cache: 16 KB (per CU)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 34.46 GPixel/s
+Texture Rate: 155.1 GTexel/s
+FP16 (half): 4.963 TFLOPS (1:1)
+FP32 (float): 4.963 TFLOPS
+FP64 (double): 310.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 100 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_0)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 10 Mobile,"Graphics Processor: Raven-M
+Cores: 640
+TMUs: 40
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Oct 26th, 2017
+Generation: Vega IGP (Raven Ridge-M)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1301 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 640
+TMUs: 40
+ROPs: 8
+Compute Units: 10
+
+Theoretical Performance:
+Pixel Rate: 10.41 GPixel/s
+Texture Rate: 52.04 GTexel/s
+FP16 (half): 3.331 TFLOPS (2:1)
+FP32 (float): 1.665 TFLOPS
+FP64 (double): 104.1 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 10 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX Vega 56,"Graphics Processor: Vega 10
+Cores: 3584
+TMUs: 224
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XL (215-0894216)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 14th, 2017
+Generation: Vega (RX Vega)
+Predecessor: Polaris
+Successor: Navi
+Production: Active
+Launch Price: 399 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 23 in our database
+
+Clock Speeds:
+Base Clock: 1156 MHz
+Boost Clock: 1471 MHz
+SOC Clock: 960 MHz
+Memory Clock: 800 MHz 1600 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 409.6 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 224
+ROPs: 64
+Compute Units: 56
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 94.14 GPixel/s
+Texture Rate: 329.5 GTexel/s
+FP16 (half): 21.09 TFLOPS (2:1)
+FP32 (float): 10.54 TFLOPS
+FP64 (double): 659.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 280 mm 11 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 210 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05057-00_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:AREZ STRIX RX Vega 56 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1297 MHz, Boost Clock: 1573 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASRock Phantom Gaming X Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS ROG STRIX RX Vega 56 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX Vega 56 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1297 MHz, Boost Clock: 1573 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:BIOSTAR RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland DEVIL RX Vega 56 OC -해당 제품의 바뀐 사항 GPU Clock: 1308 MHz, Boost Clock: 1526 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Dataland RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX Vega 56 X-Serial -해당 제품의 바뀐 사항 GPU Clock: 1177 MHz, Boost Clock: 1478 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX Vega 56 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1170 MHz, Boost Clock: 1501 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 3x HDMI 3x DisplayPort
+기반 제품명:HIS RX Vega 56 Air Black -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 56 Air Boost -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 56 Air Boost OC -해당 제품의 바뀐 사항 GPU Clock: 1181 MHz, Boost Clock: 1520 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor Red Devil RX Vega 56 OC -해당 제품의 바뀐 사항 GPU Clock: 1308 MHz, Boost Clock: 1526 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor Red Dragon RX Vega 56 OC -해당 제품의 바뀐 사항 GPU Clock: 1177 MHz, Boost Clock: 1478 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor RX Vega 56 Nano -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PowerColor RX Vega 56 Nano Prototype -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Sapphire NITRO+ RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1266 MHz, Boost Clock: 1550 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX Vega 56 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1305 MHz, Boost Clock: 1572 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire PULSE RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1208 MHz, Boost Clock: 1512 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 282 mm/11.1 inches
+기반 제품명:Sapphire RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 56 Double Edition -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:Yeston RX Vega 56 -해당 제품의 바뀐 사항 GPU Clock: 1156 MHz, Boost Clock: 1471 MHz, Memory Clock: 800 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX Vega 64,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 7th, 2017
+Generation: Vega (RX Vega)
+Predecessor: Polaris
+Successor: Navi
+Production: Active
+Launch Price: 499 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 58 in our database
+
+Clock Speeds:
+Base Clock: 1247 MHz
+Boost Clock: 1546 MHz
+SOC Clock: 960 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 98.94 GPixel/s
+Texture Rate: 395.8 GTexel/s
+FP16 (half): 25.33 TFLOPS (2:1)
+FP32 (float): 12.66 TFLOPS
+FP64 (double): 791.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 280 mm 11 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 295 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05057-00_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:AREZ STRIX RX Vega 64 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1590 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASRock Phantom Gaming X RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS ROG STRIX RX Vega 64 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS ROG STRIX RX Vega 64 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1590 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:BIOSTAR RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland DEVIL RX Vega 64 OC -해당 제품의 바뀐 사항 GPU Clock: 1417 MHz, Boost Clock: 1607 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Dataland RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX Vega 64 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1276 MHz, Boost Clock: 1560 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 3x HDMI 3x DisplayPort
+기반 제품명:HIS RX Vega AIR Black -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 64 Air Boost OC -해당 제품의 바뀐 사항 GPU Clock: 1272 MHz, Boost Clock: 1575 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor Red Devil RX Vega 64 OC -해당 제품의 바뀐 사항 GPU Clock: 1417 MHz, Boost Clock: 1607 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor Red Dragon RX Vega 64 OC -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 2x HDMI 2x DisplayPort
+기반 제품명:PowerColor RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire NITRO+ RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1373 MHz, Boost Clock: 1580 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire NITRO+ RX Vega 64 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1423 MHz, Boost Clock: 1611 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Sapphire RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:VisionTek RX Vega 64 Black -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 64 Double Edition -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:Yeston RX Vega 64 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX Vega 64 Limited Edition,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XT (215-0894200)
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 7th, 2017
+Generation: Vega (RX Vega)
+Predecessor: Polaris
+Successor: Navi
+Production: Active
+Launch Price: 549 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1247 MHz
+Boost Clock: 1546 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 98.94 GPixel/s
+Texture Rate: 395.8 GTexel/s
+FP16 (half): 25.33 TFLOPS (2:1)
+FP32 (float): 12.66 TFLOPS
+FP64 (double): 791.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 272 mm 10.7 inches
+Width: 112 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 295 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05057-00_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX Vega 64 Limited Edition LTX2017 -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RX Vega 64 Silver -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX Vega 64 Limited -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX Vega 64 Silver -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX Vega 64 Air Limited -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 64 Iron -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor RX Vega 64 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire RX Vega 64 Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 64 Silver -해당 제품의 바뀐 사항 GPU Clock: 1247 MHz, Boost Clock: 1546 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX Vega 64 Liquid Cooling,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XTX
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Aug 7th, 2017
+Generation: Vega (RX Vega)
+Predecessor: Polaris
+Successor: Navi
+Production: Active
+Launch Price: 699 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1406 MHz
+Boost Clock: 1677 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 107.3 GPixel/s
+Texture Rate: 429.3 GTexel/s
+FP16 (half): 27.48 TFLOPS (2:1)
+FP32 (float): 13.74 TFLOPS
+FP64 (double): 858.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 272 mm 10.7 inches
+Width: 112 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 345 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05057-00_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASUS RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:BIOSTAR RX Vega 64 Liquid -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX Vega 64 Liquid -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX Vega 64 Watercooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:HIS RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX Vega 64 Wave -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:PowerColor RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+기반 제품명:Yeston RX Vega 64 Liquid Cooling -해당 제품의 바뀐 사항 GPU Clock: 1406 MHz, Boost Clock: 1677 MHz, Memory Clock: 945 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon Vega 8 Mobile,"Graphics Processor: Raven-M
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Raven-M
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 4,940 million
+Density: 23.5M / mm²
+Die Size: 210 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Oct 26th, 2017
+Generation: Vega IGP (Raven Ridge-M)
+Predecessor: GCN 3.0 IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1101 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 8.808 GPixel/s
+Texture Rate: 35.23 GTexel/s
+FP16 (half): 2.255 TFLOPS (2:1)
+FP32 (float): 1,127 GFLOPS
+FP64 (double): 70.46 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 25 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Vega Frontier Edition,"Graphics Processor: Vega 10
+Cores: 4096
+TMUs: 256
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: HBM2
+Bus Width: 2048 bit","Graphics Processor:
+GPU Name: Vega 10
+GPU Variant: Vega 10 XTX AIR
+Architecture: GCN 5.0
+Foundry: GlobalFoundries
+Process Size: 14 nm
+Transistors: 12,500 million
+Density: 25.3M / mm²
+Die Size: 495 mm²
+Chip Package: BGA-2013
+
+Graphics Card:
+Release Date: Jun 27th, 2017
+Generation: Radeon Pro Vega (Vega Series)
+Predecessor: Radeon Pro Polaris
+Successor: Radeon Pro Navi
+Production: Active
+Launch Price: 999 USD
+Bus Interface: PCIe 3.0 x16
+Reviews: 1 in our database
+
+Clock Speeds:
+Base Clock: 1382 MHz
+Boost Clock: 1600 MHz
+Memory Clock: 945 MHz 1890 Mbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: HBM2
+Memory Bus: 2048 bit
+Bandwidth: 483.8 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 256
+ROPs: 64
+Compute Units: 64
+L1 Cache: 16 KB (per CU)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 102.4 GPixel/s
+Texture Rate: 409.6 GTexel/s
+FP16 (half): 26.21 TFLOPS (2:1)
+FP32 (float): 13.11 TFLOPS
+FP64 (double): 819.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.0b 3x DisplayPort 1.4a
+Power Connectors: 2x 8-pin
+Board Number: 109-D05057-00_02
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
