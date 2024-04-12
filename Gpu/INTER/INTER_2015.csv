@@ -1,0 +1,980 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+Intel HD Graphics 12EU Mobile,"Graphics Processor: Braswell GT1
+Cores: 96
+TMUs: 12
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Braswell GT1
+Architecture: Generation 8.0
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Apr 1st, 2015
+Generation: HD Graphics-T (Airmont)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+GPU Clock: 500 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 2
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 1.000 GPixel/s
+Texture Rate: 6.000 GTexel/s
+FP32 (float): 96.00 GFLOPS
+FP64 (double): 24.00 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 6 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (11_1)
+OpenGL: 4.3
+OpenCL: 3.0
+Vulkan: 1.0
+Shader Model: 5.1
+
+",없음
+Intel HD Graphics 400 Mobile,"Graphics Processor: Braswell GT1
+Cores: 96
+TMUs: 12
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Braswell GT1
+Architecture: Generation 8.0
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Apr 1st, 2015
+Generation: HD Graphics-T (Airmont)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 320 MHz
+Boost Clock: 600 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 2
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 1.200 GPixel/s
+Texture Rate: 7.200 GTexel/s
+FP32 (float): 115.2 GFLOPS
+FP64 (double): 28.80 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 6 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (11_1)
+OpenGL: 4.3
+OpenCL: 3.0
+Vulkan: 1.0
+Shader Model: 5.1
+
+",없음
+Intel HD Graphics 405 Mobile,"Graphics Processor: Braswell GT1
+Cores: 128
+TMUs: 16
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Braswell GT1
+Architecture: Generation 8.0
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Apr 1st, 2015
+Generation: HD Graphics-T (Airmont)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 200 MHz
+Boost Clock: 600 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 128
+TMUs: 16
+ROPs: 2
+Execution Units: 16
+
+Theoretical Performance:
+Pixel Rate: 1.200 GPixel/s
+Texture Rate: 9.600 GTexel/s
+FP32 (float): 153.6 GFLOPS
+FP64 (double): 38.40 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 6 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (11_1)
+OpenGL: 4.3
+OpenCL: 3.0
+Vulkan: 1.0
+Shader Model: 5.1
+
+",없음
+Intel HD Graphics 500 Mobile,"Graphics Processor: Apollo Lake GT1
+Cores: 96
+TMUs: 12
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Apollo Lake GT1
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-T (Goldmont)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 200 MHz
+Boost Clock: 650 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 2
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 1.300 GPixel/s
+Texture Rate: 7.800 GTexel/s
+FP32 (float): 124.8 GFLOPS
+FP64 (double): 15.60 GFLOPS (1:8)
+
+Board Design:
+Slot Width: IGP
+TDP: 6 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 510,"Graphics Processor: Skylake GT1
+Cores: 96
+TMUs: 12
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT1
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 950 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 2
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 1.900 GPixel/s
+Texture Rate: 11.40 GTexel/s
+FP16 (half): 364.8 GFLOPS (2:1)
+FP32 (float): 182.4 GFLOPS
+FP64 (double): 45.60 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 510 Mobile,"Graphics Processor: Skylake GT1
+Cores: 96
+TMUs: 12
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT1
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 900 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 3
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 2.700 GPixel/s
+Texture Rate: 10.80 GTexel/s
+FP16 (half): 345.6 GFLOPS (2:1)
+FP32 (float): 172.8 GFLOPS
+FP64 (double): 43.20 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 515 Mobile,"Graphics Processor: Skylake GT2
+Cores: 192
+TMUs: 24
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT2
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: 123 mm²
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 800 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 24
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 2.400 GPixel/s
+Texture Rate: 19.20 GTexel/s
+FP16 (half): 614.4 GFLOPS (2:1)
+FP32 (float): 307.2 GFLOPS
+FP64 (double): 76.80 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 520 Mobile,"Graphics Processor: Skylake GT2
+Cores: 192
+TMUs: 24
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT2
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: 123 mm²
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 900 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 24
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 2.700 GPixel/s
+Texture Rate: 21.60 GTexel/s
+FP16 (half): 691.2 GFLOPS (2:1)
+FP32 (float): 345.6 GFLOPS
+FP64 (double): 86.40 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 530,"Graphics Processor: Skylake GT2
+Cores: 192
+TMUs: 24
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT2
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: 123 mm²
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 950 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 24
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 2.850 GPixel/s
+Texture Rate: 22.80 GTexel/s
+FP16 (half): 729.6 GFLOPS (2:1)
+FP32 (float): 364.8 GFLOPS
+FP64 (double): 91.20 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics 530 Mobile,"Graphics Processor: Skylake GT2
+Cores: 192
+TMUs: 24
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT2
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: 123 mm²
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 950 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 24
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 2.850 GPixel/s
+Texture Rate: 22.80 GTexel/s
+FP16 (half): 729.6 GFLOPS (2:1)
+FP32 (float): 364.8 GFLOPS
+FP64 (double): 91.20 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel HD Graphics P530,"Graphics Processor: Skylake GT2
+Cores: 192
+TMUs: 16
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT2
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: 123 mm²
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-W (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 16
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 3.000 GPixel/s
+Texture Rate: 16.00 GTexel/s
+FP16 (half): 768.0 GFLOPS (2:1)
+FP32 (float): 384.0 GFLOPS
+FP64 (double): 96.00 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Graphics 540 Mobile,"Graphics Processor: Skylake GT3e
+Cores: 384
+TMUs: 48
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT3e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 48
+ROPs: 6
+Execution Units: 48
+
+Theoretical Performance:
+Pixel Rate: 6.000 GPixel/s
+Texture Rate: 48.00 GTexel/s
+FP32 (float): 768.0 GFLOPS
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Graphics 550 Mobile,"Graphics Processor: Skylake GT3e
+Cores: 384
+TMUs: 48
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT3e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 48
+ROPs: 6
+Execution Units: 48
+
+Theoretical Performance:
+Pixel Rate: 6.000 GPixel/s
+Texture Rate: 48.00 GTexel/s
+FP16 (half): 1.536 TFLOPS (2:1)
+FP32 (float): 768.0 GFLOPS
+FP64 (double): 192.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Pro Graphics 580 Mobile,"Graphics Processor: Skylake GT4e
+Cores: 576
+TMUs: 72
+ROPs: 9
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT4e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-M (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 950 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 576
+TMUs: 72
+ROPs: 9
+Execution Units: 72
+
+Theoretical Performance:
+Pixel Rate: 8.550 GPixel/s
+Texture Rate: 68.40 GTexel/s
+FP16 (half): 2.189 TFLOPS (2:1)
+FP32 (float): 1,094 GFLOPS
+FP64 (double): 273.6 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Pro Graphics P555,"Graphics Processor: Skylake GT3e
+Cores: 384
+TMUs: 48
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT3e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-W (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 48
+ROPs: 6
+Execution Units: 48
+
+Theoretical Performance:
+Pixel Rate: 6.000 GPixel/s
+Texture Rate: 48.00 GTexel/s
+FP16 (half): 1.536 TFLOPS (2:1)
+FP32 (float): 768.0 GFLOPS
+FP64 (double): 192.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Pro Graphics P580,"Graphics Processor: Skylake GT4e
+Cores: 576
+TMUs: 72
+ROPs: 9
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT4e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-W (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 576
+TMUs: 72
+ROPs: 9
+Execution Units: 72
+
+Theoretical Performance:
+Pixel Rate: 9.000 GPixel/s
+Texture Rate: 72.00 GTexel/s
+FP16 (half): 2.304 TFLOPS (2:1)
+FP32 (float): 1,152 GFLOPS
+FP64 (double): 288.0 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Pro Graphics P580 Mobile,"Graphics Processor: Skylake GT4e
+Cores: 576
+TMUs: 72
+ROPs: 9
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Skylake GT4e
+Architecture: Generation 9.0
+Foundry: Intel
+Process Size: 14 nm+
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2015
+Generation: HD Graphics-WM (Skylake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 1050 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 576
+TMUs: 72
+ROPs: 9
+Execution Units: 72
+
+Theoretical Performance:
+Pixel Rate: 9.450 GPixel/s
+Texture Rate: 75.60 GTexel/s
+FP16 (half): 2.419 TFLOPS (2:1)
+FP32 (float): 1,210 GFLOPS
+FP64 (double): 302.4 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음

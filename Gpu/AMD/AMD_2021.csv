@@ -1,0 +1,1740 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+AMD Radeon Graphics 384SP,"Graphics Processor: Cezanne
+Cores: 384
+TMUs: 24
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Apr 13th, 2021
+Generation: Vega II IGP (Cezanne)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1700 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 8
+Compute Units: 6
+
+Theoretical Performance:
+Pixel Rate: 13.60 GPixel/s
+Texture Rate: 40.80 GTexel/s
+FP16 (half): 2.611 TFLOPS (2:1)
+FP32 (float): 1,306 GFLOPS
+FP64 (double): 81.60 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Graphics 384SP Mobile,"Graphics Processor: Cezanne-M
+Cores: 384
+TMUs: 24
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne-M
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Apr 13th, 2021
+Generation: Vega II IGP (Cezanne Mobile)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1600 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 24
+ROPs: 8
+Compute Units: 6
+
+Theoretical Performance:
+Pixel Rate: 12.80 GPixel/s
+Texture Rate: 38.40 GTexel/s
+FP16 (half): 2.458 TFLOPS (2:1)
+FP32 (float): 1,229 GFLOPS
+FP64 (double): 76.80 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Graphics 448SP,"Graphics Processor: Cezanne
+Cores: 448
+TMUs: 28
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Apr 13th, 2021
+Generation: Vega II IGP (Cezanne)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1900 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 448
+TMUs: 28
+ROPs: 8
+Compute Units: 7
+
+Theoretical Performance:
+Pixel Rate: 15.20 GPixel/s
+Texture Rate: 53.20 GTexel/s
+FP16 (half): 3.405 TFLOPS (2:1)
+FP32 (float): 1.702 TFLOPS
+FP64 (double): 106.4 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Graphics 448SP Mobile,"Graphics Processor: Cezanne-M
+Cores: 448
+TMUs: 28
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne-M
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Apr 13th, 2021
+Generation: Vega II IGP (Cezanne Mobile)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1800 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 448
+TMUs: 28
+ROPs: 8
+Compute Units: 7
+
+Theoretical Performance:
+Pixel Rate: 14.40 GPixel/s
+Texture Rate: 50.40 GTexel/s
+FP16 (half): 3.226 TFLOPS (2:1)
+FP32 (float): 1.613 TFLOPS
+FP64 (double): 100.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Graphics 512SP,"Graphics Processor: Cezanne
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: µOPGA-1331
+
+Integrated Graphics:
+Release Date: Jan 12th, 2021
+Generation: Vega II IGP (Cezanne)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 2000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 16.00 GPixel/s
+Texture Rate: 64.00 GTexel/s
+FP16 (half): 4.096 TFLOPS (2:1)
+FP32 (float): 2.048 TFLOPS
+FP64 (double): 128.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Motherboard Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Graphics 512SP Mobile,"Graphics Processor: Cezanne-M
+Cores: 512
+TMUs: 32
+ROPs: 8
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Cezanne-M
+Architecture: GCN 5.1
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 9,800 million
+Density: 54.4M / mm²
+Die Size: 180 mm²
+Chip Package: FCBGA-1140
+
+Integrated Graphics:
+Release Date: Jan 12th, 2021
+Generation: Vega II IGP (Cezanne Mobile)
+Predecessor: Vega IGP
+Successor: Navi II IGP
+Production: Active
+Bus Interface: IGP
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 2000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 8
+Compute Units: 8
+
+Theoretical Performance:
+Pixel Rate: 16.00 GPixel/s
+Texture Rate: 64.00 GTexel/s
+FP16 (half): 4.096 TFLOPS (2:1)
+FP32 (float): 2.048 TFLOPS
+FP64 (double): 128.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Instinct MI200,"Graphics Processor: Aldebaran
+Cores: 6656
+TMUs: 416
+ROPs: N/A
+Memory Size: 64 GB
+Memory Type: HBM2e
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Aldebaran
+GPU Variant: Aldebaran
+Architecture: CDNA 2.0
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 58,200 million
+Density: 80.4M / mm²
+Die Size: 724 mm²
+
+Graphics Card:
+Release Date: Dec 2021
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1700 MHz
+Memory Clock: 1600 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 64 GB
+Memory Type: HBM2e
+Memory Bus: 4096 bit
+Bandwidth: 1.64 TB/s
+
+Render Config:
+Shading Units: 6656
+TMUs: 416
+ROPs: 0
+Compute Units: 104
+MCM: 1
+L1 Cache: 16 KB (per CU)
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 0 MPixel/s
+Texture Rate: 707.2 GTexel/s
+FP16 (half): 181.0 TFLOPS (8:1)
+FP32 (float): 22.63 TFLOPS
+FP64 (double): 22.63 TFLOPS (1:1)
+
+Board Design:
+Slot Width: OAM Module
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: No outputs
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+Shader Model: N/A
+
+",없음
+AMD Radeon Instinct MI210,"Graphics Processor: Aldebaran
+Cores: 6656
+TMUs: 416
+ROPs: N/A
+Memory Size: 64 GB
+Memory Type: HBM2e
+Bus Width: 4096 bit","Graphics Processor:
+GPU Name: Aldebaran
+GPU Variant: Aldebaran
+Architecture: CDNA 2.0
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 58,200 million
+Density: 80.4M / mm²
+Die Size: 724 mm²
+
+Graphics Card:
+Release Date: Dec 2021
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1700 MHz
+Memory Clock: 1600 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 64 GB
+Memory Type: HBM2e
+Memory Bus: 4096 bit
+Bandwidth: 1.64 TB/s
+
+Render Config:
+Shading Units: 6656
+TMUs: 416
+ROPs: 0
+Compute Units: 104
+MCM: 1
+L1 Cache: 16 KB (per CU)
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 0 MPixel/s
+Texture Rate: 707.2 GTexel/s
+FP16 (half): 181.0 TFLOPS (8:1)
+FP32 (float): 22.63 TFLOPS
+FP64 (double): 22.63 TFLOPS (1:1)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: No outputs
+Power Connectors: 1x 8-pin
+Board Number: 109-D05187-00_03
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+Shader Model: N/A
+
+",없음
+AMD Radeon Instinct MI250,"Graphics Processor: Aldebaran
+Cores: 13312
+TMUs: 832
+ROPs: N/A
+Memory Size: 128 GB
+Memory Type: HBM2e
+Bus Width: 8192 bit","Graphics Processor:
+GPU Name: Aldebaran
+GPU Variant: Aldebaran
+Architecture: CDNA 2.0
+Foundry: TSMC
+Process Size: 6 nm
+Transistors: 58,200 million
+Density: 80.4M / mm²
+Die Size: 724 mm²
+
+Graphics Card:
+Release Date: Nov 8th, 2021
+Generation: Radeon Instinct (MIx)
+Predecessor: FirePro Data Center
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1000 MHz
+Boost Clock: 1700 MHz
+Memory Clock: 1600 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 128 GB
+Memory Type: HBM2e
+Memory Bus: 8192 bit
+Bandwidth: 3.28 TB/s
+
+Render Config:
+Shading Units: 13312
+TMUs: 832
+ROPs: 0
+Compute Units: 208
+MCM: 2
+L1 Cache: 16 KB (per CU)
+L2 Cache: 16 MB
+
+Theoretical Performance:
+Pixel Rate: 0 MPixel/s
+Texture Rate: 1,414 GTexel/s
+FP16 (half): 362.1 TFLOPS (8:1)
+FP32 (float): 45.26 TFLOPS
+FP64 (double): 45.26 TFLOPS (1:1)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 500 W
+Suggested PSU: 900 W
+Outputs: No outputs
+Power Connectors: 2x 8-pin
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+Shader Model: N/A
+
+",없음
+AMD Radeon PRO V620,"Graphics Processor: Navi 21
+Cores: 4608
+TMUs: 288
+ROPs: 128
+Memory Size: 32 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 21
+GPU Variant: Navi 21 XT (215-121000177)
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 26,800 million
+Density: 51.5M / mm²
+Die Size: 520 mm²
+Chip Package: BGA-2425
+
+Graphics Card:
+Release Date: Nov 4th, 2021
+Generation: Radeon Pro Navi (Navi II Series)
+Predecessor: Radeon Pro Vega
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1825 MHz
+Boost Clock: 2200 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 128
+Compute Units: 72
+RT Cores: 72
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 4 MB
+L3 Cache: 128 MB
+
+Theoretical Performance:
+Pixel Rate: 281.6 GPixel/s
+Texture Rate: 633.6 GTexel/s
+FP16 (half): 40.55 TFLOPS (2:1)
+FP32 (float): 20.28 TFLOPS
+FP64 (double): 1,267 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 120 mm 4.7 inches
+Height: 50 mm 2 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: No outputs
+Power Connectors: 2x 8-pin
+Board Number: 109-D60387-00_02
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon PRO W6600,"Graphics Processor: Navi 23
+Cores: 1792
+TMUs: 112
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+GPU Variant: Navi 23 WKS-XL
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Graphics Card:
+Release Date: Jun 8th, 2021
+Availability: Jul, 2021
+Generation: Radeon Pro Navi (Navi II Series)
+Predecessor: Radeon Pro Vega
+Production: Active
+Launch Price: 649 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2331 MHz
+Boost Clock: 2580 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 64
+Compute Units: 28
+RT Cores: 28
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 165.1 GPixel/s
+Texture Rate: 289.0 GTexel/s
+FP16 (half): 18.49 TFLOPS (2:1)
+FP32 (float): 9.247 TFLOPS
+FP64 (double): 577.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Single-slot
+Length: 241 mm 9.5 inches
+TDP: 100 W
+Suggested PSU: 300 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+Board Number: 109-D16487-00D_02
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon PRO W6800,"Graphics Processor: Navi 21
+Cores: 3840
+TMUs: 240
+ROPs: 96
+Memory Size: 32 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 21
+GPU Variant: Navi 21 GL-XL
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 26,800 million
+Density: 51.5M / mm²
+Die Size: 520 mm²
+Chip Package: BGA-2425
+
+Graphics Card:
+Release Date: Jun 8th, 2021
+Generation: Radeon Pro Navi (Navi II Series)
+Predecessor: Radeon Pro Vega
+Production: Active
+Launch Price: 2,249 USD
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 2075 MHz
+Boost Clock: 2320 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3840
+TMUs: 240
+ROPs: 96
+Compute Units: 60
+RT Cores: 60
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 4 MB
+L3 Cache: 128 MB
+
+Theoretical Performance:
+Pixel Rate: 222.7 GPixel/s
+Texture Rate: 556.8 GTexel/s
+FP16 (half): 35.64 TFLOPS (2:1)
+FP32 (float): 17.82 TFLOPS
+FP64 (double): 1,114 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 120 mm 4.7 inches
+Height: 50 mm 2 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: 6x mini-DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Part Number: 102-D16487
+Board Number: 109-D16487-00D_02
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W6600M,"Graphics Processor: Navi 23
+Cores: 1792
+TMUs: 112
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+GPU Variant: Navi 23 WKS-XM
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Mobile Graphics:
+Release Date: Jun 8th, 2021
+Generation: Radeon Pro Mobile (W6x00M)
+Predecessor: FirePro Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1224 MHz
+Boost Clock: 2034 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 64
+Compute Units: 28
+RT Cores: 28
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 130.2 GPixel/s
+Texture Rate: 227.8 GTexel/s
+FP16 (half): 14.58 TFLOPS (2:1)
+FP32 (float): 7.290 TFLOPS
+FP64 (double): 455.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 90 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W6600X,"Graphics Processor: Navi 23
+Cores: 2048
+TMUs: 128
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Graphics Card:
+Release Date: Aug 3rd, 2021
+Generation: Radeon Pro Mac (Navi II Series)
+Production: Active
+Launch Price: 699 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 2068 MHz
+Boost Clock: 2479 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 64
+Compute Units: 32
+RT Cores: 32
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 158.7 GPixel/s
+Texture Rate: 317.3 GTexel/s
+FP16 (half): 20.31 TFLOPS (2:1)
+FP32 (float): 10.15 TFLOPS
+FP64 (double): 634.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 120 W
+Suggested PSU: 300 W
+Outputs: No outputs
+Board Number: MKGY3AM/A
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W6800X,"Graphics Processor: Navi 21
+Cores: 3840
+TMUs: 240
+ROPs: 96
+Memory Size: 32 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 21
+GPU Variant: Navi 21 Pro-XLA
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 26,800 million
+Density: 51.5M / mm²
+Die Size: 520 mm²
+Chip Package: BGA-2425
+
+Graphics Card:
+Release Date: Aug 3rd, 2021
+Generation: Radeon Pro Mac (Navi II Series)
+Production: Active
+Launch Price: 2,799 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1800 MHz
+Boost Clock: 2087 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3840
+TMUs: 240
+ROPs: 96
+Compute Units: 60
+RT Cores: 60
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 4 MB
+L3 Cache: 128 MB
+
+Theoretical Performance:
+Pixel Rate: 200.4 GPixel/s
+Texture Rate: 500.9 GTexel/s
+FP16 (half): 32.06 TFLOPS (2:1)
+FP32 (float): 16.03 TFLOPS
+FP64 (double): 1,002 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Quad-slot
+Length: 267 mm 10.5 inches
+Width: 120 mm 4.7 inches
+TDP: 200 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 4x Thunderbolt
+Power Connectors: Apple MPX
+Board Number: MJ073AM/A
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W6800X Duo,"Graphics Processor: Navi 21 x2
+Cores: 3840 x2
+TMUs: 240 x2
+ROPs: 96 x2
+Memory Size: 32 GB x2
+Memory Type: GDDR6
+Bus Width: 256 bit x2","Graphics Processor:
+GPU Name: Navi 21
+GPU Variant: Navi 21 Pro-XLA
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 26,800 million
+Density: 51.5M / mm²
+Die Size: 520 mm²
+Chip Package: BGA-2425
+
+Graphics Card:
+Release Date: Aug 3rd, 2021
+Generation: Radeon Pro Mac (Navi II Series)
+Production: Active
+Launch Price: 4,999 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1800 MHz
+Boost Clock: 1967 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 3840
+TMUs: 240
+ROPs: 96
+Compute Units: 60
+RT Cores: 60
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 4 MB
+L3 Cache: 128 MB
+
+Theoretical Performance:
+Pixel Rate: 188.8 GPixel/s
+Texture Rate: 472.1 GTexel/s
+FP16 (half): 30.21 TFLOPS (2:1)
+FP32 (float): 15.11 TFLOPS
+FP64 (double): 944.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Quad-slot
+Length: 267 mm 10.5 inches
+Width: 120 mm 4.7 inches
+TDP: 400 W
+Suggested PSU: 800 W
+Outputs: 1x HDMI 2.1 4x Thunderbolt
+Board Number: MJ093AM/A
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon Pro W6900X,"Graphics Processor: Navi 21
+Cores: 5120
+TMUs: 320
+ROPs: 128
+Memory Size: 32 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: Navi 21
+GPU Variant: Navi 21 Pro-XTA
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 26,800 million
+Density: 51.5M / mm²
+Die Size: 520 mm²
+Chip Package: BGA-2425
+
+Graphics Card:
+Release Date: Aug 3rd, 2021
+Generation: Radeon Pro Mac (Navi II Series)
+Production: Active
+Launch Price: 5,999 USD
+Bus Interface: Apple MPX
+
+Clock Speeds:
+Base Clock: 1825 MHz
+Boost Clock: 2171 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 5120
+TMUs: 320
+ROPs: 128
+Compute Units: 80
+RT Cores: 80
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 4 MB
+L3 Cache: 128 MB
+
+Theoretical Performance:
+Pixel Rate: 277.9 GPixel/s
+Texture Rate: 694.7 GTexel/s
+FP16 (half): 44.46 TFLOPS (2:1)
+FP32 (float): 22.23 TFLOPS
+FP64 (double): 1,389 GFLOPS (1:16)
+
+Board Design:
+Length: 267 mm 10.5 inches
+Width: 120 mm 4.7 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 4x Thunderbolt
+Board Number: MJ103AM/A
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 6600,"Graphics Processor: Navi 23
+Cores: 1792
+TMUs: 112
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+GPU Variant: Navi 23 XL (215-130000016)
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Graphics Card:
+Release Date: Oct 13th, 2021
+Generation: Navi II (RX 6000)
+Predecessor: Navi
+Successor: Navi III
+Production: Active
+Launch Price: 329 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x8
+Reviews: 21 in our database
+
+Clock Speeds:
+Base Clock: 1626 MHz
+Game Clock: 2044 MHz
+Boost Clock: 2491 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 64
+Compute Units: 28
+RT Cores: 28
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 159.4 GPixel/s
+Texture Rate: 279.0 GTexel/s
+FP16 (half): 17.86 TFLOPS (2:1)
+FP32 (float): 8.928 TFLOPS
+FP64 (double): 558.0 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 190 mm 7.5 inches
+Width: 110 mm 4.3 inches
+Height: 40 mm 1.6 inches
+TDP: 132 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: D532
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock RX 6600 Challenger D -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:ASRock RX 6600 Challenger ITX -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 179 mm/7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RX 6600 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:GIGABYTE RX 6600 EAGLE -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 282 mm/11.1 inches
+기반 제품명:MSI RX 6600 ARMOR -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:MSI RX 6600 ARMOR V1 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:MSI RX 6600 MECH 2X -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:PowerColor Fighter RX 6600 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:PowerColor Hellhound RX 6600 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 220 mm/8.7 inches
+기반 제품명:Sapphire GPRO X060 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2044 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 193 mm/7.6 inches, 1x HDMI 1x DisplayPort, 140 W
+기반 제품명:Sapphire PULSE RX 6600 -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 193 mm/7.6 inches, 140 W
+기반 제품명:Sparkle RX 6600 Mini GameStation -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 155 mm/6.1 inches, 4x DisplayPort 1x USB Type-C
+기반 제품명:VASTARMOR RX 6600 STARRY SKY -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 224 mm/8.8 inches
+기반 제품명:XFX Speedster SWFT 210 RX 6600 Core -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 241 mm/9.5 inches
+기반 제품명:Yeston RX 6600 GAEA -해당 제품의 바뀐 사항 GPU Clock: 1626 MHz, Boost Clock: 2491 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 6600 XT,"Graphics Processor: Navi 23
+Cores: 2048
+TMUs: 128
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+GPU Variant: Navi 23 XT (215-130000006)
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Graphics Card:
+Release Date: Jul 30th, 2021
+Availability: Aug 10th, 2021
+Generation: Navi II (RX 6000)
+Predecessor: Navi
+Successor: Navi III
+Production: Active
+Launch Price: 379 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x8
+Reviews: 45 in our database
+
+Clock Speeds:
+Base Clock: 1968 MHz
+Game Clock: 2359 MHz
+Boost Clock: 2589 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 128
+ROPs: 64
+Compute Units: 32
+RT Cores: 32
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 165.7 GPixel/s
+Texture Rate: 331.4 GTexel/s
+FP16 (half): 21.21 TFLOPS (2:1)
+FP32 (float): 10.60 TFLOPS
+FP64 (double): 662.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 190 mm 7.5 inches
+Width: 110 mm 4.3 inches
+Height: 40 mm 1.6 inches
+TDP: 160 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: D532
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:ASRock RX 6600 XT Challenger D OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2593 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:ASRock RX 6600 XT Challenger ITX -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 179 mm/7 inches
+기반 제품명:ASRock RX 6600 XT Challenger Pro OC -해당 제품의 바뀐 사항 GPU Clock: 2033 MHz, Boost Clock: 2602 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ASRock RX 6600 XT Phantom Gaming D OC -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:ASUS DUAL RX 6600 XT OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2593 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:ASUS ROG STRIX RX 6600 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 243 mm/9.6 inches, Triple-slot
+기반 제품명:BIOSTAR RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dataland RX 6600 XT X-Serial -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 224 mm/8.8 inches
+기반 제품명:Dell RX 6600 XT OEM -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 6600 XT EAGLE -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 6600 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2593 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 6600 XT GAMING OC PRO -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:HP RX 6600 XT OEM -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 6600 XT GAMING -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 277 mm/10.9 inches, Triple-slot
+기반 제품명:MSI RX 6600 XT GAMING X -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 277 mm/10.9 inches, Triple-slot
+기반 제품명:MSI RX 6600 XT MECH -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 235 mm/9.3 inches, 140 W
+기반 제품명:MSI RX 6600 XT MECH 2X OCV1 -해당 제품의 바뀐 사항 GPU Clock: 2033 MHz, Boost Clock: 2602 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 215 mm/8.5 inches
+기반 제품명:MSI RX 6600 XT MECH OC -해당 제품의 바뀐 사항 GPU Clock: 2033 MHz, Boost Clock: 2602 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 235 mm/9.3 inches, 140 W
+기반 제품명:PowerColor Fighter RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:PowerColor Hellhound RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2593 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 220 mm/8.7 inches
+기반 제품명:PowerColor Red Devil RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 251 mm/9.9 inches, Triple-slot
+기반 제품명:Sapphire NITRO+ RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2064 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:Sapphire PULSE RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2000 MHz, Boost Clock: 2593 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, Triple-slot
+기반 제품명:VASTARMOR RX 6600 XT ALLOY -해당 제품의 바뀐 사항 GPU Clock: 2188 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 272 mm/10.7 inches, Triple-slot
+기반 제품명:VASTARMOR RX 6600 XT STAR -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 272 mm/10.7 inches, Triple-slot
+기반 제품명:XFX Speedster MERC 308 RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2188 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 274 mm/10.8 inches, Triple-slot
+기반 제품명:XFX Speedster QICK 308 RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2188 MHz, Boost Clock: 2607 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 274 mm/10.8 inches
+기반 제품명:XFX Speedster SWFT 210 RX 6600 XT -해당 제품의 바뀐 사항 GPU Clock: 2092 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 241 mm/9.5 inches
+기반 제품명:Yeston RX 6600 XT GAEA -해당 제품의 바뀐 사항 GPU Clock: 1968 MHz, Boost Clock: 2589 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 6600M,"Graphics Processor: Navi 23
+Cores: 1792
+TMUs: 112
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: Navi 23
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 11,060 million
+Density: 46.7M / mm²
+Die Size: 237 mm²
+Chip Package: BGA-1269
+
+Mobile Graphics:
+Release Date: May 31st, 2021
+Generation: Navi Mobile (RX 6000M)
+Predecessor: Polaris Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2068 MHz
+Game Clock: 2177 MHz
+Boost Clock: 2416 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 1792
+TMUs: 112
+ROPs: 64
+Compute Units: 28
+RT Cores: 28
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 2 MB
+L3 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 154.6 GPixel/s
+Texture Rate: 270.6 GTexel/s
+FP16 (half): 17.32 TFLOPS (2:1)
+FP32 (float): 8.659 TFLOPS
+FP64 (double): 541.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 100 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 6700,"Graphics Processor: Navi 22
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 10 GB
+Memory Type: GDDR6
+Bus Width: 160 bit","Graphics Processor:
+GPU Name: Navi 22
+GPU Variant: Navi 22 XTL
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 17,200 million
+Density: 51.3M / mm²
+Die Size: 335 mm²
+Chip Package: BGA-1701
+
+Graphics Card:
+Release Date: Jun 9th, 2021
+Generation: Navi II (RX 6000)
+Predecessor: Navi
+Successor: Navi III
+Production: Active
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 1 in our database
+
+Clock Speeds:
+Base Clock: 1941 MHz
+Game Clock: 2174 MHz
+Boost Clock: 2450 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 10 GB
+Memory Type: GDDR6
+Memory Bus: 160 bit
+Bandwidth: 320.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+Compute Units: 36
+RT Cores: 36
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 3 MB
+L3 Cache: 80 MB
+
+Theoretical Performance:
+Pixel Rate: 156.8 GPixel/s
+Texture Rate: 352.8 GTexel/s
+FP16 (half): 22.58 TFLOPS (2:1)
+FP32 (float): 11.29 TFLOPS
+FP64 (double): 705.6 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 110 mm 4.3 inches
+Height: 40 mm 1.6 inches
+TDP: 175 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:Lenovo RX 6700 OEM -해당 제품의 바뀐 사항 GPU Clock: 1941 MHz, Boost Clock: 2450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 220 W
+기반 제품명:PowerColor Fighter RX 6700 -해당 제품의 바뀐 사항 GPU Clock: 2132 MHz, Boost Clock: 2495 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 228 mm/9 inches, 220 W
+기반 제품명:Sapphire GPRO X080 -해당 제품의 바뀐 사항 GPU Clock: 2132 MHz, Boost Clock: 2450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, No outputs, 165 W
+기반 제품명:Sapphire PULSE RX 6700 -해당 제품의 바뀐 사항 GPU Clock: 2132 MHz, Boost Clock: 2495 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches, 220 W
+기반 제품명:Sapphire RX 6700 -해당 제품의 바뀐 사항 GPU Clock: 2132 MHz, Boost Clock: 2495 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 220 W
+기반 제품명:XFX Speedster QICK 319 RX 6700 XL -해당 제품의 바뀐 사항 GPU Clock: 1941 MHz, Boost Clock: 2450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, 220 W
+기반 제품명:XFX Speedster SWFT 309 RX 6700 -해당 제품의 바뀐 사항 GPU Clock: 1941 MHz, Boost Clock: 2450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 304 mm/12 inches
+기반 제품명:XFX Speedster SWFT 309 RX 6700 XL -해당 제품의 바뀐 사항 GPU Clock: 1941 MHz, Boost Clock: 2450 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, 220 W
+"
+AMD Radeon RX 6700 XT,"Graphics Processor: Navi 22
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: Navi 22
+GPU Variant: Navi 22 XT (215-127000006)
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 17,200 million
+Density: 51.3M / mm²
+Die Size: 335 mm²
+Chip Package: BGA-1701
+
+Graphics Card:
+Release Date: Mar 3rd, 2021
+Availability: Mar 18th, 2021
+Generation: Navi II (RX 6000)
+Predecessor: Navi
+Successor: Navi III
+Production: Active
+Launch Price: 479 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 58 in our database
+
+Clock Speeds:
+Base Clock: 2321 MHz
+Game Clock: 2424 MHz
+Boost Clock: 2581 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 384.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+Compute Units: 40
+RT Cores: 40
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 3 MB
+L3 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 165.2 GPixel/s
+Texture Rate: 413.0 GTexel/s
+FP16 (half): 26.43 TFLOPS (2:1)
+FP32 (float): 13.21 TFLOPS
+FP64 (double): 825.9 GFLOPS (1:16)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 110 mm 4.3 inches
+Height: 40 mm 1.6 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: 109-D512A7-00_02
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+","기반 제품명:AMD Radeon RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASRock RX 6700 XT Challenger D -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:ASRock RX 6700 XT Challenger D OC -해당 제품의 바뀐 사항 GPU Clock: 2330 MHz, Boost Clock: 2615 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:ASRock RX 6700 XT Challenger Pro OC -해당 제품의 바뀐 사항 GPU Clock: 2375 MHz, Boost Clock: 2620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ASRock RX 6700 XT Phantom Gaming D OC -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:ASUS DUAL RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 295 mm/11.6 inches, Triple-slot
+기반 제품명:ASUS DUAL RX 6700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 2375 MHz, Boost Clock: 2620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 295 mm/11.6 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RX 6700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2629 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, Triple-slot
+기반 제품명:ASUS RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS TUF RX 6700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2418 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, Triple-slot
+기반 제품명:Dataland RX 6700 XT God of War -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 310 mm/12.2 inches
+기반 제품명:Dell RX 6700 XT OEM -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE AORUS RX 6700 XT ELITE -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 296 mm/11.7 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RX 6700 XT EAGLE -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 6700 XT EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 282 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RX 6700 XT GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:HP RX 6700 XT OEM -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:KUROUTOSHIKOU RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 228 mm/9 inches
+기반 제품명:MSI RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RX 6700 XT GAMING -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, Triple-slot
+기반 제품명:MSI RX 6700 XT GAMING X -해당 제품의 바뀐 사항 GPU Clock: 2418 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 279 mm/11 inches, Triple-slot
+기반 제품명:MSI RX 6700 XT MECH 2X -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RX 6700 XT MECH 2X OC -해당 제품의 바뀐 사항 GPU Clock: 2375 MHz, Boost Clock: 2620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:PowerColor Fighter RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 228 mm/9 inches
+기반 제품명:PowerColor Hellhound RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PowerColor Hellhound RX 6700 XT Spectral White -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PowerColor Red Devil RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2418 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:PowerColor RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Sapphire NITRO+ RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 310 mm/12.2 inches
+기반 제품명:Sapphire PULSE RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches
+기반 제품명:Sapphire PULSE RX 6700 XT OC -해당 제품의 바뀐 사항 GPU Clock: 2375 MHz, Boost Clock: 2620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 260 mm/10.2 inches
+기반 제품명:Sapphire RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:VASTARMOR RX 6700 XT ALLOY -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 326 mm/12.8 inches, Triple-slot
+기반 제품명:XFX RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:XFX Speedster MERC319 RX 6700 XT BLACK -해당 제품의 바뀐 사항 GPU Clock: 2457 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:XFX Speedster QICK319 RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:XFX Speedster QICK319 RX 6700 XT ULTRA -해당 제품의 바뀐 사항 GPU Clock: 2418 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:XFX Speedster SWFT309 RX 6700 XT -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 304 mm/12 inches
+기반 제품명:Yeston RX 6700 XT Sakura Hitomi Edition -해당 제품의 바뀐 사항 GPU Clock: 2418 MHz, Boost Clock: 2622 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Yeston RX 6700 XT Six Way Soldiers -해당 제품의 바뀐 사항 GPU Clock: 2321 MHz, Boost Clock: 2581 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+AMD Radeon RX 6700M,"Graphics Processor: Navi 22
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 10 GB
+Memory Type: GDDR6
+Bus Width: 160 bit","Graphics Processor:
+GPU Name: Navi 22
+GPU Variant: Navi 22 XM
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 17,200 million
+Density: 51.3M / mm²
+Die Size: 335 mm²
+Chip Package: BGA-1701
+
+Mobile Graphics:
+Release Date: May 31st, 2021
+Generation: Navi Mobile (RX 6000M)
+Predecessor: Polaris Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1489 MHz
+Game Clock: 2300 MHz
+Boost Clock: 2400 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 10 GB
+Memory Type: GDDR6
+Memory Bus: 160 bit
+Bandwidth: 320.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+Compute Units: 36
+RT Cores: 36
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 3 MB
+L3 Cache: 80 MB
+
+Theoretical Performance:
+Pixel Rate: 153.6 GPixel/s
+Texture Rate: 345.6 GTexel/s
+FP16 (half): 22.12 TFLOPS (2:1)
+FP32 (float): 11.06 TFLOPS
+FP64 (double): 691.2 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 135 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음
+AMD Radeon RX 6800M,"Graphics Processor: Navi 22
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: Navi 22
+GPU Variant: Navi 22 XTM
+Architecture: RDNA 2.0
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 17,200 million
+Density: 51.3M / mm²
+Die Size: 335 mm²
+Chip Package: BGA-1701
+
+Mobile Graphics:
+Release Date: May 31st, 2021
+Generation: Navi Mobile (RX 6000M)
+Predecessor: Polaris Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 2 in our database
+
+Clock Speeds:
+Base Clock: 2116 MHz
+Game Clock: 2300 MHz
+Boost Clock: 2390 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 384.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+Compute Units: 40
+RT Cores: 40
+L0 Cache: 32 KB per WGP
+L1 Cache: 128 KB per Array
+L2 Cache: 3 MB
+L3 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 153.0 GPixel/s
+Texture Rate: 382.4 GTexel/s
+FP16 (half): 24.47 TFLOPS (2:1)
+FP32 (float): 12.24 TFLOPS
+FP64 (double): 764.8 GFLOPS (1:16)
+
+Board Design:
+Slot Width: IGP
+TDP: 145 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 2.1
+Vulkan: 1.3
+Shader Model: 6.7
+
+",없음

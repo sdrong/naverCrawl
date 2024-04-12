@@ -1,0 +1,4061 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+NVIDIA A10M,"Graphics Processor: GA102
+Cores: 7168
+TMUs: 224
+ROPs: 80
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: GA102
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Feb 2022
+Availability: 2021
+Generation: Tesla Ampere (Axx)
+Predecessor: Tesla Turing
+Successor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 975 MHz
+Boost Clock: 1635 MHz
+Memory Clock: 1563 MHz 12.5 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 600.2 GB/s
+
+Render Config:
+Shading Units: 7168
+TMUs: 224
+ROPs: 80
+SM Count: 56
+Tensor Cores: 224
+RT Cores: 56
+L1 Cache: 128 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 130.8 GPixel/s
+Texture Rate: 366.2 GTexel/s
+FP16 (half): 23.44 TFLOPS (1:1)
+FP32 (float): 23.44 TFLOPS
+FP64 (double): 732.5 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Single-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA A800 PCIe 40 GB,"Graphics Processor: GA100
+Cores: 6912
+TMUs: 432
+ROPs: 160
+Memory Size: 40 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GA100
+Architecture: Ampere
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 54,200 million
+Density: 65.6M / mm²
+Die Size: 826 mm²
+Chip Package: BGA-2743
+
+Graphics Card:
+Release Date: Nov 8th, 2022
+Generation: Tesla Ampere (Axx)
+Predecessor: Tesla Turing
+Successor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 765 MHz
+Boost Clock: 1410 MHz
+Memory Clock: 1215 MHz 2.4 Gbps effective
+
+Memory:
+Memory Size: 40 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 1.56 TB/s
+
+Render Config:
+Shading Units: 6912
+TMUs: 432
+ROPs: 160
+SM Count: 108
+Tensor Cores: 432
+L1 Cache: 192 KB (per SM)
+L2 Cache: 40 MB
+
+Theoretical Performance:
+Pixel Rate: 225.6 GPixel/s
+Texture Rate: 609.1 GTexel/s
+BF16: 311.84 TFLOPS (16:1)
+TF32: 155.92 TFLOPs (8:1)
+FP64 Tensor: 19.49 TFLOPS (1:1)
+FP16 (half): 77.97 TFLOPS (4:1)
+FP32 (float): 19.49 TFLOPS
+FP64 (double): 9.746 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: P1001 SKU 200
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 8.0
+Shader Model: N/A
+
+",없음
+NVIDIA A800 PCIe 80 GB,"Graphics Processor: GA100
+Cores: 6912
+TMUs: 432
+ROPs: 160
+Memory Size: 80 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GA100
+Architecture: Ampere
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 54,200 million
+Density: 65.6M / mm²
+Die Size: 826 mm²
+Chip Package: BGA-2743
+
+Graphics Card:
+Release Date: Nov 8th, 2022
+Generation: Tesla Ampere (Axx)
+Predecessor: Tesla Turing
+Successor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1065 MHz
+Boost Clock: 1410 MHz
+Memory Clock: 1512 MHz 3 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 1.94 TB/s
+
+Render Config:
+Shading Units: 6912
+TMUs: 432
+ROPs: 160
+SM Count: 108
+Tensor Cores: 432
+L1 Cache: 192 KB (per SM)
+L2 Cache: 80 MB
+
+Theoretical Performance:
+Pixel Rate: 225.6 GPixel/s
+Texture Rate: 609.1 GTexel/s
+BF16: 311.84 TFLOPS (16:1)
+TF32: 155.92 TFLOPs (8:1)
+FP64 Tensor: 19.49 TFLOPS (1:1)
+FP16 (half): 77.97 TFLOPS (4:1)
+FP32 (float): 19.49 TFLOPS
+FP64 (double): 9.746 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: P1001 SKU 200
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 8.0
+Shader Model: N/A
+
+",없음
+NVIDIA A800 SXM4 80 GB,"Graphics Processor: GA100
+Cores: 6912
+TMUs: 432
+ROPs: 160
+Memory Size: 80 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GA100
+Architecture: Ampere
+Foundry: TSMC
+Process Size: 7 nm
+Transistors: 54,200 million
+Density: 65.6M / mm²
+Die Size: 826 mm²
+Chip Package: BGA-2743
+
+Graphics Card:
+Release Date: Aug 11th, 2022
+Generation: Tesla Ampere (Axx)
+Predecessor: Tesla Turing
+Successor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1155 MHz
+Boost Clock: 1410 MHz
+Memory Clock: 1593 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 2.04 TB/s
+
+Render Config:
+Shading Units: 6912
+TMUs: 432
+ROPs: 160
+SM Count: 108
+Tensor Cores: 432
+L1 Cache: 192 KB (per SM)
+L2 Cache: 40 MB
+
+Theoretical Performance:
+Pixel Rate: 225.6 GPixel/s
+Texture Rate: 609.1 GTexel/s
+BF16: 311.84 TFLOPS (16:1)
+TF32: 155.92 TFLOPs (8:1)
+FP64 Tensor: 19.49 TFLOPS (1:1)
+FP16 (half): 77.97 TFLOPS (4:1)
+FP32 (float): 19.49 TFLOPS
+FP64 (double): 9.746 TFLOPS (1:2)
+
+Board Design:
+Slot Width: SXM Module
+TDP: 400 W
+Suggested PSU: 800 W
+Outputs: No outputs
+Power Connectors: None
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 8.0
+Shader Model: N/A
+
+",없음
+NVIDIA GeForce GTX 1630,"Graphics Processor: TU117
+Cores: 512
+TMUs: 32
+ROPs: 16
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: TU117
+GPU Variant: TU117-150-KA-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 4,700 million
+Density: 23.5M / mm²
+Die Size: 200 mm²
+Chip Package: BGA-960
+
+Graphics Card:
+Release Date: Jun 28th, 2022
+Generation: GeForce 16
+Predecessor: GeForce 10
+Successor: GeForce 20
+Production: Active
+Bus Interface: PCIe 3.0 x8
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 1740 MHz
+Boost Clock: 1785 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 512
+TMUs: 32
+ROPs: 16
+SM Count: 8
+L1 Cache: 64 KB (per SM)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 28.56 GPixel/s
+Texture Rate: 57.12 GTexel/s
+FP16 (half): 3.656 TFLOPS (2:1)
+FP32 (float): 1.828 TFLOPS
+FP64 (double): 57.12 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Single-slot
+Length: 145 mm 5.7 inches
+Width: 69 mm 2.7 inches
+Height: 18 mm 0.7 inches
+TDP: 75 W
+Suggested PSU: 250 W
+Outputs: 1x DVI 1x HDMI 2.0 1x DisplayPort 1.4a
+Power Connectors: None
+Board Number: PG174 SKU 0
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL GTX 1630 -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 213 mm/8.4 inches, Dual-slot
+기반 제품명:ASUS DUAL GTX 1630 OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1800 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 213 mm/8.4 inches, Dual-slot
+기반 제품명:ASUS PHOENIX GTX 1630 -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 174 mm/6.9 inches, Dual-slot
+기반 제품명:ASUS PHOENIX GTX 1630 EVO -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 200 mm/7.9 inches, Dual-slot
+기반 제품명:ASUS TUF GTX 1630 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, Dual-slot
+기반 제품명:ASUS TUF GTX 1630 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, Dual-slot
+기반 제품명:Colorful GTX 1630 Smart Shark -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 228 mm/9 inches, Dual-slot
+기반 제품명:Colorful GTX 1630 Smart Shark LE -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 183 mm/7.2 inches, Dual-slot
+기반 제품명:Colorful Tomahawk GTX 1630 -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Dual-slot
+기반 제품명:EVGA GTX 1630 SC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 202 mm/8 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:Gainward GTX 1630 Ghost -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:Gainward GTX 1630 Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:GALAX GTX 1630 EX (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1800 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 181 mm/7.1 inches, Dual-slot
+기반 제품명:GALAX GTX 1630 General -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 196 mm/7.7 inches, Dual-slot, 1x HDMI 1x DisplayPort
+기반 제품명:GALAX GTX 1630 General OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 196 mm/7.7 inches, Dual-slot, 1x HDMI 1x DisplayPort
+기반 제품명:GALAX GTX 1630 LP -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 166 mm/6.5 inches, Dual-slot
+기반 제품명:GALAX GTX 1630 Snapdragon -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 200 mm/7.9 inches, Dual-slot
+기반 제품명:GIGABYTE GTX 1630 Low Profile OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1800 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 167 mm/6.6 inches, Dual-slot, 1x DVI 2x HDMI 1x DisplayPort
+기반 제품명:GIGABYTE GTX 1630 OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 153 mm/6 inches, Dual-slot
+기반 제품명:Inno3D GTX 1630 COMPACT -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 196 mm/7.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:Inno3D GTX 1630 TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1800 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 196 mm/7.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:KFA2 GTX 1630 EX (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1800 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 181 mm/7.1 inches, Dual-slot
+기반 제품명:KFA2 GTX 1630 LP -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 166 mm/6.5 inches, Dual-slot
+기반 제품명:Manli GTX 1630 (M1434+N600) -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 158 mm/6.2 inches
+기반 제품명:Manli GTX 1630 Low Profile (M2472+N596) -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 163 mm/6.4 inches
+기반 제품명:MSI GTX 1630 AERO ITX -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot
+기반 제품명:MSI GTX 1630 AERO ITX OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot
+기반 제품명:MSI GTX 1630 VENTUS XS -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 178 mm/7 inches, Dual-slot
+기반 제품명:MSI GTX 1630 VENTUS XS OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 178 mm/7 inches, Dual-slot
+기반 제품명:Palit GTX 1630 Dual -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:Palit GTX 1630 Dual OC -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:PNY GTX 1630 Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, Dual-slot, 1x HDMI 2x DisplayPort
+기반 제품명:PNY GTX 1630 Single Fan -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 158 mm/6.2 inches, Dual-slot, 1x DVI 1x HDMI
+기반 제품명:ZOTAC GTX 1630 -해당 제품의 바뀐 사항 GPU Clock: 1740 MHz, Boost Clock: 1785 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 151 mm/5.9 inches, Dual-slot
+"
+NVIDIA GeForce RTX 3050 4 GB,"Graphics Processor: GA107
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+GPU Variant: GA107-140-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Graphics Card:
+Release Date: Jan 27th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 199 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1545 MHz
+Boost Clock: 1740 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 55.68 GPixel/s
+Texture Rate: 111.4 GTexel/s
+FP16 (half): 7.127 TFLOPS (1:1)
+FP32 (float): 7.127 TFLOPS
+FP64 (double): 111.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 90 W
+Suggested PSU: 250 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3050 8 GB,"Graphics Processor: GA106
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA106
+GPU Variant: GA106-150-KA-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 12,000 million
+Density: 43.5M / mm²
+Die Size: 276 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Jan 4th, 2022
+Availability: Jan 27th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 249 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 48 in our database
+
+Clock Speeds:
+Base Clock: 1552 MHz
+Boost Clock: 1777 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 56.86 GPixel/s
+Texture Rate: 142.2 GTexel/s
+FP16 (half): 9.098 TFLOPS (1:1)
+FP32 (float): 9.098 TFLOPS
+FP64 (double): 142.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 130 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+Board Number: PG190 SKU 70
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:AFOX RTX 3050 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:AFOX RTX 3050 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 3050 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:ASUS DUAL RTX 3050 OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:ASUS Phoenix RTX 3050 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 177 mm/7 inches
+기반 제품명:ASUS ROG STRIX RTX 3050 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RTX 3050 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:AX RTX 3050 X2W -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:AX RTX 3050 X2W OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches
+기반 제품명:AX RTX 3050 X2W PRO -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 249 mm/9.8 inches
+기반 제품명:Colorful iGame RTX 3050 Mini OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 184 mm/7.2 inches
+기반 제품명:Colorful iGame RTX 3050 Ultra W -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 3050 Ultra W DUO -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:Colorful iGame RTX 3050 Ultra W DUO OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:Colorful iGame RTX 3050 Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot
+기반 제품명:Colorful Radium Wind RTX 3050 Genki OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:Colorful Tomahawk RTX 3050 Deluxe -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful Tomahawk RTX 3050 DUO -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:EVGA RTX 3050 XC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:EVGA RTX 3050 XC Black -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:Gainward RTX 3050 Ghost -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:Gainward RTX 3050 Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:Gainward RTX 3050 Pegasus -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Gainward RTX 3050 Pegasus OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:GALAX RTX 3050 (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 189 mm/7.4 inches
+기반 제품명:GALAX RTX 3050 EX -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 209 mm/8.2 inches
+기반 제품명:GALAX RTX 3050 General -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:GALAX RTX 3050 General OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:GALAX RTX 3050 Metal Master Mini -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 168 mm/6.6 inches
+기반 제품명:GALAX RTX 3050 Snapdragon -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:GIGABYTE AORUS RTX 3050 ELITE -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 296 mm/11.7 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 3050 EAGLE -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 213 mm/8.4 inches
+기반 제품명:GIGABYTE RTX 3050 EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1792 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 213 mm/8.4 inches
+기반 제품명:GIGABYTE RTX 3050 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 282 mm/11.1 inches
+기반 제품명:Inno3D RTX 3050 Twin X2 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:Inno3D RTX 3050 Twin X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches
+기반 제품명:KFA2 RTX 3050 (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 189 mm/7.4 inches
+기반 제품명:KFA2 RTX 3050 EX -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 209 mm/8.2 inches
+기반 제품명:Leadtek WinFast RTX 3050 CLASSIC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:Leadtek WinFast RTX 3050 HURRICANE WHITE Edition -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:Manli RTX 3050 (M2521+N630) -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:Manli RTX 3050 Gallardo (M2510+N630) -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1792 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:MAXSUN RTX 3050 Big Mac T0 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 183 mm/7.2 inches
+기반 제품명:MAXSUN RTX 3050 iCraft OC T0 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MAXSUN RTX 3050 iCraft S0 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MAXSUN RTX 3050 iCraft T0 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MSI RTX 3050 AERO ITX -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 172 mm/6.8 inches
+기반 제품명:MSI RTX 3050 AERO ITX OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 172 mm/6.8 inches
+기반 제품명:MSI RTX 3050 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:MSI RTX 3050 GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:MSI RTX 3050 VENTUS 2X -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:MSI RTX 3050 VENTUS 2X OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:OCPC RTX 3050 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ONDA RTX 3050 AEGIS -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 3050 Dual -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:Palit RTX 3050 Dual OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:Palit RTX 3050 StormX -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Palit RTX 3050 StormX OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PNY XLR8 RTX 3050 REVEL EPIC-X RGB Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:PNY XLR8 RTX 3050 REVEL EPIC-X RGB Single Fan -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PNY XLR8 RTX 3050 UPRISING Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:ZOTAC RTX 3050 ECO -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 222 mm/8.7 inches, 115 W
+기반 제품명:ZOTAC RTX 3050 ECO SOLO -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 151 mm/5.9 inches, 115 W
+기반 제품명:ZOTAC RTX 3050 Solo -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 168 mm/6.6 inches
+기반 제품명:ZOTAC RTX 3050 Twin Edge -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 224 mm/8.8 inches
+기반 제품명:ZOTAC RTX 3050 Twin Edge OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 224 mm/8.8 inches
+"
+NVIDIA GeForce RTX 3050 8 GB GA107,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+GPU Variant: GA107-150-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Graphics Card:
+Release Date: Dec 16th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 249 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 48 in our database
+
+Clock Speeds:
+Base Clock: 1552 MHz
+Boost Clock: 1777 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 56.86 GPixel/s
+Texture Rate: 142.2 GTexel/s
+FP16 (half): 9.098 TFLOPS (1:1)
+FP32 (float): 9.098 TFLOPS
+FP64 (double): 142.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 115 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 6-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Colorful iGame RTX 3050 Ultra W DUO OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1822 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 249 mm/9.8 inches
+기반 제품명:Colorful Tomahawk RTX 3050 DUO V2 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:MSI RTX 3050 AERO ITX OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 168 mm/6.6 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MSI RTX 3050 AERO ITX V1 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 168 mm/6.6 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X V1 -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X XS -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1777 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X XS OC -해당 제품의 바뀐 사항 GPU Clock: 1552 MHz, Boost Clock: 1807 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, 1x DVI 1x HDMI 1x DisplayPort
+"
+NVIDIA GeForce RTX 3050 Max-Q Refresh 4 GB,"Graphics Processor: GA107
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Jul 6th, 2022
+Availability: 2023
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 757 MHz
+Boost Clock: 1125 MHz
+Memory Clock: 1375 MHz 11 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 176.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 36.00 GPixel/s
+Texture Rate: 72.00 GTexel/s
+FP16 (half): 4.608 TFLOPS (1:1)
+FP32 (float): 4.608 TFLOPS
+FP64 (double): 72.00 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3050 Max-Q Refresh 6 GB,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Jul 6th, 2022
+Availability: 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 622 MHz
+Boost Clock: 990 MHz
+Memory Clock: 1375 MHz 11 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 132.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 31.68 GPixel/s
+Texture Rate: 79.20 GTexel/s
+FP16 (half): 5.069 TFLOPS (1:1)
+FP32 (float): 5.069 TFLOPS
+FP64 (double): 79.20 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3050 Mobile Refresh 4 GB,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Jul 6th, 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 652 MHz
+Boost Clock: 1207 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 38.62 GPixel/s
+Texture Rate: 96.56 GTexel/s
+FP16 (half): 6.180 TFLOPS (1:1)
+FP32 (float): 6.180 TFLOPS
+FP64 (double): 96.56 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 45 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4736 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Lenovo RTX 3050 Mobile Refresh 4 GB -해당 제품의 바뀐 사항 GPU Clock: 937 MHz, Boost Clock: 1365 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 3050 Mobile Refresh 6 GB,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Jul 6th, 2022
+Availability: 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1237 MHz
+Boost Clock: 1492 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 168.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 47.74 GPixel/s
+Texture Rate: 119.4 GTexel/s
+FP16 (half): 7.639 TFLOPS (1:1)
+FP32 (float): 7.639 TFLOPS
+FP64 (double): 119.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 75 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3050 OEM,"Graphics Processor: GA106
+Cores: 2304
+TMUs: 72
+ROPs: 32
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA106
+GPU Variant: GA106-150-KA-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 12,000 million
+Density: 43.5M / mm²
+Die Size: 276 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Jan 4th, 2022
+Availability: Jan 27th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x8
+Reviews: 48 in our database
+
+Clock Speeds:
+Base Clock: 1515 MHz
+Boost Clock: 1755 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 72
+ROPs: 32
+SM Count: 18
+Tensor Cores: 72
+RT Cores: 18
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 56.16 GPixel/s
+Texture Rate: 126.4 GTexel/s
+FP16 (half): 8.087 TFLOPS (1:1)
+FP32 (float): 8.087 TFLOPS
+FP64 (double): 126.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 130 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3060 8 GB,"Graphics Processor: GA106
+Cores: 3584
+TMUs: 112
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA106
+GPU Variant: GA106-302-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 12,000 million
+Density: 43.5M / mm²
+Die Size: 276 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Oct 12th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 61 in our database
+
+Clock Speeds:
+Base Clock: 1320 MHz
+Boost Clock: 1777 MHz
+Memory Clock: 1875 MHz 15 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 240.0 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 112
+ROPs: 48
+SM Count: 28
+Tensor Cores: 112
+RT Cores: 28
+L1 Cache: 128 KB (per SM)
+L2 Cache: 3 MB
+
+Theoretical Performance:
+Pixel Rate: 85.30 GPixel/s
+Texture Rate: 199.0 GTexel/s
+FP16 (half): 12.74 TFLOPS (1:1)
+FP32 (float): 12.74 TFLOPS
+FP64 (double): 199.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 170 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG190
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 3060 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:ASUS DUAL RTX 3060 OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1837 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:ASUS DUAL RTX 3060 White 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:ASUS DUAL RTX 3060 White OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1837 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 200 mm/7.9 inches
+기반 제품명:GIGABYTE RTX 3060 GAMING OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1807 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 198 mm/7.8 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Manli RTX 3060 8 GB (M2500+N630) -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:MAXSUN RTX 3060 iCraft OC T0 -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1837 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 
+기반 제품명:MAXSUN RTX 3060 Terminator T0 -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 3060 VENTUS 2X 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:MSI RTX 3060 VENTUS 2X OC 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1807 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Palit RTX 3060 StormX 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PNY RTX 3060 VERTO Dual Fan 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1777 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+"
+NVIDIA GeForce RTX 3060 8 GB GA104,"Graphics Processor: GA104
+Cores: 3584
+TMUs: 112
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA104
+GPU Variant: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Oct 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 61 in our database
+
+Clock Speeds:
+Base Clock: 1320 MHz
+Boost Clock: 1777 MHz
+Memory Clock: 1875 MHz 15 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 240.0 GB/s
+
+Render Config:
+Shading Units: 3584
+TMUs: 112
+ROPs: 64
+SM Count: 28
+Tensor Cores: 112
+RT Cores: 28
+L1 Cache: 128 KB (per SM)
+L2 Cache: 3 MB
+
+Theoretical Performance:
+Pixel Rate: 113.7 GPixel/s
+Texture Rate: 199.0 GTexel/s
+FP16 (half): 12.74 TFLOPS (1:1)
+FP32 (float): 12.74 TFLOPS
+FP64 (double): 199.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 195 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:GIGABYTE RTX 3060 8 GB OC -해당 제품의 바뀐 사항 GPU Clock: 1320 MHz, Boost Clock: 1807 MHz, Memory Clock: 1875 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 3060 Ti GA103,"Graphics Processor: GA103
+Cores: 4864
+TMUs: 152
+ROPs: 80
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA103
+GPU Variant: GA103-200-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 22,000 million
+Density: 44.4M / mm²
+Die Size: 496 mm²
+Chip Package: BGA-2708
+
+Graphics Card:
+Release Date: Feb 23rd, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 399 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 66 in our database
+
+Clock Speeds:
+Base Clock: 1410 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 4864
+TMUs: 152
+ROPs: 80
+SM Count: 38
+Tensor Cores: 152
+RT Cores: 38
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 133.2 GPixel/s
+Texture Rate: 253.1 GTexel/s
+FP16 (half): 16.20 TFLOPS (1:1)
+FP32 (float): 16.20 TFLOPS
+FP64 (double): 253.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 200 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG142 SKU 14
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:MAXSUN RTX 3060 Ti iCraft OC S1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, 220 W
+기반 제품명:MAXSUN RTX 3060 Ti iCraft OC T1C -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, 240 W
+기반 제품명:MAXSUN RTX 3060 Ti iCraft OC T3 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MAXSUN RTX 3060 Ti Terminator S1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MAXSUN RTX 3060 Ti Terminator T1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MAXSUN RTX 3060 Ti Terminator T3 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:Palit RTX 3060 Ti Dual V1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:Palit RTX 3060 Ti Dual V1 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:ZOTAC RTX 3060 Ti Apocalypse GOC-X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3060 Ti PGF GOC-X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot, 220 W
+기반 제품명:ZOTAC RTX 3060 Ti Twin Edge -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 222 mm/8.7 inches
+기반 제품명:ZOTAC RTX 3060 Ti Twin Edge OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 222 mm/8.7 inches
+기반 제품명:ZOTAC RTX 3060 Ti X-GAMING GOC-X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+"
+NVIDIA GeForce RTX 3060 Ti GDDR6X,"Graphics Processor: GA104
+Cores: 4864
+TMUs: 152
+ROPs: 80
+Memory Size: 8 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+GPU Variant: GA104-202-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Oct 19th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 66 in our database
+
+Clock Speeds:
+Base Clock: 1410 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 1188 MHz 19 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 608.3 GB/s
+
+Render Config:
+Shading Units: 4864
+TMUs: 152
+ROPs: 80
+SM Count: 38
+Tensor Cores: 152
+RT Cores: 38
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 133.2 GPixel/s
+Texture Rate: 253.1 GTexel/s
+FP16 (half): 16.20 TFLOPS (1:1)
+FP32 (float): 16.20 TFLOPS
+FP64 (double): 253.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 225 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG141 SKU 11
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 3060 Ti GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:ASUS DUAL RTX 3060 Ti OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:ASUS DUAL RTX 3060 Ti White GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:ASUS DUAL RTX 3060 Ti White OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:ASUS TUF RTX 3060 Ti GAMING GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 302 mm/11.9 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 3060 Ti GAMING OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 302 mm/11.9 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:Colorful iGame RTX 3060 Ti Advanced OC G6X V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 290 W
+기반 제품명:Colorful iGame RTX 3060 Ti Ultra W G6X V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot, 265 W
+기반 제품명:Colorful iGame RTX 3060 Ti Ultra W OC G6X V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1770 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot, 265 W
+기반 제품명:Colorful iGame RTX 3060 Ti Vulcan OC G6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot, 290 W
+기반 제품명:Colorful Tomahawk RTX 3060 Ti DUO G6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 253 mm/10 inches
+기반 제품명:Colorful Tomahawk RTX 3060 Ti Forever G6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Gainward RTX 3060 Ti Chasing Wind GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 3060 Ti 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:GALAX RTX 3060 Ti Black General GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Black General OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Black General V2 GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Black General V2 OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti EX White 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:GALAX RTX 3060 Ti GAMER GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti GAMER OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1837 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot, 265 W
+기반 제품명:GALAX RTX 3060 Ti HOF Pro GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 303 mm/11.9 inches, 265 W
+기반 제품명:GALAX RTX 3060 Ti Metal Master GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Metal Master OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Metal Master V2 GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:GALAX RTX 3060 Ti SG 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:GALAX RTX 3060 Ti Snapdragon GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 270 mm/10.6 inches
+기반 제품명:GALAX RTX 3060 Ti Star GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 265 W
+기반 제품명:GALAX RTX 3060 Ti Star OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 265 W
+기반 제품명:GIGABYTE RTX 3060 Ti GAMING OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 286 mm/11.3 inches
+기반 제품명:Inno3D RTX 3060 Ti X3 OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 265 W
+기반 제품명:KFA2 RTX 3060 Ti 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:KFA2 RTX 3060 Ti EX White 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:KFA2 RTX 3060 Ti SG 1-Click OC Plus GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:MSI RTX 3060 Ti GAMING TRIO GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot, 265 W
+기반 제품명:MSI RTX 3060 Ti GAMING X TRIO GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1845 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot, 265 W
+기반 제품명:MSI RTX 3060 Ti VENTUS 2X GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RTX 3060 Ti VENTUS 2X OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, Triple-slot
+기반 제품명:MSI RTX 3060 Ti VENTUS 3X GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:MSI RTX 3060 Ti VENTUS 3X OC GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:NVIDIA GeForce RTX 3060 Ti Founders Edition GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:Zephyr RTX 3060 Ti Spindrift GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:ZOTAC RTX 3060 Ti Twin Edge GDDR6X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 232 mm/9.1 inches
+"
+NVIDIA GeForce RTX 3070 Ti 16 GB,"Graphics Processor: GA104
+Cores: 6144
+TMUs: 192
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+GPU Variant: GA104-401-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Never Released
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 699 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 46 in our database
+
+Clock Speeds:
+Base Clock: 1575 MHz
+Boost Clock: 1770 MHz
+Memory Clock: 1188 MHz 19 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 608.3 GB/s
+
+Render Config:
+Shading Units: 6144
+TMUs: 192
+ROPs: 96
+SM Count: 48
+Tensor Cores: 192
+RT Cores: 48
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 169.9 GPixel/s
+Texture Rate: 339.8 GTexel/s
+FP16 (half): 21.75 TFLOPS (1:1)
+FP32 (float): 21.75 TFLOPS
+FP64 (double): 339.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 290 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3070 Ti 8 GB GA102,"Graphics Processor: GA102
+Cores: 6144
+TMUs: 192
+ROPs: 96
+Memory Size: 8 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA102
+GPU Variant: GA102-150-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Oct 21st, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 46 in our database
+
+Clock Speeds:
+Base Clock: 1575 MHz
+Boost Clock: 1770 MHz
+Memory Clock: 1188 MHz 19 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 608.3 GB/s
+
+Render Config:
+Shading Units: 6144
+TMUs: 192
+ROPs: 96
+SM Count: 48
+Tensor Cores: 192
+RT Cores: 48
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 169.9 GPixel/s
+Texture Rate: 339.8 GTexel/s
+FP16 (half): 21.75 TFLOPS (1:1)
+FP32 (float): 21.75 TFLOPS
+FP64 (double): 339.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 290 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS TUF RTX 3070 Ti V2 GAMING OC LHR -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1785 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Colorful iGame RTX 3070 Ti Advanced OC V2 GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1830 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot, 400 W
+기반 제품명:Colorful iGame RTX 3070 Ti Ultra W OC V2 GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot, 370 W
+기반 제품명:Colorful iGame RTX 3070 Ti Vulcan OC V2 GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1860 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot, 400 W
+기반 제품명:Colorful Tomahawk RTX 3070 Ti V2 GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1770 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot, 340 W
+기반 제품명:ZOTAC RTX 3070 Ti Apocalypse GOC GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot, 320 W
+기반 제품명:ZOTAC RTX 3070 Ti Trinity OC GA102 -해당 제품의 바뀐 사항 GPU Clock: 1575 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+"
+NVIDIA GeForce RTX 3070 Ti Max-Q,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Jan 4th, 2022
+Availability: Feb 1st, 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 510 MHz
+Boost Clock: 1035 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 384.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 99.36 GPixel/s
+Texture Rate: 190.4 GTexel/s
+FP16 (half): 12.19 TFLOPS (1:1)
+FP32 (float): 12.19 TFLOPS
+FP64 (double): 190.4 GFLOPS (1:64)
+
+Board Design:
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3070 Ti Mobile,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Jan 4th, 2022
+Availability: Feb 1st, 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 915 MHz
+Boost Clock: 1410 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 135.4 GPixel/s
+Texture Rate: 259.4 GTexel/s
+FP16 (half): 16.60 TFLOPS (1:1)
+FP32 (float): 16.60 TFLOPS
+FP64 (double): 259.4 GFLOPS (1:64)
+
+Board Design:
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3070 TiM,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Graphics Card:
+Release Date: Nov 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 915 MHz
+Boost Clock: 1410 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 135.4 GPixel/s
+Texture Rate: 259.4 GTexel/s
+FP16 (half): 16.60 TFLOPS (1:1)
+FP32 (float): 16.60 TFLOPS
+FP64 (double): 259.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 270 mm 10.6 inches
+Width: 140 mm 5.5 inches
+Height: 55 mm 2.2 inches
+TDP: 220 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3080 12 GB,"Graphics Processor: GA102
+Cores: 8960
+TMUs: 280
+ROPs: 96
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: GA102
+GPU Variant: GA102-220-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Jan 11th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 799 USD
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1260 MHz
+Boost Clock: 1710 MHz
+Memory Clock: 1188 MHz 19 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Memory Bus: 384 bit
+Bandwidth: 912.4 GB/s
+
+Render Config:
+Shading Units: 8960
+TMUs: 280
+ROPs: 96
+SM Count: 70
+Tensor Cores: 280
+RT Cores: 70
+L1 Cache: 128 KB (per SM)
+L2 Cache: 5 MB
+
+Theoretical Performance:
+Pixel Rate: 164.2 GPixel/s
+Texture Rate: 478.8 GTexel/s
+FP16 (half): 30.64 TFLOPS (1:1)
+FP32 (float): 30.64 TFLOPS
+FP64 (double): 478.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 285 mm 11.2 inches
+Width: 112 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 350 W
+Suggested PSU: 750 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG132 SKU 25
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS ROG STRIX RTX 3080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 3080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1860 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort, 390 W
+기반 제품명:ASUS ROG STRIX RTX 3080 GAMING V2 -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 3080 OC EVA Edition -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1860 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort, 390 W
+기반 제품명:ASUS TUF RTX 3080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 3080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1785 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:Colorful iGame RTX 3080 Advanced -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1770 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Colorful iGame RTX 3080 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1770 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, 390 W
+기반 제품명:Colorful iGame RTX 3080 Ultra W -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 310 mm/12.2 inches
+기반 제품명:Colorful iGame RTX 3080 Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 360 W
+기반 제품명:Colorful iGame RTX 3080 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 3080 Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot, 390 W
+기반 제품명:Colorful Tomahawk RTX 3080 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:EVGA RTX 3080 FTW3 -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:EVGA RTX 3080 FTW3 ULTRA -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:EVGA RTX 3080 FTW3 ULTRA HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 289 mm/11.4 inches
+기반 제품명:EVGA RTX 3080 FTW3 ULTRA HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1800 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 289 mm/11.4 inches, Single-slot
+기반 제품명:EVGA RTX 3080 XC3 -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3080 XC3 ULTRA -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3080 XC3 ULTRA HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3080 XC3 ULTRA HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 289 mm/11.4 inches, Single-slot
+기반 제품명:Gainward RTX 3080 Chasing Wind -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 3080 Phantom -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:Gainward RTX 3080 Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1815 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:Gainward RTX 3080 Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:Gainward RTX 3080 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 EX Gamer (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 EX Gamer White (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 Metal Master MAX FG -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 Metal Master MAX OC FG -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 SG (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 Xingyao MAX FG -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GALAX RTX 3080 Xingyao MAX OC FG -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:GIGABYTE AORUS RTX 3080 MASTER -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1830 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Quad-slot, 3x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RTX 3080 XTREME WATERFORCE -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1830 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 252 mm/9.9 inches, 3x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE AORUS RTX 3080 XTREME WATERFORCE WB -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1830 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 252 mm/9.9 inches, 3x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 3080 EAGLE -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 3080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:Inno3D iChill RTX 3080 X4 -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Inno3D RTX 3080 X3 OC LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1725 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:KFA2 RTX 3080 EX Gamer (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:KFA2 RTX 3080 EX Gamer White (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:KFA2 RTX 3080 SG (1-Click OC) LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Leadtek WinFast RTX 3080 HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot
+기반 제품명:Manli RTX 3080 LHR (M3515+N613-00) -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Manli RTX 3080 LHR Gallardo (M3515+N613-00-01) -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1725 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:MSI RTX 3080 GAMING PLUS TRIO LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot
+기반 제품명:MSI RTX 3080 GAMING Z TRIO LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1815 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, Triple-slot
+기반 제품명:MSI RTX 3080 SUPRIM LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1815 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:MSI RTX 3080 SUPRIM X LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1890 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:MSI RTX 3080 VENTUS 3X PLUS OC LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:OCPC RTX 3080 LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Palit RTX 3080 GameRock -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:Palit RTX 3080 GameRock OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1815 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot, 390 W
+기반 제품명:Palit RTX 3080 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 294 mm/11.6 inches, Triple-slot
+기반 제품명:Palit RTX 3080 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 294 mm/11.6 inches, Triple-slot
+기반 제품명:PNY XLR8 RTX 3080 REVEL EPIC-X RGB Triple Fan LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 304 mm/12 inches, Triple-slot
+기반 제품명:PNY XLR8 RTX 3080 UPRISING EPIC-X RGB Triple Fan LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1725 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:PNY XLR8 RTX 3080 UPRISING Triple Fan LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 AMP Extreme Holo LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1785 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 356 mm/14 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 AMP Holo LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1740 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 PGF OC -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1755 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 Thunderbolt HA -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot, 320 W
+기반 제품명:ZOTAC RTX 3080 Trinity LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1710 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:ZOTAC RTX 3080 Trinity OC LHR -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1725 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+"
+NVIDIA GeForce RTX 3080 Ti 20 GB,"Graphics Processor: GA102
+Cores: 10240
+TMUs: 320
+ROPs: 112
+Memory Size: 20 GB
+Memory Type: GDDR6X
+Bus Width: 320 bit","Graphics Processor:
+GPU Name: GA102
+GPU Variant: GA102-225-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Jan 2022
+Availability: 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 1,199 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 59 in our database
+
+Clock Speeds:
+Base Clock: 1335 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 1188 MHz 19 Gbps effective
+
+Memory:
+Memory Size: 20 GB
+Memory Type: GDDR6X
+Memory Bus: 320 bit
+Bandwidth: 760.3 GB/s
+
+Render Config:
+Shading Units: 10240
+TMUs: 320
+ROPs: 112
+SM Count: 80
+Tensor Cores: 320
+RT Cores: 80
+L1 Cache: 128 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 186.5 GPixel/s
+Texture Rate: 532.8 GTexel/s
+FP16 (half): 34.10 TFLOPS (1:1)
+FP32 (float): 34.10 TFLOPS
+FP64 (double): 532.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 285 mm 11.2 inches
+Width: 112 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 350 W
+Suggested PSU: 750 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG132 SKU 15
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:GIGABYTE AORUS RTX 3080 Ti XTREME 20 GB -해당 제품의 바뀐 사항 GPU Clock: 1335 MHz, Boost Clock: 1665 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Quad-slot, 3x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 3080 Ti GAMING OC 20 GB -해당 제품의 바뀐 사항 GPU Clock: 1335 MHz, Boost Clock: 1695 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 3080 Ti VENTUS 3X OC 20 GB -해당 제품의 바뀐 사항 GPU Clock: 1335 MHz, Boost Clock: 1875 MHz, Memory Clock: 1188 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 410 W
+"
+NVIDIA GeForce RTX 3080 Ti Max-Q,"Graphics Processor: GA103
+Cores: 7424
+TMUs: 232
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA103
+GPU Variant: GN20-E8-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 22,000 million
+Density: 44.4M / mm²
+Die Size: 496 mm²
+Chip Package: BGA-2708
+
+Mobile Graphics:
+Release Date: Jan 25th, 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 585 MHz
+Boost Clock: 1125 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 384.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 96
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 108.0 GPixel/s
+Texture Rate: 261.0 GTexel/s
+FP16 (half): 16.70 TFLOPS (1:1)
+FP32 (float): 16.70 TFLOPS
+FP64 (double): 261.0 GFLOPS (1:64)
+
+Board Design:
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 310
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3080 Ti Mobile,"Graphics Processor: GA103
+Cores: 7424
+TMUs: 232
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA103
+GPU Variant: GN20-E8-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 22,000 million
+Density: 44.4M / mm²
+Die Size: 496 mm²
+Chip Package: BGA-2708
+
+Mobile Graphics:
+Release Date: Jan 25th, 2022
+Generation: GeForce 30 Mobile
+Predecessor: GeForce 20 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 810 MHz
+Boost Clock: 1260 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 96
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 121.0 GPixel/s
+Texture Rate: 292.3 GTexel/s
+FP16 (half): 18.71 TFLOPS (1:1)
+FP32 (float): 18.71 TFLOPS
+FP64 (double): 292.3 GFLOPS (1:64)
+
+Board Design:
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 310
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 3090 Ti,"Graphics Processor: GA102
+Cores: 10752
+TMUs: 336
+ROPs: 112
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: GA102
+GPU Variant: GA102-350-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Jan 27th, 2022
+Availability: Mar 29th, 2022
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 1,999 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 31 in our database
+
+Clock Speeds:
+Base Clock: 1560 MHz
+Boost Clock: 1860 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Memory Bus: 384 bit
+Bandwidth: 1.01 TB/s
+
+Render Config:
+Shading Units: 10752
+TMUs: 336
+ROPs: 112
+SM Count: 84
+Tensor Cores: 336
+RT Cores: 84
+L1 Cache: 128 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 208.3 GPixel/s
+Texture Rate: 625.0 GTexel/s
+FP16 (half): 40.00 TFLOPS (1:1)
+FP32 (float): 40.00 TFLOPS
+FP64 (double): 625.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 336 mm 13.2 inches
+Width: 140 mm 5.5 inches
+Height: 61 mm 2.4 inches
+TDP: 450 W
+Suggested PSU: 850 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG136 SKU 5
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS ROG STRIX LC RTX 3090 Ti -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 293 mm/11.5 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX LC RTX 3090 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1950 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 293 mm/11.5 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 3090 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 326 mm/12.8 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 3090 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 326 mm/12.8 inches, 2x HDMI 3x DisplayPort
+기반 제품명:Colorful iGame RTX 3090 Ti Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1905 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 258 mm/10.2 inches, Dual-slot, 510 W
+기반 제품명:Colorful iGame RTX 3090 Ti Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches, 510 W
+기반 제품명:Colorful Tomahawk RTX 3090 Ti Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 327 mm/12.9 inches
+기반 제품명:Dell RTX 3090 Ti OEM -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3090 Ti FTW3 -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:EVGA RTX 3090 Ti FTW3 BLACK -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:EVGA RTX 3090 Ti FTW3 KINGPIN -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1950 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3090 Ti FTW3 KINGPIN HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1950 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 289 mm/11.4 inches
+기반 제품명:EVGA RTX 3090 Ti FTW3 ULTRA -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:EVGA RTX 3090 Ti FTW3 ULTRA HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 3090 Ti FTW3 ULTRA HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Dual-slot
+기반 제품명:Gainward RTX 3090 Ti GLARE OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1905 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 355 mm/14 inches, Quad-slot
+기반 제품명:Gainward RTX 3090 Ti Phantom -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:Gainward RTX 3090 Ti Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:GALAX RTX 3090 Ti EX Gamer (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:GALAX RTX 3090 Ti EX Gamer ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:GALAX RTX 3090 Ti HOF OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 339 mm/13.3 inches, 480 W
+기반 제품명:GALAX RTX 3090 Ti HOF OC Lab Edition -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 343 mm/13.5 inches, 480 W
+기반 제품명:GALAX RTX 3090 Ti HOF OC Lab Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1965 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 343 mm/13.5 inches, 480 W
+기반 제품명:GALAX RTX 3090 Ti Xingyao -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches
+기반 제품명:GALAX RTX 3090 Ti Xingyao OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches
+기반 제품명:GIGABYTE AORUS RTX 3090 Ti XTREME WATERFORCE -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1935 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches, Dual-slot
+기반 제품명:GIGABYTE RTX 3090 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:GIGABYTE RTX 3090 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1905 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:Inno3D iChill RTX 3090 Ti FROSTBITE -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 220 mm/8.7 inches, Dual-slot
+기반 제품명:Inno3D RTX 3090 Ti X3 OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:KFA2 RTX 3090 Ti EX Gamer (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:KFA2 RTX 3090 Ti EX Gamer ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:KFA2 RTX 3090 Ti HOF OC Lab Edition -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 343 mm/13.5 inches, 480 W
+기반 제품명:Manli RTX 3090 Ti Gallardo (M3520+N667) -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1875 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:MSI RTX 3090 Ti GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:MSI RTX 3090 Ti GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:MSI RTX 3090 Ti SUPRIM -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1920 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:MSI RTX 3090 Ti SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1950 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, 480 W
+기반 제품명:NVIDIA GeForce RTX 3090 Ti Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 3090 Ti GameRock -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 460 W
+기반 제품명:Palit RTX 3090 Ti GameRock OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 460 W
+기반 제품명:PNY XLR8 RTX 3090 Ti UPRISING EPIC-X -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1860 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:PNY XLR8 RTX 3090 Ti UPRISING EPIC-X OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1875 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:ZOTAC RTX 3090 Ti AMP Extreme Holo -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches
+기반 제품명:ZOTAC RTX 3090 Ti PGF OC -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1890 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Quad-slot
+"
+NVIDIA GeForce RTX 4080,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+GPU Variant: AD103-300-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Graphics Card:
+Release Date: Sep 20th, 2022
+Availability: Nov 16th, 2022
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 1,199 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 50 in our database
+
+Clock Speeds:
+Base Clock: 2205 MHz
+Boost Clock: 2505 MHz
+Memory Clock: 1400 MHz 22.4 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 716.8 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 280.6 GPixel/s
+Texture Rate: 761.5 GTexel/s
+FP16 (half): 48.74 TFLOPS (1:1)
+FP32 (float): 48.74 TFLOPS
+FP64 (double): 761.5 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 310 mm 12.2 inches
+Width: 140 mm 5.5 inches
+Height: 61 mm 2.4 inches
+TDP: 320 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG139 SKU 360
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ProArt RTX 4080 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4080 OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 4080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 GAMING WHITE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 GAMING WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS RTX 4080 Noctua OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Renegade RTX 4080 X3W -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:AX Gaming Renegade RTX 4080 X3W OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2535 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:Colorful iGame RTX 4080 Advanced -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 344 mm/13.5 inches
+기반 제품명:Colorful iGame RTX 4080 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, 370 W
+기반 제품명:Colorful iGame RTX 4080 Chinese New Year Gift Box 2023 Ultra -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2610 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 350 W
+기반 제품명:Colorful iGame RTX 4080 Chinese New Year Gift Box 2023 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 380 W
+기반 제품명:Colorful iGame RTX 4080 Neptune -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 254 mm/10 inches, Dual-slot
+기반 제품명:Colorful iGame RTX 4080 Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 254 mm/10 inches, Dual-slot, 470 W
+기반 제품명:Colorful iGame RTX 4080 Ultra W -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:Colorful iGame RTX 4080 Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2610 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 350 W
+기반 제품명:Colorful iGame RTX 4080 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 349 mm/13.7 inches
+기반 제품명:Colorful iGame RTX 4080 Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 380 W
+기반 제품명:Colorful iGame RTX 4080 Vulcan W OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 380 W
+기반 제품명:Colorful Tomahawk GeForce RTX 4080 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 327 mm/12.9 inches
+기반 제품명:Dell RTX 4080 OEM -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare OC Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare SOC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Glare SOC Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4080 Panther -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4080 Phantom -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:Gainward RTX 4080 Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:Gainward RTX 4080 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2610 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4080 Wind Chaser -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:GALAX RTX 4080 Boomstar -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GALAX RTX 4080 Boomstar OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, 450 W
+기반 제품명:GALAX RTX 4080 Boomstar OC Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, 450 W
+기반 제품명:GALAX RTX 4080 Boomstar Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GALAX RTX 4080 HOF LAB PLUS-X -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot, 470 W
+기반 제품명:GALAX RTX 4080 Metal Master -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4080 Metal Master OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2550 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, 380 W
+기반 제품명:GALAX RTX 4080 Metal Master OC Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2550 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, 380 W
+기반 제품명:GALAX RTX 4080 Metal Master Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4080 SG (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:GALAX RTX 4080 SG White (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:GALAX RTX 4080 ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4080 MASTER -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2550 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 357 mm/14.1 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4080 XTREME WATERFORCE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 236 mm/9.3 inches, Dual-slot
+기반 제품명:GIGABYTE AORUS RTX 4080 XTREME WATERFORCE WB -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 235 mm/9.3 inches, Dual-slot
+기반 제품명:GIGABYTE RTX 4080 AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2535 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4080 EAGLE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GIGABYTE RTX 4080 EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2520 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GIGABYTE RTX 4080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GIGABYTE RTX 4080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2535 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GIGABYTE RTX 4080 WINDFORCE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:Inno3D iChill RTX 4080 BLACK -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 280 mm/11 inches, Dual-slot, 340 W
+기반 제품명:Inno3D iChill RTX 4080 FROSTBITE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 200 mm/7.9 inches, Dual-slot, 340 W
+기반 제품명:Inno3D iChill RTX 4080 X3 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, 340 W
+기반 제품명:Inno3D RTX 4080 X3 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 328 mm/12.9 inches
+기반 제품명:Inno3D RTX 4080 X3 OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2535 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 328 mm/12.9 inches
+기반 제품명:KFA2 RTX 4080 SG (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KFA2 RTX 4080 ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KUROUTOSHIKOU RTX 4080 GALAKURO -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:Leadtek WinFast RTX 4080 HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 352 mm/13.9 inches
+기반 제품명:Lenovo RTX 4080 OEM -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 4080 Gallardo (M3520+N701) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:Manli RTX 4080 Gallardo (M3535+N688) -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 351 mm/13.8 inches
+기반 제품명:MAXSUN RTX 4080 iCraft OC Aijia S0 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:MAXSUN RTX 4080 iCraft OC Aijia T0 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:MAXSUN RTX 4080 iCraft OC T0 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2580 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, 340 W
+기반 제품명:MAXSUN RTX 4080 MGG OC S0 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 360 W
+기반 제품명:MAXSUN RTX 4080 Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:MSI RTX 4080 GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 GAMING TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 GAMING X SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:MSI RTX 4080 GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 GAMING X TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2595 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 SUPRIM -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4080 SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2625 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4080 VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:MSI RTX 4080 VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2535 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:NVIDIA GeForce RTX 4080 Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 4080 GameRock -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot, 340 W
+기반 제품명:Palit RTX 4080 GameRock OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2640 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot, 340 W
+기반 제품명:Palit RTX 4080 GameRock OmniBlack -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot, 340 W
+기반 제품명:Palit RTX 4080 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4080 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2610 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4080 JetStream -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:PNY RTX 4080 VERTO Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 340 mm/13.4 inches
+기반 제품명:PNY XLR8 RTX 4080 REVEL EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:PNY XLR8 RTX 4080 UPRISING EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 365 mm/14.4 inches
+기반 제품명:PNY XLR8 RTX 4080 VERTO EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 332 mm/13.1 inches
+기반 제품명:PNY XLR8 RTX 4080 VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2550 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 332 mm/13.1 inches
+기반 제품명:Yeston RTX 4080 Sakura Sugar -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:ZOTAC RTX 4080 AMP Extreme AIRO -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4080 AMP Extreme AIRO Moon White -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 355 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4080 Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2565 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 367 mm/14.4 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4080 Trinity -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2505 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4080 Trinity OC -해당 제품의 바뀐 사항 GPU Clock: 2205 MHz, Boost Clock: 2520 MHz, Memory Clock: 1400 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+"
+NVIDIA GeForce RTX 4080 12 GB,"Graphics Processor: AD104
+Cores: 7680
+TMUs: 240
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: AD104-400-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Never Released
+Availability: Canceled
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 899 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 50 in our database
+
+Clock Speeds:
+Base Clock: 2310 MHz
+Boost Clock: 2610 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Memory Bus: 192 bit
+Bandwidth: 504.2 GB/s
+
+Render Config:
+Shading Units: 7680
+TMUs: 240
+ROPs: 80
+SM Count: 60
+Tensor Cores: 240
+RT Cores: 60
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 208.8 GPixel/s
+Texture Rate: 626.4 GTexel/s
+FP16 (half): 40.09 TFLOPS (1:1)
+FP32 (float): 40.09 TFLOPS
+FP64 (double): 626.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 285 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG141 SKU 331
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:GALAX RTX 4080 SG (1-Click OC) 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4080 SG (1-Click OC) 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:MSI RTX 4080 GAMING TRIO 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4080 GAMING X TRIO 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4080 SUPRIM 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4080 SUPRIM X 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4080 VENTUS 3X 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4080 VENTUS 3X OC 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:PNY XLR8 RTX 4080 VERTO EPIC-X Triple Fan 12 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 332 mm/13.1 inches, Triple-slot
+"
+NVIDIA GeForce RTX 4090,"Graphics Processor: AD102
+Cores: 16384
+TMUs: 512
+ROPs: 176
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-300-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Sep 20th, 2022
+Availability: Oct 12th, 2022
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 1,599 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 74 in our database
+
+Clock Speeds:
+Base Clock: 2235 MHz
+Boost Clock: 2520 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Memory Bus: 384 bit
+Bandwidth: 1.01 TB/s
+
+Render Config:
+Shading Units: 16384
+TMUs: 512
+ROPs: 176
+SM Count: 128
+Tensor Cores: 512
+RT Cores: 128
+L1 Cache: 128 KB (per SM)
+L2 Cache: 72 MB
+
+Theoretical Performance:
+Pixel Rate: 443.5 GPixel/s
+Texture Rate: 1,290 GTexel/s
+FP16 (half): 82.58 TFLOPS (1:1)
+FP32 (float): 82.58 TFLOPS
+FP64 (double): 1,290 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 304 mm 12 inches
+Width: 137 mm 5.4 inches
+Height: 61 mm 2.4 inches
+TDP: 450 W
+Suggested PSU: 850 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG139 SKU 330
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ROG MATRIX RTX 4090 PLATINUM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX LC RTX 4090 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4090 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4090 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4090 GAMING WHITE -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4090 GAMING WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4090 OC EVA-02 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4090 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4090 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4090 GAMING OG -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 326 mm/12.8 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4090 GAMING OG OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 326 mm/12.8 inches, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Renegade RTX 4090 X3W -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:Colorful iGame RTX 4090 Advanced -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches
+기반 제품명:Colorful iGame RTX 4090 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, 490 W
+기반 제품명:Colorful iGame RTX 4090 Chinese New Year Gift Box 2023 Advanced -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, 490 W
+기반 제품명:Colorful iGame RTX 4090 Chinese New Year Gift Box 2023 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 515 W
+기반 제품명:Colorful iGame RTX 4090 LAB OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 515 W
+기반 제품명:Colorful iGame RTX 4090 Neptune -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, Dual-slot
+기반 제품명:Colorful iGame RTX 4090 Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, Dual-slot, 550 W
+기반 제품명:Colorful iGame RTX 4090 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches
+기반 제품명:Colorful iGame RTX 4090 Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 515 W
+기반 제품명:Colorful iGame RTX 4090 Vulcan W OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, 515 W
+기반 제품명:Colorful Tomahawk RTX 4090 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4090 OEM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4090 OEM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 4090 FTW3 Prototype -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Quad-slot
+기반 제품명:Gainward RTX 4090 Glare -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4090 Glare OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4090 Phantom -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:Gainward RTX 4090 Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:GALAX RTX 4090 Boomstar -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4090 Boomstar OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4090 HOF OC LAB -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Quad-slot, 550 W
+기반 제품명:GALAX RTX 4090 HOF OC LAB PLUS -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Quad-slot, 550 W
+기반 제품명:GALAX RTX 4090 Hydro -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 203 mm/8 inches, Dual-slot
+기반 제품명:GALAX RTX 4090 Hydro White -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 203 mm/8 inches, Dual-slot
+기반 제품명:GALAX RTX 4090 Metal Master -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4090 Metal Master OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4090 SG (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:GALAX RTX 4090 ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:GALAX RTX 4090 ST V2 (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4090 GAMING BOX -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 302 mm/11.9 inches, 3x DisplayPort 2x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 4090 MASTER -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 359 mm/14.1 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4090 XTREME WATERFORCE -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches, Dual-slot
+기반 제품명:GIGABYTE AORUS RTX 4090 XTREME WATERFORCE Rev. 1.1 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches, Dual-slot
+기반 제품명:GIGABYTE RTX 4090 AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4090 GAMING -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4090 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4090 TURBO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, Dual-slot
+기반 제품명:GIGABYTE RTX 4090 WINDFORCE -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4090 WINDFORCE V2 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:HP RTX 4090 OEM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 4090 BLACK -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 280 mm/11 inches, Dual-slot
+기반 제품명:Inno3D iChill RTX 4090 FROSTBITE -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 200 mm/7.9 inches, Dual-slot
+기반 제품명:Inno3D iChill RTX 4090 FROSTBITE PRO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 208 mm/8.2 inches, Single-slot
+기반 제품명:Inno3D iChill RTX 4090 FROSTBITE ULTRA -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 223 mm/8.8 inches, Dual-slot
+기반 제품명:Inno3D iChill RTX 4090 X3 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:Inno3D RTX 4090 X3 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KFA2 RTX 4090 HOF OC LAB -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Quad-slot, 550 W
+기반 제품명:KFA2 RTX 4090 Hydro -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 203 mm/8 inches, Dual-slot
+기반 제품명:KFA2 RTX 4090 Hydro White -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 203 mm/8 inches, Dual-slot
+기반 제품명:KFA2 RTX 4090 SG (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:KFA2 RTX 4090 ST (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:KFA2 RTX 4090 ST V2 (1-Click OC) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:KUROUTOSHIKOU RTX 4090 GALAKURO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:Leadtek WinFast RTX 4090 HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 352 mm/13.9 inches
+기반 제품명:Lenovo RTX 4090 OEM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 4090 Gallardo (M3530+N675) -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 351 mm/13.8 inches
+기반 제품명:MAXSUN RTX 4090 MGG OC S0 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MAXSUN RTX 4090 Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:MSI RTX 4090 AERO S -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4090 GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4090 GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4090 GAMING X TRIO Classic -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4090 SUPRIM -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4090 SUPRIM LIQUID -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 280 mm/11 inches, Dual-slot
+기반 제품명:MSI RTX 4090 SUPRIM LIQUID X -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 280 mm/11 inches, Dual-slot
+기반 제품명:MSI RTX 4090 SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4090 SUPRIM X Classic -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, 480 W
+기반 제품명:MSI RTX 4090 VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:MSI RTX 4090 VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:NVIDIA GeForce RTX 4090 Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:NVIDIA GeForce RTX 4090 Founders Edition Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 4090 GameRock -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:Palit RTX 4090 GameRock OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:Palit RTX 4090 GameRock OmniBlack -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Quad-slot
+기반 제품명:PNY RTX 4090 VERTO Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches
+기반 제품명:PNY XLR8 RTX 4090 REVEL EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:PNY XLR8 RTX 4090 Uprising EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 351 mm/13.8 inches
+기반 제품명:PNY XLR8 RTX 4090 VERTO EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 332 mm/13.1 inches, Quad-slot
+기반 제품명:PNY XLR8 RTX 4090 VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 332 mm/13.1 inches, Quad-slot
+기반 제품명:Yeston RTX 4090 Deluxe HA -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches, Quad-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ZOTAC RTX 4090 AMP Extreme AIRO -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4090 AMP Extreme AIRO Moon White -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4090 Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 367 mm/14.4 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4090 Trinity -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4090 Trinity OC -해당 제품의 바뀐 사항 GPU Clock: 2235 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+"
+NVIDIA L40,"Graphics Processor: AD102
+Cores: 18176
+TMUs: 568
+ROPs: 192
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-895-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Oct 13th, 2022
+Availability: 2022
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 735 MHz
+Boost Clock: 2490 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 18176
+TMUs: 568
+ROPs: 192
+SM Count: 142
+Tensor Cores: 568
+RT Cores: 142
+L1 Cache: 128 KB (per SM)
+L2 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 478.1 GPixel/s
+Texture Rate: 1,414 GTexel/s
+FP16 (half): 90.52 TFLOPS (1:1)
+FP32 (float): 90.52 TFLOPS
+FP64 (double): 1,414 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG133 SKU 250
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:NVIDIA L40-2Q -해당 제품의 바뀐 사항 GPU Clock: 735 MHz, Boost Clock: 2490 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 2 GB
+"
+NVIDIA L40 CNX,"Graphics Processor: AD102
+Cores: 18176
+TMUs: 568
+ROPs: 192
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-???-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Oct 13th, 2022
+Availability: 2022
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1005 MHz
+Boost Clock: 2475 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 18176
+TMUs: 568
+ROPs: 192
+SM Count: 142
+Tensor Cores: 568
+RT Cores: 142
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 475.2 GPixel/s
+Texture Rate: 1,406 GTexel/s
+FP16 (half): 89.97 TFLOPS (1:1)
+FP32 (float): 89.97 TFLOPS
+FP64 (double): 1,406 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG133 SKU 250
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA L40G,"Graphics Processor: AD102
+Cores: 18176
+TMUs: 568
+ROPs: 192
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-???-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Oct 13th, 2022
+Availability: 2022
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1005 MHz
+Boost Clock: 2475 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 18176
+TMUs: 568
+ROPs: 192
+SM Count: 142
+Tensor Cores: 568
+RT Cores: 142
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 475.2 GPixel/s
+Texture Rate: 1,406 GTexel/s
+FP16 (half): 89.97 TFLOPS (1:1)
+FP32 (float): 89.97 TFLOPS
+FP64 (double): 1,406 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG133 SKU 250
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA L40S,"Graphics Processor: AD102
+Cores: 18176
+TMUs: 568
+ROPs: 192
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-???-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Oct 13th, 2022
+Availability: 2022
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1110 MHz
+Boost Clock: 2520 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 18176
+TMUs: 568
+ROPs: 192
+SM Count: 142
+Tensor Cores: 568
+RT Cores: 142
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 483.8 GPixel/s
+Texture Rate: 1,431 GTexel/s
+FP16 (half): 91.61 TFLOPS (1:1)
+FP32 (float): 91.61 TFLOPS
+FP64 (double): 1,431 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG133 SKU 250
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 6000 Ada Generation,"Graphics Processor: AD102
+Cores: 18176
+TMUs: 568
+ROPs: 192
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Dec 3rd, 2022
+Availability: Jan 20th, 2023
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Launch Price: 6,799 USD
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 915 MHz
+Boost Clock: 2505 MHz
+Memory Clock: 2500 MHz 20 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 960.0 GB/s
+
+Render Config:
+Shading Units: 18176
+TMUs: 568
+ROPs: 192
+SM Count: 142
+Tensor Cores: 568
+RT Cores: 142
+L1 Cache: 128 KB (per SM)
+L2 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 481.0 GPixel/s
+Texture Rate: 1,423 GTexel/s
+FP16 (half): 91.06 TFLOPS (1:1)
+FP32 (float): 91.06 TFLOPS
+FP64 (double): 1,423 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 300 W
+Suggested PSU: 700 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:PNY RTX 6000 Ada -해당 제품의 바뀐 사항 GPU Clock: 915 MHz, Boost Clock: 2505 MHz, Memory Clock: 2500 MHz, 외의 바뀐 사항: 
+"
+NVIDIA RTX A1000 Embedded,"Graphics Processor: GA107S
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107S
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 630 MHz
+Boost Clock: 1140 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 224.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 36.48 GPixel/s
+Texture Rate: 72.96 GTexel/s
+FP16 (half): 4.669 TFLOPS (1:1)
+FP32 (float): 4.669 TFLOPS
+FP64 (double): 72.96 GFLOPS (1:64)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Adlink RTX A1000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 630 MHz, Boost Clock: 1140 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Adlink RTX A1000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1192 MHz, Boost Clock: 1627 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 60 W
+기반 제품명:Advantech RTX A1000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1192 MHz, Boost Clock: 1627 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 60 W
+기반 제품명:PC Partner RTX A1000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1192 MHz, Boost Clock: 1627 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 60 W
+기반 제품명:PC Partner RTX A1000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 630 MHz, Boost Clock: 1140 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+"
+NVIDIA RTX A1000 Mobile,"Graphics Processor: GA107
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 630 MHz
+Boost Clock: 1140 MHz
+Memory Clock: 1375 MHz 11 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 176.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 36.48 GPixel/s
+Texture Rate: 72.96 GTexel/s
+FP16 (half): 4.669 TFLOPS (1:1)
+FP32 (float): 4.669 TFLOPS
+FP64 (double): 72.96 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 60 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4736 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A1000 Mobile 6 GB,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: GA107
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 652 MHz
+Boost Clock: 1140 MHz
+Memory Clock: 1375 MHz 11 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 264.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 36.48 GPixel/s
+Texture Rate: 91.20 GTexel/s
+FP16 (half): 5.837 TFLOPS (1:1)
+FP32 (float): 5.837 TFLOPS
+FP64 (double): 91.20 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 60 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4736 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A2000 Embedded,"Graphics Processor: GA107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GA107
+GPU Variant: GA107-980-A1 (EN20-P3-A1)
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 607 MHz
+Boost Clock: 1177 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 37.66 GPixel/s
+Texture Rate: 94.16 GTexel/s
+FP16 (half): 6.026 TFLOPS (1:1)
+FP32 (float): 6.026 TFLOPS
+FP64 (double): 94.16 GFLOPS (1:64)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Abaco GRA116OP 3U VPX -해당 제품의 바뀐 사항 GPU Clock: 1387 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:Adlink RTX A2000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 607 MHz, Boost Clock: 1177 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Adlink RTX A2000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 45 W
+기반 제품명:Adlink RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 607 MHz, Boost Clock: 1177 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:Adlink RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 45 W
+기반 제품명:Advantech RTX A2000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 82 mm/3.2 inches, 60 W
+기반 제품명:Advantech RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:EIZO Condor GR5-A2000 3U VPX 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1387 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:EIZO RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 45 W
+기반 제품명:PC Partner RTX A2000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1087 MHz, Boost Clock: 1552 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:PC Partner RTX A2000 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1110 MHz, Boost Clock: 1567 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:PC Partner RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1387 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:PC Partner RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1087 MHz, Boost Clock: 1552 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:PC Partner RTX A2000 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 1387 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:WOLF RTX A2000 VO 8 GB 3U VPX (WOLF-14H5) -해당 제품의 바뀐 사항 GPU Clock: 1387 MHz, Boost Clock: 1815 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 60 W
+기반 제품명:WOLF RTX A2000E FGX2 IO 8 GB XMC (WOLF-3470) -해당 제품의 바뀐 사항 GPU Clock: 1117 MHz, Boost Clock: 1612 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB, 45 W
+"
+NVIDIA RTX A3000 Mobile 12 GB,"Graphics Processor: GA104
+Cores: 4096
+TMUs: 128
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 855 MHz
+Boost Clock: 1440 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 336.0 GB/s
+
+Render Config:
+Shading Units: 4096
+TMUs: 128
+ROPs: 64
+SM Count: 32
+Tensor Cores: 128
+RT Cores: 32
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 92.16 GPixel/s
+Texture Rate: 184.3 GTexel/s
+FP16 (half): 11.80 TFLOPS (1:1)
+FP32 (float): 11.80 TFLOPS
+FP64 (double): 184.3 GFLOPS (1:64)
+
+Board Design:
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A4500 Embedded,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 510 MHz
+Boost Clock: 1215 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 384.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 116.6 GPixel/s
+Texture Rate: 223.6 GTexel/s
+FP16 (half): 14.31 TFLOPS (1:1)
+FP32 (float): 14.31 TFLOPS
+FP64 (double): 223.6 GFLOPS (1:64)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Abaco GRA116S 3U VPX -해당 제품의 바뀐 사항 GPU Clock: 510 MHz, Boost Clock: 1215 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Adlink RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 82 mm/3.2 inches, 115 W
+기반 제품명:Adlink RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 510 MHz, Boost Clock: 1215 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Adlink RTX A4500 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 510 MHz, Boost Clock: 1215 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 8 GB
+기반 제품명:Adlink RTX A4500 Embedded 8 GB -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 8 GB, 115 W
+기반 제품명:Advantech RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:Dell RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 810 MHz, Boost Clock: 1350 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 510 MHz, Boost Clock: 1215 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:EIZO Condor GR2S-A4500 3U VPX -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:PC Partner RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:PC Partner RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 1020 MHz, Boost Clock: 1575 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:PC Partner RTX A4500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 510 MHz, Boost Clock: 1215 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:WOLF RTX A4500E 3U VPX (WOLF-1448) -해당 제품의 바뀐 사항 GPU Clock: 1020 MHz, Boost Clock: 1575 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 160 mm/6.3 inches, 115 W
+기반 제품명:WOLF RTX A4500E IO 3U VPX (WOLF-1440) -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 160 mm/6.3 inches, 115 W
+기반 제품명:WOLF RTX A4500E VO 3U VPX (WOLF-1448) -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1500 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 160 mm/6.3 inches, 115 W
+"
+NVIDIA RTX A4500 Max-Q,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 510 MHz
+Boost Clock: 1215 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 116.6 GPixel/s
+Texture Rate: 223.6 GTexel/s
+FP16 (half): 14.31 TFLOPS (1:1)
+FP32 (float): 14.31 TFLOPS
+FP64 (double): 223.6 GFLOPS (1:64)
+
+Board Design:
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A4500 Mobile,"Graphics Processor: GA104
+Cores: 5888
+TMUs: 184
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA104
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 17,400 million
+Density: 44.4M / mm²
+Die Size: 392 mm²
+Chip Package: BGA-2713
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 930 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 96
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 144.0 GPixel/s
+Texture Rate: 276.0 GTexel/s
+FP16 (half): 17.66 TFLOPS (1:1)
+FP32 (float): 17.66 TFLOPS
+FP64 (double): 276.0 GFLOPS (1:64)
+
+Board Design:
+TDP: 140 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4735 SKU 10
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A500 Embedded,"Graphics Processor: GA107S
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GA107S
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+
+Mobile Graphics:
+Release Date: Mar 30th, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 435 MHz
+Boost Clock: 1335 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 42.72 GPixel/s
+Texture Rate: 85.44 GTexel/s
+FP16 (half): 5.468 TFLOPS (1:1)
+FP32 (float): 5.468 TFLOPS
+FP64 (double): 85.44 GFLOPS (1:64)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 20 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:Adlink RTX A500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 952 MHz, Boost Clock: 1702 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 30 W
+기반 제품명:Adlink RTX A500 Embedded -해당 제품의 바뀐 사항 GPU Clock: 435 MHz, Boost Clock: 1335 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Adlink RTX A500 Embedded 4 GB -해당 제품의 바뀐 사항 GPU Clock: 952 MHz, Boost Clock: 1702 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 30 W
+기반 제품명:Adlink RTX A500 Embedded 4 GB -해당 제품의 바뀐 사항 GPU Clock: 435 MHz, Boost Clock: 1335 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 
+기반 제품명:Advantech RTX A500 Embedded 4 GB -해당 제품의 바뀐 사항 GPU Clock: 652 MHz, Boost Clock: 1597 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 25 W
+기반 제품명:PC Partner RTX A500 Embedded 4 GB -해당 제품의 바뀐 사항 GPU Clock: 1155 MHz, Boost Clock: 1777 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 35 W
+기반 제품명:PC Partner RTX A500 Embedded 4 GB -해당 제품의 바뀐 사항 GPU Clock: 652 MHz, Boost Clock: 1597 MHz, Memory Clock: 1500 MHz, 외의 바뀐 사항: 25 W
+"
+NVIDIA RTX A500 Mobile,"Graphics Processor: GA107S
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GA107S
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 832 MHz
+Boost Clock: 1537 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 49.18 GPixel/s
+Texture Rate: 98.37 GTexel/s
+FP16 (half): 6.296 TFLOPS (1:1)
+FP32 (float): 6.296 TFLOPS
+FP64 (double): 98.37 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: unknown
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A5500,"Graphics Processor: GA102
+Cores: 10240
+TMUs: 320
+ROPs: 96
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: GA102
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 28,300 million
+Density: 45.1M / mm²
+Die Size: 628 mm²
+Chip Package: BGA-3328
+
+Graphics Card:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere (Ax000)
+Predecessor: Quadro Turing
+Successor: Quadro Ada
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1080 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 768.0 GB/s
+
+Render Config:
+Shading Units: 10240
+TMUs: 320
+ROPs: 96
+SM Count: 80
+Tensor Cores: 320
+RT Cores: 80
+L1 Cache: 128 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 159.8 GPixel/s
+Texture Rate: 532.8 GTexel/s
+FP16 (half): 34.10 TFLOPS (1:1)
+FP32 (float): 34.10 TFLOPS
+FP64 (double): 532.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A5500 Max-Q,"Graphics Processor: GA103
+Cores: 7424
+TMUs: 232
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA103
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 22,000 million
+Density: 44.4M / mm²
+Die Size: 496 mm²
+Chip Package: BGA-2708
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 585 MHz
+Boost Clock: 1260 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 96
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 121.0 GPixel/s
+Texture Rate: 292.3 GTexel/s
+FP16 (half): 18.71 TFLOPS (1:1)
+FP32 (float): 18.71 TFLOPS
+FP64 (double): 292.3 GFLOPS (1:64)
+
+Board Design:
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX A5500 Mobile,"Graphics Processor: GA103
+Cores: 7424
+TMUs: 232
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: GA103
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 22,000 million
+Density: 44.4M / mm²
+Die Size: 496 mm²
+Chip Package: BGA-2708
+
+Mobile Graphics:
+Release Date: Mar 22nd, 2022
+Generation: Quadro Ampere-M (Ax000)
+Predecessor: Quadro Turing-M
+Successor: Quadro Ada-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 975 MHz
+Boost Clock: 1500 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 512.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 96
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 144.0 GPixel/s
+Texture Rate: 348.0 GTexel/s
+FP16 (half): 22.27 TFLOPS (1:1)
+FP32 (float): 22.27 TFLOPS
+FP64 (double): 348.0 GFLOPS (1:64)
+
+Board Design:
+TDP: 165 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+",없음
+NVIDIA T550 Mobile,"Graphics Processor: TU117
+Cores: 1024
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: TU117
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 4,700 million
+Density: 23.5M / mm²
+Die Size: 200 mm²
+Chip Package: BGA-960
+
+Mobile Graphics:
+Release Date: May 2022
+Generation: Quadro Turing-M (Tx000)
+Predecessor: Quadro Pascal-M
+Successor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1065 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 1500 MHz 12 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 96.00 GB/s
+
+Render Config:
+Shading Units: 1024
+TMUs: 64
+ROPs: 32
+SM Count: 16
+L1 Cache: 64 KB (per SM)
+L2 Cache: 1024 KB
+
+Theoretical Performance:
+Pixel Rate: 53.28 GPixel/s
+Texture Rate: 106.6 GTexel/s
+FP16 (half): 6.820 TFLOPS (2:1)
+FP32 (float): 3.410 TFLOPS
+FP64 (double): 106.6 GFLOPS (1:32)
+
+Board Design:
+Slot Width: IGP
+TDP: 23 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+Board Number: E4728 SKU 110
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Tesla T40 24 GB,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Unknown
+Generation: Tesla Turing (Txx)
+Predecessor: Tesla Volta
+Successor: Tesla Ampere
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1305 MHz
+Boost Clock: 1560 MHz
+Memory Clock: 1625 MHz 13 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 624.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 149.8 GPixel/s
+Texture Rate: 449.3 GTexel/s
+FP16 (half): 28.75 TFLOPS (2:1)
+FP32 (float): 14.38 TFLOPS
+FP64 (double): 449.3 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: No outputs
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음

@@ -1,0 +1,349 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+Intel Iris Plus Graphics 640 Mobile,"Graphics Processor: Kaby Lake GT3e
+Cores: 384
+TMUs: 48
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Kaby Lake GT3e
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm++
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Jan 3rd, 2017
+Generation: HD Graphics-M (Kaby Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1100 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 48
+ROPs: 6
+Execution Units: 48
+
+Theoretical Performance:
+Pixel Rate: 6.600 GPixel/s
+Texture Rate: 52.80 GTexel/s
+FP16 (half): 1.690 TFLOPS (2:1)
+FP32 (float): 844.8 GFLOPS
+FP64 (double): 211.2 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel Iris Plus Graphics 650 Mobile,"Graphics Processor: Kaby Lake GT3e
+Cores: 384
+TMUs: 48
+ROPs: 6
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Kaby Lake GT3e
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm++
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Jan 3rd, 2017
+Generation: HD Graphics-M (Kaby Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1150 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 384
+TMUs: 48
+ROPs: 6
+Execution Units: 48
+
+Theoretical Performance:
+Pixel Rate: 6.900 GPixel/s
+Texture Rate: 55.20 GTexel/s
+FP16 (half): 1.766 TFLOPS (2:1)
+FP32 (float): 883.2 GFLOPS
+FP64 (double): 220.8 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel UHD Graphics 600 Mobile,"Graphics Processor: Gemini Lake GT1
+Cores: 96
+TMUs: 12
+ROPs: 2
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Gemini Lake GT1
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Dec 11th, 2017
+Generation: HD Graphics-T (Goldmont Plus)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 200 MHz
+Boost Clock: 650 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 96
+TMUs: 12
+ROPs: 2
+Execution Units: 12
+
+Theoretical Performance:
+Pixel Rate: 1.300 GPixel/s
+Texture Rate: 7.800 GTexel/s
+FP16 (half): 249.6 GFLOPS (2:1)
+FP32 (float): 124.8 GFLOPS
+FP64 (double): 31.20 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 5 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel UHD Graphics 605 Mobile,"Graphics Processor: Gemini Lake GT1.5
+Cores: 144
+TMUs: 18
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Gemini Lake GT1.5
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Dec 11th, 2017
+Generation: HD Graphics-T (Goldmont Plus)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 200 MHz
+Boost Clock: 750 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 144
+TMUs: 18
+ROPs: 3
+Execution Units: 18
+
+Theoretical Performance:
+Pixel Rate: 2.250 GPixel/s
+Texture Rate: 13.50 GTexel/s
+FP16 (half): 432.0 GFLOPS (2:1)
+FP32 (float): 216.0 GFLOPS
+FP64 (double): 54.00 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 5 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel UHD Graphics 620 Mobile,"Graphics Processor: Kaby Lake GT2
+Cores: 192
+TMUs: 24
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Kaby Lake GT2
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm++
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2017
+Generation: HD Graphics-M (Kaby Lake Refresh)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 300 MHz
+Boost Clock: 1000 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 192
+TMUs: 24
+ROPs: 3
+Execution Units: 24
+
+Theoretical Performance:
+Pixel Rate: 3.000 GPixel/s
+Texture Rate: 24.00 GTexel/s
+FP16 (half): 768.0 GFLOPS (2:1)
+FP32 (float): 384.0 GFLOPS
+FP64 (double): 96.00 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음
+Intel UHD Graphics 630,"Graphics Processor: Coffee Lake GT2
+Cores: 184
+TMUs: 23
+ROPs: 3
+Memory Size: System Shared
+Memory Type: System Shared
+Bus Width: System Shared","Graphics Processor:
+GPU Name: Coffee Lake GT2
+Architecture: Generation 9.5
+Foundry: Intel
+Process Size: 14 nm+++
+Transistors: unknown
+Die Size: unknown
+
+Integrated Graphics:
+Release Date: Sep 1st, 2017
+Generation: HD Graphics (Coffee Lake)
+Production: Active
+Bus Interface: Ring Bus
+Reviews: 3 in our database
+
+Clock Speeds:
+Base Clock: 350 MHz
+Boost Clock: 1050 MHz
+Memory Clock: System Shared
+
+Memory:
+Memory Size: System Shared
+Memory Type: System Shared
+Memory Bus: System Shared
+Bandwidth: System Dependent
+
+Render Config:
+Shading Units: 184
+TMUs: 23
+ROPs: 3
+Execution Units: 23
+
+Theoretical Performance:
+Pixel Rate: 3.150 GPixel/s
+Texture Rate: 24.15 GTexel/s
+FP16 (half): 772.8 GFLOPS (2:1)
+FP32 (float): 386.4 GFLOPS
+FP64 (double): 96.60 GFLOPS (1:4)
+
+Board Design:
+Slot Width: IGP
+TDP: 15 W
+Outputs: Motherboard Dependent
+
+Graphics Features:
+DirectX: 12 (12_1)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+Shader Model: 6.4
+
+",없음

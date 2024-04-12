@@ -1,0 +1,805 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+NVIDIA GeForce RTX 3050 6 GB,"Graphics Processor: GA107
+Cores: 2304
+TMUs: 72
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: GA107
+GPU Variant: GA107-325-K2-A1
+Architecture: Ampere
+Foundry: Samsung
+Process Size: 8 nm
+Transistors: 8,700 million
+Density: 43.5M / mm²
+Die Size: 200 mm²
+Chip Package: FCBGA-1358
+
+Graphics Card:
+Release Date: Feb 2nd, 2024
+Generation: GeForce 30
+Predecessor: GeForce 20
+Successor: GeForce 40
+Production: Active
+Launch Price: 179 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1042 MHz
+Boost Clock: 1470 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 168.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 72
+ROPs: 32
+SM Count: 18
+Tensor Cores: 72
+RT Cores: 18
+L1 Cache: 128 KB (per SM)
+L2 Cache: 2 MB
+
+Theoretical Performance:
+Pixel Rate: 47.04 GPixel/s
+Texture Rate: 105.8 GTexel/s
+FP16 (half): 6.774 TFLOPS (1:1)
+FP32 (float): 6.774 TFLOPS
+FP64 (double): 105.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 242 mm 9.5 inches
+Width: 112 mm 4.4 inches
+TDP: 70 W
+Suggested PSU: 250 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.6
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 3050 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 201 mm/7.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS DUAL RTX 3050 OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1507 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 201 mm/7.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS RTX 3050 LP BRK 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 182 mm/7.2 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS RTX 3050 LP BRK OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1507 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 182 mm/7.2 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Gainward RTX 3050 Pegasus 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 167 mm/6.6 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Gainward RTX 3050 Pegasus OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1492 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 167 mm/6.6 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:GALAX RTX 3050 EX 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 209 mm/8.2 inches
+기반 제품명:GALAX RTX 3050 LP White 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 169 mm/6.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 3050 EAGLE OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1500 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 192 mm/7.6 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 3050 OC Low Profile 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1477 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 181 mm/7.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:KFA2 RTX 3050 EX 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 209 mm/8.2 inches
+기반 제품명:KFA2 RTX 3050 LP White 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 169 mm/6.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Manli RTX 3050 (M1586+N640) 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 149 mm/5.9 inches, 1x HDMI 1x DisplayPort
+기반 제품명:Manli RTX 3050 (M2587+N640) 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 162 mm/6.4 inches, 1x HDMI 1x DisplayPort
+기반 제품명:MSI RTX 3050 GAMING 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, 1x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 GAMING X 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1507 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 205 mm/8.1 inches, 1x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 Low Profile 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 174 mm/6.9 inches, 1x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 Low Profile OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1492 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 174 mm/6.9 inches, 1x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 189 mm/7.4 inches, 1x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 3050 VENTUS 2X OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1492 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 189 mm/7.4 inches, 1x HDMI 2x DisplayPort
+기반 제품명:Palit RTX 3050 KalmX 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 166 mm/6.5 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Palit RTX 3050 StormX 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 162 mm/6.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Palit RTX 3050 StormX OC 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1492 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 162 mm/6.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ZOTAC RTX 3050 LP 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 151 mm/5.9 inches, 1x HDMI 1x DisplayPort
+기반 제품명:ZOTAC RTX 3050 Solo 6 GB -해당 제품의 바뀐 사항 GPU Clock: 1042 MHz, Boost Clock: 1470 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 151 mm/5.9 inches
+"
+NVIDIA GeForce RTX 4070 SUPER,"Graphics Processor: AD104
+Cores: 7168
+TMUs: 224
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: AD104-350-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Jan 8th, 2024
+Availability: Jan 17th, 2024
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 599 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 38 in our database
+
+Clock Speeds:
+Base Clock: 1980 MHz
+Boost Clock: 2475 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Memory Bus: 192 bit
+Bandwidth: 504.2 GB/s
+
+Render Config:
+Shading Units: 7168
+TMUs: 224
+ROPs: 80
+SM Count: 56
+Tensor Cores: 224
+RT Cores: 56
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 198.0 GPixel/s
+Texture Rate: 554.4 GTexel/s
+FP16 (half): 35.48 TFLOPS (1:1)
+FP32 (float): 35.48 TFLOPS
+FP64 (double): 554.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+Height: 42 mm 1.7 inches
+TDP: 220 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG141 SKU 335
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 4070 SUPER -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 4070 SUPER EVO -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4070 SUPER EVO OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4070 SUPER GAMING WHITE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 4070 SUPER GAMING WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 4070 SUPER OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS ProArt RTX 4070 SUPER -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 4070 SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 339 mm/13.3 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4070 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 339 mm/13.3 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Rebel RTX 4070 SUPER X3W MAX -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4070 SUPER Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 4070 SUPER Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 4070 SUPER Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 4070 SUPER Vulcan W OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:ELSA RTX 4070 SUPER S.A.C -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4070 SUPER Ghost -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Gainward RTX 4070 SUPER Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Gainward RTX 4070 SUPER Panther OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 SUPER Snow OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:GALAX RTX 4070 SUPER 1-Click OC 2X -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:GALAX RTX 4070 SUPER BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 SUPER EX Gamer 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 SUPER EX Gamer Pink 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 SUPER EX Gamer White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 SUPER GALAKURO GAMING -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:GIGABYTE AORUS RTX 4070 SUPER MASTER -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 SUPER AERO OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 SUPER EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:GIGABYTE RTX 4070 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 SUPER WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:Inno3D RTX 4070 SUPER ICHILL X3 -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot
+기반 제품명:Inno3D RTX 4070 SUPER TWIN X2 -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 SUPER TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 SUPER TWIN X2 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 SUPER X3 OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:KFA2 RTX 4070 SUPER 1-Click OC 2X -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 238 mm/9.4 inches
+기반 제품명:KFA2 RTX 4070 SUPER EX Gamer 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 SUPER EX Gamer Pink 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 SUPER EX Gamer White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:Leadtek WinFast RTX 4070 SUPER HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 251 mm/9.9 inches, Triple-slot
+기반 제품명:Manli RTX 4070 SUPER (M2592+N693) -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 264 mm/10.4 inches, Triple-slot
+기반 제품명:Manli RTX 4070 SUPER (M3596+N693) -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:Manli RTX 4070 SUPER Gallardo(M3604+N693) -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:MAXSUN RTX 4070 SUPER iCraft OC Aijia S0 -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 245 W
+기반 제품명:MAXSUN RTX 4070 SUPER Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING SLIM -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING SLIM MLG -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING X SLIM -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING X SLIM MLG -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER GAMING X SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 2X -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 2X OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 2X WHITE -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 2X WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4070 SUPER VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:Palit RTX 4070 SUPER Dual -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Palit RTX 4070 SUPER Dual OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Palit RTX 4070 SUPER JetStream OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, 245 W
+기반 제품명:PNY RTX 4070 SUPER VERTO Dual Fan OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:PNY XLR8 RTX 4070 SUPER VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:Yeston RTX 4070 SUPER Deluxe Edition HA -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Yeston RTX 4070 SUPER SAKURA -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER Trinity Black -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER Twin Edge -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 234 mm/9.2 inches
+기반 제품명:ZOTAC RTX 4070 SUPER Twin Edge OC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 234 mm/9.2 inches
+기반 제품명:ZOTAC RTX 4070 SUPER X-GAMING GOC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER X-GAMING GOC Black -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER X-GAMING HOC -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER X-GAMING HOC Black -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 SUPER X-GAMING OC Opal White -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches, Triple-slot
+"
+NVIDIA GeForce RTX 4070 Ti SUPER,"Graphics Processor: AD103
+Cores: 8448
+TMUs: 264
+ROPs: 96
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+GPU Variant: AD103-275-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Graphics Card:
+Release Date: Jan 8th, 2024
+Availability: Jan 24th, 2024
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 799 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 39 in our database
+
+Clock Speeds:
+Base Clock: 2340 MHz
+Boost Clock: 2610 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 672.3 GB/s
+
+Render Config:
+Shading Units: 8448
+TMUs: 264
+ROPs: 96
+SM Count: 66
+Tensor Cores: 264
+RT Cores: 66
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 250.6 GPixel/s
+Texture Rate: 689.0 GTexel/s
+FP16 (half): 44.10 TFLOPS (1:1)
+FP32 (float): 44.10 TFLOPS
+FP64 (double): 689.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 310 mm 12.2 inches
+Width: 140 mm 5.5 inches
+Height: 61 mm 2.4 inches
+TDP: 285 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG141 SKU 323
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ProArt RTX 4070 Ti SUPER -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Dual-slot
+기반 제품명:ASUS ProArt RTX 4070 Ti SUPER OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Dual-slot
+기반 제품명:ASUS ROG STRIX RTX 4070 Ti SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4070 Ti SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti SUPER BTF WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti SUPER BTF WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti SUPER GAMING WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Rebel RTX 4070 Ti SUPER X3W MAX -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4070 Ti SUPER Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches, 310 W
+기반 제품명:Colorful iGame RTX 4070 Ti SUPER Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, Dual-slot, 320 W
+기반 제품명:Colorful iGame RTX 4070 Ti SUPER Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4070 Ti SUPER Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 310 W
+기반 제품명:Colorful iGame RTX 4070 Ti SUPER Vulcan W OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 310 W
+기반 제품명:ELSA RTX 4070 Ti SUPER S.A.C -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches, Dual-slot
+기반 제품명:Gainward RTX 4070 Ti SUPER Panther OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Phantom -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Phoenix -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Snow OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 Ti SUPER Xingji Haoyue OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:GALAX RTX 4070 Ti SUPER BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches
+기반 제품명:GALAX RTX 4070 Ti SUPER EX Gamer 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 Ti SUPER EX Gamer Pink 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 Ti SUPER EX Gamer White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 Ti SUPER SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:GIGABYTE AORUS RTX 4070 Ti SUPER MASTER -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GIGABYTE RTX 4070 Ti SUPER AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:GIGABYTE RTX 4070 Ti SUPER EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches, Dual-slot
+기반 제품명:GIGABYTE RTX 4070 Ti SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:GIGABYTE RTX 4070 Ti SUPER WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches, Dual-slot
+기반 제품명:Inno3D RTX 4070 Ti SUPER ICHILL X3 -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:Inno3D RTX 4070 Ti SUPER TWIN X2 -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches, Dual-slot
+기반 제품명:Inno3D RTX 4070 Ti SUPER TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches, Dual-slot
+기반 제품명:Inno3D RTX 4070 Ti SUPER TWIN X2 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches, Dual-slot
+기반 제품명:Inno3D RTX 4070 Ti SUPER X3 OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches, Dual-slot
+기반 제품명:KFA2 RTX 4070 Ti SUPER EX Gamer 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KFA2 RTX 4070 Ti SUPER EX Gamer Pink 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KFA2 RTX 4070 Ti SUPER EX Gamer White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KFA2 RTX 4070 Ti SUPER SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:KUROUTOSHIKOU RTX 4070 Ti SUPER GALAKURO GAMING -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:Leadtek WinFast RTX 4070 Ti SUPER HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 319 mm/12.6 inches
+기반 제품명:Manli RTX 4070 Ti SUPER (M2592+N693) -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 264 mm/10.4 inches
+기반 제품명:Manli RTX 4070 Ti SUPER (M3596+N693) -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Dual-slot
+기반 제품명:Manli RTX 4070 Ti SUPER Gallardo (M3551+N693) -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:Manli RTX 4070 Ti SUPER Gallardo (M3604+N693) -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:MAXSUN RTX 4070 Ti SUPER iCraft OC Aijia S0 -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, 300 W
+기반 제품명:MAXSUN RTX 4070 Ti SUPER Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:MSI RTX 4070 Ti SUPER AERO -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING SLIM -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING X SLIM -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING X SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER GAMING X TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 2X -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 2X OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 2X WHITE -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 2X WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Dual-slot
+기반 제품명:MSI RTX 4070 Ti SUPER VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Dual-slot
+기반 제품명:Palit RTX 4070 Ti SUPER GamingPro -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4070 Ti SUPER GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4070 Ti SUPER GamingPro White OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4070 Ti SUPER JetStream OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:PNY RTX 4070 Ti SUPER VERTO Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PNY XLR8 RTX 4070 Ti SUPER VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 333 mm/13.1 inches
+기반 제품명:Yeston RTX 4070 Ti SUPER Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:Yeston RTX 4070 Ti SUPER SAKURA -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER AMP HOLO -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER Trinity Black -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER Trinity OC Moon White -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER Trinity OC White -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER X-GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ZOTAC RTX 4070 Ti SUPER X-GAMING OC Opal White -해당 제품의 바뀐 사항 GPU Clock: 2340 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+"
+NVIDIA GeForce RTX 4080 SUPER,"Graphics Processor: AD103
+Cores: 10240
+TMUs: 320
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+GPU Variant: AD103-400-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Graphics Card:
+Release Date: Jan 8th, 2024
+Availability: Jan 31st, 2024
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 999 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 53 in our database
+
+Clock Speeds:
+Base Clock: 2295 MHz
+Boost Clock: 2550 MHz
+Memory Clock: 1438 MHz 23 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6X
+Memory Bus: 256 bit
+Bandwidth: 736.3 GB/s
+
+Render Config:
+Shading Units: 10240
+TMUs: 320
+ROPs: 112
+SM Count: 80
+Tensor Cores: 320
+RT Cores: 80
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 285.6 GPixel/s
+Texture Rate: 816.0 GTexel/s
+FP16 (half): 52.22 TFLOPS (1:1)
+FP32 (float): 52.22 TFLOPS
+FP64 (double): 816.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 310 mm 12.2 inches
+Width: 140 mm 5.5 inches
+Height: 61 mm 2.4 inches
+TDP: 320 W
+Suggested PSU: 700 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG139 SKU 355
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ProArt RTX 4080 SUPER -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Dual-slot
+기반 제품명:ASUS ProArt RTX 4080 SUPER OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Dual-slot
+기반 제품명:ASUS ROG STRIX RTX 4080 SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 SUPER WHITE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG STRIX RTX 4080 SUPER WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 358 mm/14.1 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS RTX 4080 SUPER Noctua OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: Quad-slot
+기반 제품명:ASUS TUF RTX 4080 SUPER GAMING -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4080 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 348 mm/13.7 inches, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Rebel RTX 4080 SUPER X3W MAX -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 352 mm/13.9 inches
+기반 제품명:Colorful iGame RTX 4080 SUPER Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2625 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 330 mm/13 inches, 340 W
+기반 제품명:Colorful iGame RTX 4080 SUPER Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 254 mm/10 inches, 350 W
+기반 제품명:Colorful iGame RTX 4080 SUPER Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2595 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:Colorful iGame RTX 4080 SUPER Vulcan  W OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 350 W
+기반 제품명:Colorful iGame RTX 4080 SUPER Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, 350 W
+기반 제품명:Gainward RTX 4080 SUPER Chasing Wind -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2565 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4080 SUPER Panther OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4080 SUPER Phoenix -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4080 SUPER Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:GALAX RTX 4080 SUPER BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:GALAX RTX 4080 SUPER SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:GALAX RTX 4080 SUPER ST 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:GIGABYTE AORUS RTX 4080 SUPER MASTER -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2625 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 357 mm/14.1 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4080 SUPER AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2595 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4080 SUPER GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2595 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE RTX 4080 SUPER WINDFORCE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:GIGABYTE RTX 4080 SUPER WINDFORCE V2 -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:Inno3D RTX 4080 SUPER iCHILL BLACK -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 280 mm/11 inches, Dual-slot
+기반 제품명:Inno3D RTX 4080 SUPER iCHILL FROSTBITE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 200 mm/7.9 inches, Dual-slot
+기반 제품명:Inno3D RTX 4080 SUPER iCHILL X3 -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:Inno3D RTX 4080 SUPER X3 -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Dual-slot
+기반 제품명:Inno3D RTX 4080 SUPER X3 OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 328 mm/12.9 inches
+기반 제품명:Inno3D RTX 4080 SUPER X3 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KFA2 RTX 4080 SUPER SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KFA2 RTX 4080 SUPER ST 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:KUROUTOSHIKOU RTX 4080 SUPER GALAKURO GAMING -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches
+기반 제품명:Leadtek WinFast RTX 4080 SUPER HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 352 mm/13.9 inches
+기반 제품명:Manli RTX 4080 SUPER (M3520+N701) -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:Manli RTX 4080 SUPER (M3600+N688) -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:Manli RTX 4080 SUPER Gallardo (M3535+N688) -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 351 mm/13.8 inches
+기반 제품명:MAXSUN RTX 4080 SUPER Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:MSI RTX 4080 SUPER EXPERT -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:MSI RTX 4080 SUPER GAMING SLIM -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 4080 SUPER GAMING SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 4080 SUPER GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 SUPER GAMING X SLIM -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 4080 SUPER GAMING X SLIM WHITE -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:MSI RTX 4080 SUPER GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4080 SUPER SUPRIM -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4080 SUPER SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:MSI RTX 4080 SUPER VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:MSI RTX 4080 SUPER VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:Palit RTX 4080 SUPER GamingPro -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4080 SUPER GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Palit RTX 4080 SUPER ICHILL X3 -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:Palit RTX 4080 SUPER JetStream OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2580 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:PNY RTX 4080 SUPER VERTO Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2565 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 340 mm/13.4 inches
+기반 제품명:PNY XLR8 RTX 4080 SUPER VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2595 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 334 mm/13.1 inches
+기반 제품명:Yeston RTX 4080 SUPER Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Yeston RTX 4080 SUPER SAKURA -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2640 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 326 mm/12.8 inches
+기반 제품명:ZOTAC RTX 4080 SUPER AMP Extreme AIRO -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2610 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 356 mm/14 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4080 SUPER Trinity Black -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2550 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:ZOTAC RTX 4080 SUPER Trinity OC White -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2565 MHz, Memory Clock: 1438 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+"
+NVIDIA RTX 1000 Mobile Ada Generation,"Graphics Processor: AD107
+Cores: 2560
+TMUs: 80
+ROPs: 48
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1485 MHz
+Boost Clock: 2025 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 48
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 97.20 GPixel/s
+Texture Rate: 162.0 GTexel/s
+FP16 (half): 10.37 TFLOPS (1:1)
+FP32 (float): 10.37 TFLOPS
+FP64 (double): 162.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 2000 Ada Generation,"Graphics Processor: AD107
+Cores: 2816
+TMUs: 88
+ROPs: 48
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Graphics Card:
+Release Date: Feb 12th, 2024
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Launch Price: 649 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1620 MHz
+Boost Clock: 2130 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2816
+TMUs: 88
+ROPs: 48
+SM Count: 22
+Tensor Cores: 88
+RT Cores: 22
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 102.2 GPixel/s
+Texture Rate: 187.4 GTexel/s
+FP16 (half): 12.00 TFLOPS (1:1)
+FP32 (float): 12.00 TFLOPS
+FP64 (double): 187.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 168 mm 6.6 inches
+Width: 69 mm 2.7 inches
+TDP: 70 W
+Suggested PSU: 250 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 500 Mobile Ada Generation,"Graphics Processor: AD107
+Cores: 2048
+TMUs: 64
+ROPs: 32
+Memory Size: 4 GB
+Memory Type: GDDR6
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 1485 MHz
+Boost Clock: 2025 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 4 GB
+Memory Type: GDDR6
+Memory Bus: 64 bit
+Bandwidth: 128.0 GB/s
+
+Render Config:
+Shading Units: 2048
+TMUs: 64
+ROPs: 32
+SM Count: 16
+Tensor Cores: 64
+RT Cores: 16
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 64.80 GPixel/s
+Texture Rate: 129.6 GTexel/s
+FP16 (half): 8.294 TFLOPS (1:1)
+FP32 (float): 8.294 TFLOPS
+FP64 (double): 129.6 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 5880 Ada Generation,"Graphics Processor: AD102
+Cores: 14080
+TMUs: 440
+ROPs: 176
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Jan 5th, 2024
+Availability: Jan 5th, 2024
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 975 MHz
+Boost Clock: 2460 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 14080
+TMUs: 440
+ROPs: 176
+SM Count: 110
+Tensor Cores: 440
+RT Cores: 110
+L1 Cache: 128 KB (per SM)
+L2 Cache: 72 MB
+
+Theoretical Performance:
+Pixel Rate: 433.0 GPixel/s
+Texture Rate: 1,082 GTexel/s
+FP16 (half): 69.27 TFLOPS (1:1)
+FP32 (float): 69.27 TFLOPS
+FP64 (double): 1,082 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 285 W
+Suggested PSU: 600 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음

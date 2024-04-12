@@ -1,0 +1,1402 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+NVIDIA GeForce RTX 2070,"Graphics Processor: TU106
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU106
+GPU Variant: TU106-400A-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 10,800 million
+Density: 24.3M / mm²
+Die Size: 445 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Oct 17th, 2018
+Generation: GeForce 20
+Predecessor: GeForce 10
+Successor: GeForce 30
+Production: Active
+Launch Price: 499 USD
+Bus Interface: PCIe 3.0 x16
+Reviews: 73 in our database
+
+Clock Speeds:
+Base Clock: 1410 MHz
+Boost Clock: 1620 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+SM Count: 36
+Tensor Cores: 288
+RT Cores: 36
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 103.7 GPixel/s
+Texture Rate: 233.3 GTexel/s
+FP16 (half): 14.93 TFLOPS (2:1)
+FP32 (float): 7.465 TFLOPS
+FP64 (double): 233.3 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 229 mm 9 inches
+Width: 113 mm 4.4 inches
+Height: 35 mm 1.4 inches
+TDP: 175 W
+Suggested PSU: 450 W
+Outputs: 1x DVI 1x HDMI 2.0 2x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 8-pin
+Board Number: PG160 SKU 52
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+","기반 제품명:ASL GTX 2070 Ares -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, Triple-slot, 1x DVI 1x HDMI 2x DisplayPort
+기반 제품명:ASL RTX 2070 Ares -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ASL RTX 2070 Ares OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ASUS DUAL RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ASUS DUAL RTX 2070 ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ASUS DUAL RTX 2070 EVO -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 EVO ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 EVO OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 EVO OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 EVO V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 242 mm/9.5 inches, Triple-slot, 1x DVI 2x HDMI 2x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 MINI -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 197 mm/7.8 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 MINI OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 197 mm/7.8 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:ASUS DUAL RTX 2070 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2070 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2070 GAMING ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2070 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS TURBO RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ATUM GENESIS RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:AXLE RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 1x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iCafe RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:Colorful iGame RTX 2070 AD Special OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Ultra OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Ultra OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Ultra V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Ultra V3 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful iGame RTX 2070 Vulcan X OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Colorful RTX 2070 Gaming ES -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Colorful RTX 2070 Gaming GT -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful RTX 2070 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort
+기반 제품명:Dell RTX 2070 DE OEM -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 2x DisplayPort
+기반 제품명:ELSA RTX 2070 S.A.C -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 206 mm/8.1 inches
+기반 제품명:EMTEK HV RTX 2070 BLACK MONSTER -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EMTEK HV RTX 2070 BLACK MONSTER OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EMTEK RTX 2070 Black Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EMTEK XENON RTX 2070 StormX Dual -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:EMTEK XENON RTX 2070 TURBO JET OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2070 Black -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2070 FTW3 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 302 mm/11.9 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 FTW3 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 302 mm/11.9 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 XC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 XC Black -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 270 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 XC Black -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2070 XC Ultra -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward GameSoul RTX 2070 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Gainward RTX 2070 Glare -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 331 mm/13 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Glare OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 331 mm/13 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Jinfeng -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:Gainward RTX 2070 Phantom -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Phantom GLH -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Gainward RTX 2070 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Gainward RTX 2070 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Gainward RTX 2070 Wind -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX BOY RTX 2070 EX -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX BOY RTX 2070 EXOC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX BOY RTX 2070 GAMER OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX BOY RTX 2070 SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 4 mm/0.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 EXOC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 EXOC Gamer -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 EXOC White -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 GAMER -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 General -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 Metal Master -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 263 mm/10.4 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:GALAX RTX 2070 Mini -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 175 mm/6.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:GALAX RTX 2070 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 OC White -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GALAX RTX 2070 White Mini -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 175 mm/6.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:GEEKSTAR RTX 2070 Storm Dual -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:GIGABYTE AORUS RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2070 Gaming Box -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 212 mm/8.3 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2070 XTREME -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 GAMING 3X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 GAMING 3X OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 GAMING 3X Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 GAMING OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 MINI ITX -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 MINI ITX V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 170 mm/6.7 inches, 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 2070 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 Turbo OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 2070 WindForce 2X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 265 mm/10.4 inches, 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 2070 WindForce 2X OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 265 mm/10.4 inches, 1x HDMI 3x DisplayPort
+기반 제품명:GIGABYTE RTX 2070 WindForce 3X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2070 WindForce 3X Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:HP RTX 2070 OEM -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 2070 Frostbite -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 265 mm/10.4 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Inno3D iChill RTX 2070 X2 Ice Dragon Super -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Inno3D iChill RTX 2070 X2 JEKYLL -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Inno3D iChill RTX 2070 X3 Ice Dragon Super -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Inno3D iChill RTX 2070 X3 JEKYLL -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Inno3D RTX 2070 Twin X2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 196 mm/7.7 inches
+기반 제품명:Inno3D RTX 2070 X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KFA2 RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KFA2 RTX 2070 EX -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KFA2 RTX 2070 EX OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KFA2 RTX 2070 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KUROUTOSHIKOU RTX 2070 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:KUROUTOSHIKOU RTX 2070 Mini -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 175 mm/6.9 inches, 1x DVI 1x HDMI 1x DisplayPort
+기반 제품명:KUROUTOSHIKOU RTX 2070 WHITE -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Leadtek WinFast RTX 2070 Classic -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Leadtek WinFast RTX 2070 Cyclone -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 214 mm/8.4 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Leadtek WinFast RTX 2070 Hurricane -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 274 mm/10.8 inches
+기반 제품명:Manli RTX 2070 (N516 + F401G) -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 227 mm/8.9 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Manli RTX 2070 Blower -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 2070 Gallardo -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:Manli RTX 2070 Gallardo -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MAXSUN RTX 2070 iCraft -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RTX 2070 iCraft GM -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RTX 2070 iCraft GM OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RTX 2070 Terminator -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RTX 2070 Turbo X2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 210 mm/8.3 inches
+기반 제품명:MAXSUN RTX 2070 Turbo X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MAXSUN RTX 2070 Turbo X2 V2 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:MSI RTX 2070 AERO -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 AERO ITX -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 175 mm/6.9 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2070 ARMOR -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 ARMOR OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 ARMOR OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 DUKE -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 DUKE OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 DUKE OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 GAMING GP -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 248 mm/9.8 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2070 GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 GAMING Z -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:MSI RTX 2070 TRI FROZR -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 304 mm/12 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2070 VENTUS -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2070 VENTUS GP -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 232 mm/9.1 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2070 VENTUS OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 225 mm/8.9 inches, 1x HDMI 3x DisplayPort
+기반 제품명:NVIDIA GeForce RTX 2070 Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 2070 Dual -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 Dual -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Palit RTX 2070 GameRock -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 GameRock Premium -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Palit RTX 2070 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:Palit RTX 2070 JetStream -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Palit RTX 2070 Super JetStream -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:PNY RTX 2070 Blower -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:PNY XLR8 RTX 2070 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 235 mm/9.3 inches
+기반 제품명:SNKTECH RTX 2070 JACKPOT -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:Yeston RTX 2070 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:ZOTAC RTX 2070 AMP -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 AMP Extreme -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1860 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 AMP Extreme Core -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1815 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 Blower -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:ZOTAC RTX 2070 Destroyer -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 211 mm/8.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ZOTAC RTX 2070 Extreme Plus -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 Extreme Plus OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 Extreme Plus OC8 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 MINI -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 211 mm/8.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ZOTAC RTX 2070 MINI OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 211 mm/8.3 inches, 1x DVI 1x HDMI 3x DisplayPort
+기반 제품명:ZOTAC RTX 2070 PGF Extreme -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 PGF Extreme OC14 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 PGF Extreme OC8 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 Plus -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 X-Gaming -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 X-Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, 1x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:ZOTAC RTX 2070 X-Gaming OC G3 -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1680 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 1x DVI 1x HDMI 3x DisplayPort
+"
+NVIDIA GeForce RTX 2080,"Graphics Processor: TU104
+Cores: 2944
+TMUs: 184
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+GPU Variant: TU104-400A-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Sep 20th, 2018
+Generation: GeForce 20
+Predecessor: GeForce 10
+Successor: GeForce 30
+Production: Active
+Launch Price: 699 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 66 in our database
+
+Clock Speeds:
+Base Clock: 1515 MHz
+Boost Clock: 1710 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 2944
+TMUs: 184
+ROPs: 64
+SM Count: 46
+Tensor Cores: 368
+RT Cores: 46
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 109.4 GPixel/s
+Texture Rate: 314.6 GTexel/s
+FP16 (half): 20.14 TFLOPS (2:1)
+FP32 (float): 10.07 TFLOPS
+FP64 (double): 314.6 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 116 mm 4.6 inches
+Height: 35 mm 1.4 inches
+TDP: 215 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0 3x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG180 SKU 2
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+","기반 제품명:ASL RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:ASL RTX 2080 Ares -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:ASUS DUAL RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 2080 ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS DUAL RTX 2080 EVO -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:ASUS DUAL RTX 2080 EVO ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1725 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:ASUS DUAL RTX 2080 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS ROG STRIX RTX 2080 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 2080 GAMING ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 2080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS TURBO RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:AXLE RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 1x HDMI 3x DisplayPort
+기반 제품명:Colorful iGame RTX 2080 AD Special OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Advanced -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Advanced Lite V2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Advanced OC V3 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Advanced Water Cooled -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Neptune -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 293 mm/11.5 inches
+기반 제품명:Colorful iGame RTX 2080 Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 293 mm/11.5 inches
+기반 제품명:Colorful iGame RTX 2080 Overseas -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 RNG Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Vulcan X OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful RTX 2080 Gaming ES -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot
+기반 제품명:Colorful RTX 2080 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:Dell RTX 2080 OEM -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Digital Alliance RTX 2080 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:ELSA RTX 2080 ERAZOR -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EMTEK HV RTX 2080 BLACK MONSTER -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:EMTEK HV RTX 2080 BLACK MONSTER OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:EMTEK RTX 2080 Black Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:EMTEK XENON RTX 2080 TURBO JET OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:EVGA RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 FTW3 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:EVGA RTX 2080 FTW3 HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 FTW3 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:EVGA RTX 2080 FTW3 Ultra HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 XC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 XC Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 XC HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 266 mm/10.5 inches
+기반 제품명:EVGA RTX 2080 XC HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 XC HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 XC Ultra -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot
+기반 제품명:EVGA RTX 2080 XC2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 XC2 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward GameSoul RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:Gainward GameSoul RTX 2080 Geek Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:Gainward RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Glare -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:Gainward RTX 2080 Glare OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:Gainward RTX 2080 Phantom -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Phantom GLH -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:GALAX BOY RTX 2080 EX -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:GALAX BOY RTX 2080 EXOC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:GALAX BOY RTX 2080 GAMER OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 298 mm/11.7 inches
+기반 제품명:GALAX BOY RTX 2080 SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GALAX BOY RTX 2080 SG Edition 1-Click -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GALAX RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 Dual Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 EX 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:GALAX RTX 2080 EXOC Gamer -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:GALAX RTX 2080 EXOC White -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:GALAX RTX 2080 GAMER -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:GALAX RTX 2080 General -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:GALAX RTX 2080 General V -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GALAX RTX 2080 HOF Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1890 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:GALAX RTX 2080 OC White -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:GALAX RTX 2080 SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GALAX RTX 2080 SG Edition 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GEEKSTAR RTX 2080 Storm OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:GIGABYTE AORUS RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 XTREME -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1890 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 XTREME WaterForce -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1890 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 291 mm/11.5 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 XTREME WaterForce WB -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1890 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 291 mm/11.5 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2080 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:GIGABYTE RTX 2080 GAMING OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:GIGABYTE RTX 2080 Turbo -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 2080 Turbo OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 2080 WindForce -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:GIGABYTE RTX 2080 WindForce OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:HP RTX 2080 OEM -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 2080 Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 2080 Frostbite -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 265 mm/10.4 inches
+기반 제품명:Inno3D iChill RTX 2080 X3 JEKYLL -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Inno3D RTX 2080 Jet -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Inno3D RTX 2080 Twin X2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Inno3D RTX 2080 X2 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Inno3D RTX 2080 X3 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:KFA2 RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 Dual Black -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 EX -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:KFA2 RTX 2080 EX OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 285 mm/11.2 inches
+기반 제품명:KFA2 RTX 2080 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 OC White -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1785 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KUROUTOSHIKOU RTX 2080 WHITE -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Leadtek WinFast RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Leadtek WinFast RTX 2080 Hurricane -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:Manli RTX 2080 Blower -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 2080 Gallardo -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:Manli RTX 2080 Gallardo Custom LED -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Manli RTX 2080 Mini -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 240 mm/9.4 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MAXSUN RTX 2080 Wind OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:MAXSUN RTX 2080 Wind OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MAXSUN RTX 2080 Wind V2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MSI RTX 2080 AERO -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 2080 DUKE -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MSI RTX 2080 DUKE OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1845 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MSI RTX 2080 DUKE OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MSI RTX 2080 GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 327 mm/12.9 inches
+기반 제품명:MSI RTX 2080 GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 327 mm/12.9 inches
+기반 제품명:MSI RTX 2080 Sea Hawk EK X -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:MSI RTX 2080 Sea Hawk X -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:MSI RTX 2080 VENTUS -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:MSI RTX 2080 VENTUS OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:MSI RTX 2080 VENTUS OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:MSI RTX 2080 VENTUS V2 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x HDMI 3x DisplayPort
+기반 제품명:MSI RTX 2080 VENTUS V2 OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 255 mm/10 inches, 1x HDMI 3x DisplayPort
+기반 제품명:NVIDIA GeForce RTX 2080 Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 2080 GameRock -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Palit RTX 2080 GameRock Premium -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1875 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Palit RTX 2080 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Palit RTX 2080 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Palit RTX 2080 JetStream -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Palit RTX 2080 Super JetStream -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:PNY RTX 2080 Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:PNY XLR8 RTX 2080 Gaming -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:PNY XLR8 RTX 2080 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:PNY XLR8 RTX 2080 Gaming OC Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:SNKTECH RTX 2080 JACKPOT OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Yeston RTX 2080 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1800 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:ZOTAC RTX 2080 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:ZOTAC RTX 2080 AMP -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:ZOTAC RTX 2080 AMP Extreme -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1905 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 324 mm/12.8 inches
+기반 제품명:ZOTAC RTX 2080 AMP Extreme Core -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1860 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 324 mm/12.8 inches
+기반 제품명:ZOTAC RTX 2080 AMP MAXX -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 298 mm/11.7 inches
+기반 제품명:ZOTAC RTX 2080 Blower -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1710 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ZOTAC RTX 2080 Extreme Plus OC8 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:ZOTAC RTX 2080 PGF Extreme OC12 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1890 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches
+기반 제품명:ZOTAC RTX 2080 PGF Extreme OC8 -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1830 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches
+기반 제품명:ZOTAC RTX 2080 Twin Fan -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:ZOTAC RTX 2080 X-Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1515 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 311 mm/12.2 inches
+"
+NVIDIA GeForce RTX 2080 Engineering Sample,"Graphics Processor: TU104
+Cores: 3072
+TMUs: 192
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+GPU Variant: TU104-400A-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Never Released
+Generation: GeForce 20
+Predecessor: GeForce 10
+Successor: GeForce 30
+Production: Active
+Bus Interface: PCIe 3.0 x16
+Reviews: 66 in our database
+
+Clock Speeds:
+Base Clock: 1515 MHz
+Boost Clock: 1710 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 192
+ROPs: 64
+SM Count: 48
+Tensor Cores: 384
+RT Cores: 48
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 109.4 GPixel/s
+Texture Rate: 328.3 GTexel/s
+FP16 (half): 21.01 TFLOPS (2:1)
+FP32 (float): 10.51 TFLOPS
+FP64 (double): 328.3 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 116 mm 4.6 inches
+Height: 35 mm 1.4 inches
+TDP: 215 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.0 3x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG180 SKU 0
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 2080 Ti,"Graphics Processor: TU102
+Cores: 4352
+TMUs: 272
+ROPs: 88
+Memory Size: 11 GB
+Memory Type: GDDR6
+Bus Width: 352 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-300A-K1-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Sep 20th, 2018
+Generation: GeForce 20
+Predecessor: GeForce 10
+Successor: GeForce 30
+Production: Active
+Launch Price: 999 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 3.0 x16
+Reviews: 88 in our database
+
+Clock Speeds:
+Base Clock: 1350 MHz
+Boost Clock: 1545 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 11 GB
+Memory Type: GDDR6
+Memory Bus: 352 bit
+Bandwidth: 616.0 GB/s
+
+Render Config:
+Shading Units: 4352
+TMUs: 272
+ROPs: 88
+SM Count: 68
+Tensor Cores: 544
+RT Cores: 68
+L1 Cache: 64 KB (per SM)
+L2 Cache: 5.5 MB
+
+Theoretical Performance:
+Pixel Rate: 136.0 GPixel/s
+Texture Rate: 420.2 GTexel/s
+FP16 (half): 26.90 TFLOPS (2:1)
+FP32 (float): 13.45 TFLOPS
+FP64 (double): 420.2 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 116 mm 4.6 inches
+Height: 35 mm 1.4 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0 3x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 2x 8-pin
+Board Number: PG150 SKU 32
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+","기반 제품명:ASL RTX 2080 Ti Ares -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:ASUS DUAL RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:ASUS DUAL RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:ASUS DUAL RTX 2080 Ti Advanced -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1560 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:ASUS DUAL RTX 2080 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS ROG MATRIX RTX 2080 Ti Platinum -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1800 MHz, Memory Clock: 1850 MHz, 외의 바뀐 사항: 310 mm/12.2 inches, Triple-slot, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti Call of Duty BO4 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti GAMING ADVANCED -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti GAMING WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS ROG STRIX RTX 2080 Ti GAMING WHITE OC Rev. 2 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1850 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 2x HDMI 2x DisplayPort 1x USB Type-C
+기반 제품명:ASUS TURBO RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Colorful iGame RTX 2080 Ti Advanced -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Ti Advanced Lite -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Ti Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Ti Advanced Water Cooled -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Ti KUDAN -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Ti Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:Colorful iGame RTX 2080 Ti Overseas -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful iGame RTX 2080 Ti RNG Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Ti Vulcan -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 318 mm/12.5 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 2080 Ti Vulcan X OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful RTX 2080 Ti Turbo -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:Dell RTX 2080 Ti OEM -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Digital Alliance RTX 2080 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:ELSA RTX 2080 Ti ERAZOR GAMING -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:ELSA RTX 2080 Ti ST -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 266 mm/10.5 inches
+기반 제품명:EMTEK RTX 2080 Ti Black Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:EVGA RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 266 mm/10.5 inches
+기반 제품명:EVGA RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 266 mm/10.5 inches
+기반 제품명:EVGA RTX 2080 Ti Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Ti Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Ti FTW3 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:EVGA RTX 2080 Ti FTW3 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:EVGA RTX 2080 Ti FTW3 Ultra Hybrid -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 291 mm/11.5 inches
+기반 제품명:EVGA RTX 2080 Ti FTW3 Ultra HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 Ti KINGPIN -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 291 mm/11.5 inches, 1x HDMI 1x DisplayPort 2x mini-DisplayPort 1x USB Type-C
+기반 제품명:EVGA RTX 2080 Ti XC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Ti XC Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1560 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:EVGA RTX 2080 Ti XC HYBRID -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:EVGA RTX 2080 Ti XC HYDRO COPPER -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 266 mm/10.5 inches
+기반 제품명:EVGA RTX 2080 Ti XC Ultra -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot
+기반 제품명:EVGA RTX 2080 Ti XC2 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:EVGA RTX 2080 Ti XC2 Ultra -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 269 mm/10.6 inches, Triple-slot
+기반 제품명:Gainward GameSoul RTX 2080 Ti Geek Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:Gainward RTX 2080 Ti Glare -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:Gainward RTX 2080 Ti Glare OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:Gainward RTX 2080 Ti Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:Gainward RTX 2080 Ti Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:GALAX RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 Ti Dual Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 Ti General -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:GALAX RTX 2080 Ti HOF -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:GALAX RTX 2080 Ti HOF 10th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1740 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:GALAX RTX 2080 Ti HOF Limited Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1815 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:GALAX RTX 2080 Ti HOF OC LAB WC Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 320 mm/12.6 inches
+기반 제품명:GALAX RTX 2080 Ti HOF Plus -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:GALAX RTX 2080 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 Ti OC White -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:GALAX RTX 2080 Ti SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1680 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, Triple-slot, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti GAMING BOX -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti TURBO -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 271 mm/10.7 inches
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti XTREME -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti XTREME WaterForce -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 290 mm/11.4 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE AORUS RTX 2080 Ti XTREME WaterForce WB -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1767 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, 3x HDMI 3x DisplayPort 1x USB Type-C
+기반 제품명:GIGABYTE RTX 2080 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 287 mm/11.3 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 2080 Ti Turbo -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 2080 Ti Turbo OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 2080 Ti Turbo Rev. 2.1 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 2080 Ti WindForce -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:GIGABYTE RTX 2080 Ti WindForce -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:GIGABYTE RTX 2080 Ti WindForce OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 280 mm/11 inches
+기반 제품명:HP RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 2080 Ti Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Inno3D iChill RTX 2080 Ti Frostbite -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1695 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 265 mm/10.4 inches
+기반 제품명:Inno3D iChill RTX 2080 Ti X3 JEKYLL -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Inno3D RTX 2080 Ti X2 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1590 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Inno3D RTX 2080 Ti X3 Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:KFA2 RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 Ti Dual Black -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 Ti HOF -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:KFA2 RTX 2080 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 Ti OC White -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1620 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:KFA2 RTX 2080 Ti SG Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:KUROUTOSHIKOU RTX 2080 Ti WHITE -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Leadtek WinFast RTX 2080 Ti -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Leadtek WinFast RTX 2080 Ti Hurricane -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:Manli RTX 2080 Ti Blower -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 2080 Ti Gallardo -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:Manli RTX 2080 Ti Gallardo Custom LED -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:MAXSUN RTX 2080 Ti Wind OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches
+기반 제품명:MAXSUN RTX 2080 Ti Wind OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:MSI RTX 2080 Ti DUKE -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti DUKE OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti GAMING Z TRIO -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti Lightning -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti Lightning 10th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti Lightning Z -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti Lightning Z Pink Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1770 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti Sea Hawk EK X -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:MSI RTX 2080 Ti Sea Hawk X -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:MSI RTX 2080 Ti VENTUS -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti VENTUS GP -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti VENTUS OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:MSI RTX 2080 Ti VENTUS OCV1 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches, Triple-slot
+기반 제품명:NVIDIA GeForce RTX 2080 Ti Cyberpunk 2077 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:NVIDIA GeForce RTX 2080 Ti Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 2080 Ti Dual -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, Triple-slot
+기반 제품명:Palit RTX 2080 Ti GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, Triple-slot
+기반 제품명:Palit RTX 2080 Ti GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1650 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 292 mm/11.5 inches, Triple-slot
+기반 제품명:PNY RTX 2080 Ti Blower -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:PNY RTX 2080 Ti Blower -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:PNY XLR8 RTX 2080 Ti Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:Yeston RTX 2080 Ti Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1635 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:ZOTAC RTX 2080 Ti AI OC HA -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1560 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 
+기반 제품명:ZOTAC RTX 2080 Ti AMP -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti AMP Extreme -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1815 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 324 mm/12.8 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti AMP Extreme Core -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 324 mm/12.8 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti AMP Extreme T4C Edition -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1815 MHz, Memory Clock: 1800 MHz, 외의 바뀐 사항: 324 mm/12.8 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti AMP MAXX -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 298 mm/11.7 inches
+기반 제품명:ZOTAC RTX 2080 Ti ArcticStorm -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 295 mm/11.6 inches
+기반 제품명:ZOTAC RTX 2080 Ti Blower -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:ZOTAC RTX 2080 Ti Extreme Plus OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 316 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti PGF Extreme -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti PGF Extreme OC14 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1755 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti PGF Extreme OC8 -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1665 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 309 mm/12.2 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1605 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 2080 Ti Twin Fan -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1545 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:ZOTAC RTX 2080 Ti X-Gaming OC -해당 제품의 바뀐 사항 GPU Clock: 1350 MHz, Boost Clock: 1575 MHz, Memory Clock: 1750 MHz, 외의 바뀐 사항: 311 mm/12.2 inches
+"
+NVIDIA Quadro RTX 4000,"Graphics Processor: TU104
+Cores: 2304
+TMUs: 144
+ROPs: 64
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+GPU Variant: TU104-850-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Nov 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 899 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1005 MHz
+Boost Clock: 1545 MHz
+Memory Clock: 1625 MHz 13 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 416.0 GB/s
+
+Render Config:
+Shading Units: 2304
+TMUs: 144
+ROPs: 64
+SM Count: 36
+Tensor Cores: 288
+RT Cores: 36
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 98.88 GPixel/s
+Texture Rate: 222.5 GTexel/s
+FP16 (half): 14.24 TFLOPS (2:1)
+FP32 (float): 7.119 TFLOPS
+FP64 (double): 222.5 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Single-slot
+Length: 241 mm 9.5 inches
+Width: 111 mm 4.4 inches
+TDP: 160 W
+Suggested PSU: 450 W
+Outputs: 3x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 8-pin
+Board Number: PG160 SKU 500
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+","기반 제품명:EIZO MED-XN92 -해당 제품의 바뀐 사항 GPU Clock: 1005 MHz, Boost Clock: 1545 MHz, Memory Clock: 1625 MHz, 외의 바뀐 사항: 
+"
+NVIDIA Quadro RTX 5000,"Graphics Processor: TU104
+Cores: 3072
+TMUs: 192
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+GPU Variant: TU104-875-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 2,299 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1620 MHz
+Boost Clock: 1815 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 448.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 192
+ROPs: 64
+SM Count: 48
+Tensor Cores: 384
+RT Cores: 48
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 116.2 GPixel/s
+Texture Rate: 348.5 GTexel/s
+FP16 (half): 22.30 TFLOPS (2:1)
+FP32 (float): 11.15 TFLOPS
+FP64 (double): 348.5 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 230 W
+Suggested PSU: 550 W
+Outputs: 4x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG180 SKU 500
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Quadro RTX 6000,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-875-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 6,299 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1440 MHz
+Boost Clock: 1770 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 672.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 169.9 GPixel/s
+Texture Rate: 509.8 GTexel/s
+FP16 (half): 32.62 TFLOPS (2:1)
+FP32 (float): 16.31 TFLOPS
+FP64 (double): 509.8 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: 4x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG150 SKU 510
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Quadro RTX 6000 Passive,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-875-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 6,299 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1305 MHz
+Boost Clock: 1560 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 672.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 149.8 GPixel/s
+Texture Rate: 449.3 GTexel/s
+FP16 (half): 28.75 TFLOPS (2:1)
+FP32 (float): 14.38 TFLOPS
+FP64 (double): 449.3 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: No outputs
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG150 SKU 510
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Quadro RTX 8000,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-875-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 9,999 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1395 MHz
+Boost Clock: 1770 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 672.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 169.9 GPixel/s
+Texture Rate: 509.8 GTexel/s
+FP16 (half): 32.62 TFLOPS (2:1)
+FP32 (float): 16.31 TFLOPS
+FP64 (double): 509.8 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: 4x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 1x 6-pin + 1x 8-pin
+Board Number: PG150 SKU 500
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Quadro RTX 8000 Passive,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-875-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Aug 13th, 2018
+Generation: Quadro Turing (Tx000)
+Predecessor: Quadro Volta
+Successor: Quadro Ampere
+Production: Active
+Launch Price: 9,999 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 1230 MHz
+Boost Clock: 1620 MHz
+Memory Clock: 1625 MHz 13 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 624.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 155.5 GPixel/s
+Texture Rate: 466.6 GTexel/s
+FP16 (half): 29.86 TFLOPS (2:1)
+FP32 (float): 14.93 TFLOPS
+FP64 (double): 466.6 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 260 W
+Suggested PSU: 600 W
+Outputs: No outputs
+Power Connectors: 1x 6-pin + 1x 8-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA TITAN RTX,"Graphics Processor: TU102
+Cores: 4608
+TMUs: 288
+ROPs: 96
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: TU102
+GPU Variant: TU102-400-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 18,600 million
+Density: 24.7M / mm²
+Die Size: 754 mm²
+
+Graphics Card:
+Release Date: Dec 18th, 2018
+Generation: GeForce 20
+Predecessor: GeForce 10
+Successor: GeForce 30
+Production: Active
+Launch Price: 2,499 USD
+Bus Interface: PCIe 3.0 x16
+Reviews: 6 in our database
+
+Clock Speeds:
+Base Clock: 1350 MHz
+Boost Clock: 1770 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 672.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 288
+ROPs: 96
+SM Count: 72
+Tensor Cores: 576
+RT Cores: 72
+L1 Cache: 64 KB (per SM)
+L2 Cache: 6 MB
+
+Theoretical Performance:
+Pixel Rate: 169.9 GPixel/s
+Texture Rate: 509.8 GTexel/s
+FP16 (half): 32.62 TFLOPS (2:1)
+FP32 (float): 16.31 TFLOPS
+FP64 (double): 509.8 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 116 mm 4.6 inches
+Height: 35 mm 1.4 inches
+TDP: 280 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.0 3x DisplayPort 1.4a 1x USB Type-C
+Power Connectors: 2x 8-pin
+Board Number: PG150 SKU 0
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Tesla T4,"Graphics Processor: TU104
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+GPU Variant: TU104-895-A1
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Sep 13th, 2018
+Generation: Tesla Turing (Txx)
+Predecessor: Tesla Volta
+Successor: Tesla Ampere
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 585 MHz
+Boost Clock: 1590 MHz
+Memory Clock: 1250 MHz 10 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 320.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+SM Count: 40
+Tensor Cores: 320
+RT Cores: 40
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 101.8 GPixel/s
+Texture Rate: 254.4 GTexel/s
+FP16 (half): 65.13 TFLOPS (8:1)
+FP32 (float): 8.141 TFLOPS
+FP64 (double): 254.4 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Single-slot
+Length: 168 mm 6.6 inches
+TDP: 70 W
+Suggested PSU: 250 W
+Outputs: No outputs
+Power Connectors: None
+Board Number: PG183 SKU 200
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음
+NVIDIA Tesla T4G,"Graphics Processor: TU104
+Cores: 2560
+TMUs: 160
+ROPs: 64
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: TU104
+Architecture: Turing
+Foundry: TSMC
+Process Size: 12 nm
+Transistors: 13,600 million
+Density: 25.0M / mm²
+Die Size: 545 mm²
+Chip Package: BGA-2228
+
+Graphics Card:
+Release Date: Sep 13th, 2018
+Generation: Tesla Turing (Txx)
+Predecessor: Tesla Volta
+Successor: Tesla Ampere
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 585 MHz
+Boost Clock: 1590 MHz
+Memory Clock: 1250 MHz 10 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 320.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 160
+ROPs: 64
+SM Count: 40
+Tensor Cores: 320
+RT Cores: 40
+L1 Cache: 64 KB (per SM)
+L2 Cache: 4 MB
+
+Theoretical Performance:
+Pixel Rate: 101.8 GPixel/s
+Texture Rate: 254.4 GTexel/s
+FP16 (half): 65.13 TFLOPS (8:1)
+FP32 (float): 8.141 TFLOPS
+FP64 (double): 254.4 GFLOPS (1:32)
+
+Board Design:
+Slot Width: Single-slot
+Length: 168 mm 6.6 inches
+TDP: 70 W
+Suggested PSU: 250 W
+Outputs: No outputs
+Power Connectors: None
+Board Number: PG183 SKU 200
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 7.5
+Shader Model: 6.7
+
+",없음

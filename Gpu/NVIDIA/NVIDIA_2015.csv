@@ -1,0 +1,518 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+NVIDIA GeForce 810M,"Graphics Processor: GK107
+Cores: 384
+TMUs: 32
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: DDR3
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK107
+Architecture: Kepler
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,270 million
+Density: 10.8M / mm²
+Die Size: 118 mm²
+Chip Package: BGA-908
+
+Mobile Graphics:
+Release Date: Mar 21st, 2015
+Generation: GeForce 800M
+Predecessor: GeForce 700M
+Successor: GeForce 900M
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+Base Clock: 835 MHz
+Boost Clock: 950 MHz
+Memory Clock: 900 MHz 1800 Mbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: DDR3
+Memory Bus: 64 bit
+Bandwidth: 14.40 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 16
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 256 KB
+
+Theoretical Performance:
+Pixel Rate: 7.600 GPixel/s
+Texture Rate: 30.40 GTexel/s
+FP32 (float): 729.6 GFLOPS
+FP64 (double): 30.40 GFLOPS (1:24)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 45 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.0
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce 820M,"Graphics Processor: GK107
+Cores: 384
+TMUs: 32
+ROPs: 16
+Memory Size: 2 GB
+Memory Type: DDR3
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GK107
+Architecture: Kepler
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,270 million
+Density: 10.8M / mm²
+Die Size: 118 mm²
+Chip Package: BGA-908
+
+Mobile Graphics:
+Release Date: Mar 21st, 2015
+Generation: GeForce 800M
+Predecessor: GeForce 700M
+Successor: GeForce 900M
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 810 MHz
+Memory Clock: 901 MHz 1802 Mbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: DDR3
+Memory Bus: 128 bit
+Bandwidth: 28.83 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 16
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 256 KB
+
+Theoretical Performance:
+Pixel Rate: 6.480 GPixel/s
+Texture Rate: 25.92 GTexel/s
+FP32 (float): 622.1 GFLOPS
+FP64 (double): 25.92 GFLOPS (1:24)
+
+Board Design:
+Slot Width: MXM Module
+TDP: 45 W
+Outputs: Portable Device Dependent
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.0
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce 910M,"Graphics Processor: GK208B
+Cores: 384
+TMUs: 32
+ROPs: 8
+Memory Size: 2 GB
+Memory Type: DDR3
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK208B
+GPU Variant: N16V-GL
+Architecture: Kepler 2.0
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,020 million
+Density: 11.7M / mm²
+Die Size: 87 mm²
+Chip Package: FCBGA-595
+
+Mobile Graphics:
+Release Date: Mar 13th, 2015
+Generation: GeForce 900M
+Predecessor: GeForce 800M
+Successor: GeForce 10 Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 641 MHz
+Boost Clock: 641 MHz
+Memory Clock: 1001 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: DDR3
+Memory Bus: 64 bit
+Bandwidth: 16.02 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 8
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 5.128 GPixel/s
+Texture Rate: 20.51 GTexel/s
+FP32 (float): 492.3 GFLOPS
+FP64 (double): 20.51 GFLOPS (1:24)
+
+Board Design:
+Slot Width: IGP
+TDP: 33 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.5
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce 920A,"Graphics Processor: GK208B
+Cores: 384
+TMUs: 32
+ROPs: 8
+Memory Size: 1024 MB
+Memory Type: DDR3
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK208B
+GPU Variant: N16V-GM
+Architecture: Kepler 2.0
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,020 million
+Density: 11.7M / mm²
+Die Size: 87 mm²
+Chip Package: FCBGA-595
+
+Mobile Graphics:
+Release Date: Mar 13th, 2015
+Generation: GeForce 900A
+Predecessor: GeForce 800A
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 954 MHz
+Boost Clock: 954 MHz
+Memory Clock: 1001 MHz 2 Gbps effective
+
+Memory:
+Memory Size: 1024 MB
+Memory Type: DDR3
+Memory Bus: 64 bit
+Bandwidth: 16.02 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 8
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 7.632 GPixel/s
+Texture Rate: 30.53 GTexel/s
+FP32 (float): 732.7 GFLOPS
+FP64 (double): 30.53 GFLOPS (1:24)
+
+Board Design:
+Slot Width: IGP
+TDP: 33 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.5
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce 920M,"Graphics Processor: GK208B
+Cores: 384
+TMUs: 32
+ROPs: 8
+Memory Size: 2 GB
+Memory Type: DDR3
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK208B
+GPU Variant: N16V-GM-B1
+Architecture: Kepler 2.0
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,020 million
+Density: 11.7M / mm²
+Die Size: 87 mm²
+Chip Package: FCBGA-595
+
+Mobile Graphics:
+Release Date: Mar 13th, 2015
+Generation: GeForce 900M
+Predecessor: GeForce 800M
+Successor: GeForce 10 Mobile
+Production: Active
+Bus Interface: PCIe 3.0 x8
+
+Clock Speeds:
+Base Clock: 954 MHz
+Boost Clock: 954 MHz
+Memory Clock: 900 MHz 1800 Mbps effective
+
+Memory:
+Memory Size: 2 GB
+Memory Type: DDR3
+Memory Bus: 64 bit
+Bandwidth: 14.40 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 8
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 7.632 GPixel/s
+Texture Rate: 30.53 GTexel/s
+FP32 (float): 732.7 GFLOPS
+FP64 (double): 30.53 GFLOPS (1:24)
+
+Board Design:
+Slot Width: IGP
+TDP: 33 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.5
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce GT 710 OEM,"Graphics Processor: GK208B
+Cores: 192
+TMUs: 16
+ROPs: 8
+Memory Size: 1024 MB
+Memory Type: DDR3
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK208B
+Architecture: Kepler 2.0
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,020 million
+Density: 11.7M / mm²
+Die Size: 87 mm²
+Chip Package: FCBGA-595
+
+Graphics Card:
+Release Date: Apr 9th, 2015
+Generation: GeForce 700
+Predecessor: GeForce 600
+Successor: GeForce 900
+Production: Active
+Bus Interface: PCIe 2.0 x8
+
+Clock Speeds:
+GPU Clock: 797 MHz
+Memory Clock: 900 MHz 1800 Mbps effective
+
+Memory:
+Memory Size: 1024 MB
+Memory Type: DDR3
+Memory Bus: 64 bit
+Bandwidth: 14.40 GB/s
+
+Render Config:
+Shading Units: 192
+TMUs: 16
+ROPs: 8
+SMX Count: 1
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 512 KB
+
+Theoretical Performance:
+Pixel Rate: 3.188 GPixel/s
+Texture Rate: 12.75 GTexel/s
+FP32 (float): 306.0 GFLOPS
+FP64 (double): 12.75 GFLOPS (1:24)
+
+Board Design:
+Slot Width: Single-slot
+TDP: unknown
+Suggested PSU: 200 W
+Outputs: No outputs
+Power Connectors: None
+Board Number: P2132 SKU 12
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.5
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce GT 730 OEM,"Graphics Processor: GK107
+Cores: 384
+TMUs: 32
+ROPs: 8
+Memory Size: 1024 MB
+Memory Type: GDDR5
+Bus Width: 64 bit","Graphics Processor:
+GPU Name: GK107
+Architecture: Kepler
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 1,270 million
+Density: 10.8M / mm²
+Die Size: 118 mm²
+Chip Package: BGA-908
+
+Graphics Card:
+Release Date: Apr 9th, 2015
+Generation: GeForce 700
+Predecessor: GeForce 600
+Successor: GeForce 900
+Production: Active
+Launch Price: 89 USD
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 902 MHz
+Memory Clock: 1253 MHz 5 Gbps effective
+
+Memory:
+Memory Size: 1024 MB
+Memory Type: GDDR5
+Memory Bus: 64 bit
+Bandwidth: 40.10 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 8
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 128 KB
+
+Theoretical Performance:
+Pixel Rate: 7.216 GPixel/s
+Texture Rate: 28.86 GTexel/s
+FP32 (float): 692.7 GFLOPS
+FP64 (double): 28.86 GFLOPS (1:24)
+
+Board Design:
+Slot Width: Single-slot
+Length: 145 mm 5.7 inches
+TDP: 64 W
+Suggested PSU: 250 W
+Outputs: 2x DVI 1x mini-HDMI 1.4a
+Power Connectors: 1x 6-pin
+Board Number: P2010 SKU 8, P2012 SKU 0
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.0
+Shader Model: 6.5 (5.1)
+
+",없음
+NVIDIA GeForce GT 740 OEM,"Graphics Processor: GK106S
+Cores: 384
+TMUs: 32
+ROPs: 16
+Memory Size: 1024 MB
+Memory Type: GDDR5
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: GK106S
+Architecture: Kepler
+Foundry: TSMC
+Process Size: 28 nm
+Transistors: 2,540 million
+Density: 11.5M / mm²
+Die Size: 221 mm²
+Chip Package: BGA-908
+
+Graphics Card:
+Release Date: Apr 14th, 2015
+Generation: GeForce 700
+Predecessor: GeForce 600
+Successor: GeForce 900
+Production: Active
+Bus Interface: PCIe 3.0 x16
+
+Clock Speeds:
+GPU Clock: 1006 MHz
+Memory Clock: 1253 MHz 5 Gbps effective
+
+Memory:
+Memory Size: 1024 MB
+Memory Type: GDDR5
+Memory Bus: 128 bit
+Bandwidth: 80.19 GB/s
+
+Render Config:
+Shading Units: 384
+TMUs: 32
+ROPs: 16
+SMX Count: 2
+L1 Cache: 16 KB (per SMX)
+L2 Cache: 256 KB
+
+Theoretical Performance:
+Pixel Rate: 8.048 GPixel/s
+Texture Rate: 32.19 GTexel/s
+FP32 (float): 772.6 GFLOPS
+FP64 (double): 32.19 GFLOPS (1:24)
+
+Board Design:
+Slot Width: Single-slot
+TDP: 65 W
+Suggested PSU: 250 W
+Outputs: No outputs
+Power Connectors: None
+Board Number: P2010 SKU 30
+
+Graphics Features:
+DirectX: 12 (11_0)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.2.175
+CUDA: 3.0
+Shader Model: 6.5 (5.1)
+
+",없음

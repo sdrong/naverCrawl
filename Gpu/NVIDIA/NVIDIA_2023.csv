@@ -1,0 +1,3435 @@
+﻿Product Name,Main Specs,Additional Specs,Derived Models
+NVIDIA GeForce RTX 4050,"Graphics Processor: AD107
+Cores: 2560
+TMUs: 80
+ROPs: 32
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Graphics Card:
+Release Date: Unknown
+Availability: 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2505 MHz
+Boost Clock: 2640 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 216.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 32
+SM Count: 18
+Tensor Cores: 120
+RT Cores: 18
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 84.48 GPixel/s
+Texture Rate: 211.2 GTexel/s
+FP16 (half): 13.52 TFLOPS (1:1)
+FP32 (float): 13.52 TFLOPS
+FP64 (double): 211.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+TDP: 150 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA GeForce RTX 4050 Max-Q,"Graphics Processor: AD107
+Cores: 2560
+TMUs: 80
+ROPs: 48
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: AD107
+GPU Variant: GN21-X2
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1140 MHz
+Boost Clock: 1605 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 48
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 77.04 GPixel/s
+Texture Rate: 128.4 GTexel/s
+FP16 (half): 8.218 TFLOPS (1:1)
+FP32 (float): 8.218 TFLOPS
+FP64 (double): 128.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1620 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Samsung RTX 4050 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4050 Mobile,"Graphics Processor: AD107
+Cores: 2560
+TMUs: 80
+ROPs: 48
+Memory Size: 6 GB
+Memory Type: GDDR6
+Bus Width: 96 bit","Graphics Processor:
+GPU Name: AD107
+GPU Variant: GN21-X2
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1455 MHz
+Boost Clock: 1755 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 6 GB
+Memory Type: GDDR6
+Memory Bus: 96 bit
+Bandwidth: 192.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 48
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 84.24 GPixel/s
+Texture Rate: 140.4 GTexel/s
+FP16 (half): 8.986 TFLOPS (1:1)
+FP32 (float): 8.986 TFLOPS
+FP64 (double): 140.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1455 MHz, Boost Clock: 1755 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Acer RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Acer RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2280 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2265 MHz, Boost Clock: 2280 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:ASUS RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1980 MHz, Boost Clock: 2295 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2370 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:CLEVO RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2265 MHz, Boost Clock: 2280 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2190 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:Dell RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2370 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:GIGABYTE RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2370 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:GIGABYTE RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1665 MHz, Boost Clock: 2055 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Microsoft RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1905 MHz, Boost Clock: 2220 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2250 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 115 W
+기반 제품명:TongFang Hongkong RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1785 MHz, Boost Clock: 2130 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1905 MHz, Boost Clock: 2220 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4050 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2355 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 110 W
+"
+NVIDIA GeForce RTX 4060,"Graphics Processor: AD107
+Cores: 3072
+TMUs: 96
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+GPU Variant: AD107-400-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Graphics Card:
+Release Date: May 18th, 2023
+Availability: Jun 29th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 299 USD
+Bus Interface: PCIe 4.0 x8
+Reviews: 44 in our database
+
+Clock Speeds:
+Base Clock: 1830 MHz
+Boost Clock: 2460 MHz
+Memory Clock: 2125 MHz 17 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 272.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 96
+ROPs: 48
+SM Count: 24
+Tensor Cores: 96
+RT Cores: 24
+L1 Cache: 128 KB (per SM)
+L2 Cache: 24 MB
+
+Theoretical Performance:
+Pixel Rate: 118.1 GPixel/s
+Texture Rate: 236.2 GTexel/s
+FP16 (half): 15.11 TFLOPS (1:1)
+FP32 (float): 15.11 TFLOPS
+FP64 (double): 236.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 240 mm 9.4 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 115 W
+Suggested PSU: 300 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 12-pin
+Board Number: PG173 SKU 371
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 4060 -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 V2 -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:ASUS DUAL RTX 4060 V2 OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:ASUS DUAL RTX 4060 WHITE -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS ProArt RTX 4060 -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4060 OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2550 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 4060 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RTX 4060 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2670 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:ASUS TX RTX 4060 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:Colorfire RTX 4060 Orange Shadow -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 249 mm/9.8 inches
+기반 제품명:Colorful iGame RTX 4060 Ultra W DUO -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:Colorful iGame RTX 4060 Ultra W DUO OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:Colorful iGame RTX 4060 Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2580 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4060 Wushan Five Elements Customized Edition OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2580 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 313 mm/12.3 inches
+기반 제품명:Colorful RTX 4060 Smart Mini -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 177 mm/7 inches
+기반 제품명:Colorful Tomahawk RTX 4060 Deluxe -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful Tomahawk RTX 4060 DUO -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 249 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Chaser -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 205 mm/8.1 inches
+기반 제품명:Gainward RTX 4060 Ghost -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2670 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Pegasus -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Gainward RTX 4060 Polar Moon -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2580 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, 130 W
+기반 제품명:Gainward RTX 4060 Polar Moon OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2670 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, 130 W
+기반 제품명:Gainward RTX 4060 Snow Walking -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2550 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 231 mm/9.1 inches
+기반 제품명:GALAX RTX 4060 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 237 mm/9.3 inches
+기반 제품명:GALAX RTX 4060 BOOMSTAR -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:GALAX RTX 4060 BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2670 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:GALAX RTX 4060 EX -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 EX Pink -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 EX White -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 General -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 203 mm/8 inches
+기반 제품명:GALAX RTX 4060 Metal Master -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 228 mm/9 inches
+기반 제품명:GALAX RTX 4060 Metal Master OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 228 mm/9 inches
+기반 제품명:GIGABYTE AORUS RTX 4060 ELITE -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2640 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, Triple-slot, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 AERO OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2550 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 EAGLE OC ICE -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 272 mm/10.7 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2550 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 Low Profile OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 182 mm/7.2 inches, 2x HDMI 2x DisplayPort
+기반 제품명:GIGABYTE RTX 4060 WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 192 mm/7.6 inches, 2x HDMI 2x DisplayPort
+기반 제품명:Inno3D RTX 4060 COMPACT -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 155 mm/6.1 inches
+기반 제품명:Inno3D RTX 4060 TWIN X2 -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2490 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 TWIN X2 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2490 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:KFA2 RTX 4060 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 237 mm/9.3 inches
+기반 제품명:KFA2 RTX 4060 EX -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:KFA2 RTX 4060 EX Pink -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:KFA2 RTX 4060 EX White -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2565 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:MAXSUN RTX 4060 Terminator B S0 -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:MSI RTX 4060 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 GAMING DUKE 3X -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 319 mm/12.6 inches
+기반 제품명:MSI RTX 4060 GAMING MLG -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 GAMING X -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2595 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 GAMING X MLG -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2595 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 GAMING X NV Edition -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2595 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 VENTUS 2X BLACK -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 199 mm/7.8 inches
+기반 제품명:MSI RTX 4060 VENTUS 2X BLACK OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2490 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 199 mm/7.8 inches
+기반 제품명:Palit RTX 4060 Dual -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Palit RTX 4060 Dual OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Palit RTX 4060 StormX -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PNY RTX 4060 VERTO Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 210 mm/8.3 inches
+기반 제품명:PNY XLR8 RTX 4060 VERTO EPIC-X RGB Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:PNY XLR8 RTX 4060 VERTO EPIC-X RGB Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 268 mm/10.6 inches
+기반 제품명:Yeston RTX 4060 Cute Pet MA -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 172 mm/6.8 inches
+기반 제품명:Yeston RTX 4060 Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 248 mm/9.8 inches
+기반 제품명:Yeston RTX 4060 Gaia GA -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:Yeston RTX 4060 Gaia GB -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 230 mm/9.1 inches
+기반 제품명:ZOTAC RTX 4060 Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2610 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4060 Destroyer OC HA -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 239 mm/9.4 inches
+기반 제품명:ZOTAC RTX 4060 OC Spider-Man -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2475 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 222 mm/8.7 inches
+기반 제품명:ZOTAC RTX 4060 SOLO -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2460 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 163 mm/6.4 inches
+기반 제품명:ZOTAC RTX 4060 Twin Edge OC White -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2490 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 221 mm/8.7 inches
+기반 제품명:ZOTAC RTX 4060 X-GAMING OC Opal White -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2535 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ZOTAC RTX 4060 X-GAMING OC TWIN -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2505 MHz, Memory Clock: 2125 MHz, 외의 바뀐 사항: 218 mm/8.6 inches
+"
+NVIDIA GeForce RTX 4060 Max-Q,"Graphics Processor: AD107
+Cores: 3072
+TMUs: 96
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+GPU Variant: GN21-X4
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1140 MHz
+Boost Clock: 1470 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 96
+ROPs: 48
+SM Count: 24
+Tensor Cores: 96
+RT Cores: 24
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 70.56 GPixel/s
+Texture Rate: 141.1 GTexel/s
+FP16 (half): 9.032 TFLOPS (1:1)
+FP32 (float): 9.032 TFLOPS
+FP64 (double): 141.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS RTX 4060 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1470 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4060 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1470 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4060 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1470 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4060 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1140 MHz, Boost Clock: 1470 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4060 Mobile,"Graphics Processor: AD107
+Cores: 3072
+TMUs: 96
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+GPU Variant: GN21-X4
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1545 MHz
+Boost Clock: 1890 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 96
+ROPs: 48
+SM Count: 24
+Tensor Cores: 96
+RT Cores: 24
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 90.72 GPixel/s
+Texture Rate: 181.4 GTexel/s
+FP16 (half): 11.61 TFLOPS (1:1)
+FP32 (float): 11.61 TFLOPS
+FP64 (double): 181.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:ASUS RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2175 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:CLEVO RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:CLEVO RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2115 MHz, Boost Clock: 2235 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2055 MHz, Boost Clock: 2340 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:Dell RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:HP RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1710 MHz, Boost Clock: 2100 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1545 MHz, Boost Clock: 1890 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:MSI RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2010 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2115 MHz, Boost Clock: 2235 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1710 MHz, Boost Clock: 2100 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2115 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Razer RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2250 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4060 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2295 MHz, Boost Clock: 2370 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 140 W
+"
+NVIDIA GeForce RTX 4060 Ti 16 GB,"Graphics Processor: AD106
+Cores: 4352
+TMUs: 136
+ROPs: 48
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD106
+GPU Variant: AD106-351-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 22,900 million
+Density: 121.8M / mm²
+Die Size: 188 mm²
+
+Graphics Card:
+Release Date: May 18th, 2023
+Availability: July 18th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 499 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2310 MHz
+Boost Clock: 2535 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 288.0 GB/s
+
+Render Config:
+Shading Units: 4352
+TMUs: 136
+ROPs: 48
+SM Count: 34
+Tensor Cores: 136
+RT Cores: 34
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 121.7 GPixel/s
+Texture Rate: 344.8 GTexel/s
+FP16 (half): 22.06 TFLOPS (1:1)
+FP32 (float): 22.06 TFLOPS
+FP64 (double): 344.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 240 mm 9.4 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 165 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG190 SKU 363
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS DUAL RTX 4060 Ti 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti Advanced 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS ProArt RTX 4060 Ti 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4060 Ti Advanced 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4060 Ti OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2655 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Advanced OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Ultra W DUO OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Ultra W OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Wushan Five Elements Customized Edition OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 313 mm/12.3 inches
+기반 제품명:Colorful Tomahawk RTX 4060 Ti Deluxe 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Colorful Tomahawk RTX 4060 Ti DUO 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Gainward RTX 4060 Ti Chaser 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 206 mm/8.1 inches
+기반 제품명:Gainward RTX 4060 Ti Chaser EX3 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:Gainward RTX 4060 Ti Panther OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Ti Treading Snow 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Haoyue 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Haoyue OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Magic Ji 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Magic Ji OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:GALAX RTX 4060 Ti BOOMSTAR MAX 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:GALAX RTX 4060 Ti BOOMSTAR MAX OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:GALAX RTX 4060 Ti EX 1-Click OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 Ti EX White 1-Click OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 Ti General MAX 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:GALAX RTX 4060 Ti General MAX OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:GALAX RTX 4060 Ti Metal Master MAX 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:GALAX RTX 4060 Ti Metal Master MAX OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:GALAX RTX 4060 Ti Wusou MAX 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 267 mm/10.5 inches, Single-slot
+기반 제품명:GIGABYTE RTX 4060 Ti AERO OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:GIGABYTE RTX 4060 Ti GAMING OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 OC WHITE 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti X3 OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:KFA2 RTX 4060 Ti EX 1-Click OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:KFA2 RTX 4060 Ti EX White 1-Click OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:Manli RTX 4060 Ti Gallardo (M2565+N719) 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:MAXSUN RTX 4060 Ti iCraft OC Aijia S0 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MAXSUN RTX 4060 Ti iCraft OC S0 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:MSI RTX 4060 Ti GAMING X 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 Ti GAMING X SLIM 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4060 Ti GAMING X SLIM WHITE 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 307 mm/12.1 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 2X BLACK OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 199 mm/7.8 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 3X OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:Palit RTX 4060 Ti JetStream OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:PNY RTX 4060 Ti VERTO Dual Fan 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:PNY XLR8 RTX 4060 Ti VERTO EPIC-X RGB Triple Fan 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PNY XLR8 RTX 4060 Ti VERTO EPIC-X RGB Triple Fan OC 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:Yeston RTX 4060 Ti Deluxe Edition 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Yeston RTX 4060 Ti Game Ace PA 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4060 Ti AMP 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti Twin Edge 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti X-GAMING OC Opal White 16 GB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+"
+NVIDIA GeForce RTX 4060 Ti 8 GB,"Graphics Processor: AD106
+Cores: 4352
+TMUs: 136
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD106
+GPU Variant: AD106-350-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 22,900 million
+Density: 121.8M / mm²
+Die Size: 188 mm²
+
+Graphics Card:
+Release Date: May 18th, 2023
+Availability: May 24th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 399 USD
+Bus Interface: PCIe 4.0 x8
+
+Clock Speeds:
+Base Clock: 2310 MHz
+Boost Clock: 2535 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 288.0 GB/s
+
+Render Config:
+Shading Units: 4352
+TMUs: 136
+ROPs: 48
+SM Count: 34
+Tensor Cores: 136
+RT Cores: 34
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 121.7 GPixel/s
+Texture Rate: 344.8 GTexel/s
+FP16 (half): 22.06 TFLOPS (1:1)
+FP32 (float): 22.06 TFLOPS
+FP64 (double): 344.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 240 mm 9.4 inches
+Width: 111 mm 4.4 inches
+Height: 40 mm 1.6 inches
+TDP: 160 W
+Suggested PSU: 450 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG190 SKU 361
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ATS RTX 4060 Ti GAMING MEGALODON -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:ASUS ATS RTX 4060 Ti GAMING MEGALODON OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti SSD -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti SSD OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti V2 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti V2 OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 202 mm/8 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti WHITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS DUAL RTX 4060 Ti WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 227 mm/8.9 inches
+기반 제품명:ASUS ROG STRIX RTX 4060 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:ASUS TUF RTX 4060 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:ASUS TUF RTX 4060 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2625 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:ASUS TX RTX 4060 Ti GAMING MEGALODON OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 318 mm/12.5 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Ultra W DUO OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 255 mm/10 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4060 Ti Wushan Five Elements Customized Edition OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 313 mm/12.3 inches
+기반 제품명:Colorful Tomahawk RTX 4060 Ti Deluxe -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful Tomahawk RTX 4060 Ti DUO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 249 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Ti Chaser -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 206 mm/8.1 inches
+기반 제품명:Gainward RTX 4060 Ti Chaser EX3 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:Gainward RTX 4060 Ti Ghost -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Ti Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4060 Ti Pegasus -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Gainward RTX 4060 Ti Pegasus OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Gainward RTX 4060 Ti Snow -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2595 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Haoyue OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:Gainward RTX 4060 Ti Xingji Magic Ji OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 317 mm/12.5 inches
+기반 제품명:GALAX RTX 4060 Ti 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 237 mm/9.3 inches
+기반 제품명:GALAX RTX 4060 Ti BOOMSTAR -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 314 mm/12.4 inches
+기반 제품명:GALAX RTX 4060 Ti BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, 200 W
+기반 제품명:GALAX RTX 4060 Ti EX -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 Ti EX White -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:GALAX RTX 4060 Ti General -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 243 mm/9.6 inches
+기반 제품명:GALAX RTX 4060 Ti METALTOP -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 312 mm/12.3 inches
+기반 제품명:GALAX RTX 4060 Ti METALTOP OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 312 mm/12.3 inches, 180 W
+기반 제품명:GIGABYTE AORUS RTX 4060 Ti ELITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2655 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4060 Ti AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 281 mm/11.1 inches
+기반 제품명:GIGABYTE RTX 4060 Ti EAGLE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 4060 Ti EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 272 mm/10.7 inches
+기반 제품명:GIGABYTE RTX 4060 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 281 mm/11.1 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4060 Ti WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 201 mm/7.9 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti TWIN X2 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4060 Ti X3 OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:KFA2 RTX 4060 Ti 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 237 mm/9.3 inches
+기반 제품명:KFA2 RTX 4060 Ti EX -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:KFA2 RTX 4060 Ti EX White -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:KUROUTOSHIKOU RTX 4060 Ti GALAKURO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:Leadtek WinFast RTX 4060 Ti Hurricane -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 251 mm/9.9 inches
+기반 제품명:MAXSUN RTX 4060 Ti Turbo T0 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:MSI RTX 4060 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 Ti GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:MSI RTX 4060 Ti GAMING X -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 247 mm/9.7 inches
+기반 제품명:MSI RTX 4060 Ti GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 2X BLACK -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 199 mm/7.8 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 2X BLACK OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 199 mm/7.8 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4060 Ti VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:NVIDIA GeForce RTX 4060 Ti Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 4060 Ti Dual -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Palit RTX 4060 Ti Dual OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Palit RTX 4060 Ti StormX -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:Palit RTX 4060 Ti StormX OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 170 mm/6.7 inches
+기반 제품명:PNY RTX 4060 Ti VERTO Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 245 mm/9.6 inches
+기반 제품명:PNY XLR8 RTX 4060 Ti VERTO EPIC-X RGB Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PNY XLR8 RTX 4060 Ti VERTO EPIC-X RGB Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2580 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:Yeston RTX 4060 Ti Cute Pet MA -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:Yeston RTX 4060 Ti Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 248 mm/9.8 inches
+기반 제품명:Yeston RTX 4060 Ti Gaia GA -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 236 mm/9.3 inches
+기반 제품명:Yeston RTX 4060 Ti Game Ace -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 299 mm/11.8 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4060 Ti Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4060 Ti Destroyer OC HA -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 239 mm/9.4 inches
+기반 제품명:ZOTAC RTX 4060 Ti Thunderbolt Edition OC HA -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 239 mm/9.4 inches
+기반 제품명:ZOTAC RTX 4060 Ti Twin Edge -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2535 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti Twin Edge OC SPIDER-MAN -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2550 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti Twin Edge OC White Edition -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti X-GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2565 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ZOTAC RTX 4060 Ti X-GAMING OC Opal White -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+"
+NVIDIA GeForce RTX 4070,"Graphics Processor: AD104
+Cores: 5888
+TMUs: 184
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: AD104-250-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Apr 12th, 2023
+Availability: Apr 13th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 599 USD
+Bus Interface: PCIe 4.0 x16
+Reviews: 53 in our database
+
+Clock Speeds:
+Base Clock: 1920 MHz
+Boost Clock: 2475 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Memory Bus: 192 bit
+Bandwidth: 504.2 GB/s
+
+Render Config:
+Shading Units: 5888
+TMUs: 184
+ROPs: 64
+SM Count: 46
+Tensor Cores: 184
+RT Cores: 46
+L1 Cache: 128 KB (per SM)
+L2 Cache: 36 MB
+
+Theoretical Performance:
+Pixel Rate: 158.4 GPixel/s
+Texture Rate: 455.4 GTexel/s
+FP16 (half): 29.15 TFLOPS (1:1)
+FP32 (float): 29.15 TFLOPS
+FP64 (double): 455.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 240 mm 9.4 inches
+Width: 110 mm 4.3 inches
+Height: 40 mm 1.6 inches
+TDP: 200 W
+Suggested PSU: 550 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG141 SKU 343
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ATS RTX 4070 GAMING MEGALODON -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:ASUS ATS RTX 4070 GAMING MEGALODON OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:ASUS DUAL RTX 4070 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:ASUS DUAL RTX 4070 OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:ASUS DUAL RTX 4070 WHITE -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:ASUS DUAL RTX 4070 WHITE OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 267 mm/10.5 inches
+기반 제품명:ASUS ProArt RTX 4070 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4070 OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG STRIX RTX 4070 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Triple-slot
+기반 제품명:ASUS ROG STRIX RTX 4070 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Triple-slot
+기반 제품명:ASUS TUF RTX 4070 GAMING -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:ASUS TUF RTX 4070 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:ASUS TX RTX 4070 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:AX Gaming Renegade RTX 4070 X3W OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 319 mm/12.6 inches
+기반 제품명:Colorfire RTX 4070 Shadow Purple -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 331 mm/13 inches
+기반 제품명:Colorful iGame RTX 4070 Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Triple-slot, 215 W
+기반 제품명:Colorful iGame RTX 4070 Neptune -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, 240 W
+기반 제품명:Colorful iGame RTX 4070 Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, 240 W
+기반 제품명:Colorful iGame RTX 4070 Ultra W OC V2 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 4070 Ultra W V2 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:Colorful iGame RTX 4070 Ultra Z OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches
+기반 제품명:Colorful iGame RTX 4070 Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, Triple-slot, 215 W
+기반 제품명:Colorful Tomahawk RTX 4070 Deluxe -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 325 mm/12.8 inches, Triple-slot
+기반 제품명:ELSA RTX 4070 S.A.C -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Gainward RTX 4070 Ghost -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Gainward RTX 4070 Ghost OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Gainward RTX 4070 Panther -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches
+기반 제품명:Gainward RTX 4070 Phoenix -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Pink Star -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 Pink Star OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 Snow Walking -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 White Star -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 White Star OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4070 Wind Chaser -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches
+기반 제품명:GALAX RTX 4070 1-Click OC 3X -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:GALAX RTX 4070 1-Click OC 3X White -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:GALAX RTX 4070 20th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches, 215 W
+기반 제품명:GALAX RTX 4070 BOOMSTAR -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Triple-slot, 215 W
+기반 제품명:GALAX RTX 4070 BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Triple-slot, 215 W
+기반 제품명:GALAX RTX 4070 EX Gamer -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 EX Gamer Pink -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 EX Gamer White -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:GALAX RTX 4070 General -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:GALAX RTX 4070 Metal Master -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, 215 W
+기반 제품명:GALAX RTX 4070 Metal Master OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, 215 W
+기반 제품명:GIGABYTE AORUS RTX 4070 MASTER -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 AERO OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:GIGABYTE RTX 4070 GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 KOREA EDITION OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2565 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 298 mm/11.7 inches, Triple-slot, 215 W
+기반 제품명:GIGABYTE RTX 4070 WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:Inno3D RTX 4070 iCHILL X3 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot
+기반 제품명:Inno3D RTX 4070 TWIN X2 -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 TWIN X2 OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 TWIN X2 OC WHITE -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:Inno3D RTX 4070 X3 OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:KFA2 RTX 4070 1-Click OC 3X -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:KFA2 RTX 4070 1-Click OC 3X White -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:KFA2 RTX 4070 EX Gamer -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KFA2 RTX 4070 EX Gamer Pink -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KFA2 RTX 4070 EX Gamer White -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:KUROUTOSHIKOU RTX 4070 GALAKURO GAMING -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 323 mm/12.7 inches
+기반 제품명:Leadtek WinFast RTX 4070 AI BLOWER -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 4070 (M2524+N713) -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, Triple-slot
+기반 제품명:MAXSUN RTX 4070 iCraft OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 317 mm/12.5 inches, Triple-slot
+기반 제품명:MAXSUN RTX 4070 iCraft OC Aijia -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 215 W
+기반 제품명:MSI RTX 4070 GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches
+기반 제품명:MSI RTX 4070 GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, 215 W
+기반 제품명:MSI RTX 4070 VENTUS 2X -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 VENTUS 2X E -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 VENTUS 2X E OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 VENTUS 2X OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 242 mm/9.5 inches
+기반 제품명:MSI RTX 4070 VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4070 VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2505 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:NVIDIA GeForce RTX 4070 Founders Edition -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Palit RTX 4070 Dual -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Palit RTX 4070 Dual OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2550 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 269 mm/10.6 inches
+기반 제품명:Palit RTX 4070 GamingPro -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, 215 W
+기반 제품명:Palit RTX 4070 GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2595 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, 215 W
+기반 제품명:Palit RTX 4070 JetStream -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:PNY RTX 4070 Blower -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 278 mm/10.9 inches
+기반 제품명:PNY RTX 4070 VERTO Dual Fan -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 250 mm/9.8 inches
+기반 제품명:PNY XLR8 RTX 4070 VERTO EPIC-X RGB Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:PNY XLR8 RTX 4070 VERTO EPIC-X RGB Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches
+기반 제품명:Yeston RTX 4070 SAKURA -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:ZOTAC RTX 4070 AMP AIRO -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot, 215 W
+기반 제품명:ZOTAC RTX 4070 AMP AIRO SPIDER-MAN -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2535 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot, 215 W
+기반 제품명:ZOTAC RTX 4070 Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2580 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot, 215 W
+기반 제품명:ZOTAC RTX 4070 Trinity -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot, 215 W
+기반 제품명:ZOTAC RTX 4070 Twin Edge -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4070 Twin Edge OC -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4070 Twin Edge OC SPIDER-MAN -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2490 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 226 mm/8.9 inches
+기반 제품명:ZOTAC RTX 4070 X-GAMING -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2475 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches
+기반 제품명:ZOTAC RTX 4070 X-GAMING OC Opal White -해당 제품의 바뀐 사항 GPU Clock: 1920 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches, Triple-slot
+"
+NVIDIA GeForce RTX 4070 Max-Q,"Graphics Processor: AD106
+Cores: 4608
+TMUs: 144
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD106
+GPU Variant: GN21-X6
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 22,900 million
+Density: 121.8M / mm²
+Die Size: 188 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 735 MHz
+Boost Clock: 1230 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 144
+ROPs: 48
+SM Count: 36
+Tensor Cores: 144
+RT Cores: 36
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 59.04 GPixel/s
+Texture Rate: 177.1 GTexel/s
+FP16 (half): 11.34 TFLOPS (1:1)
+FP32 (float): 11.34 TFLOPS
+FP64 (double): 177.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS RTX 4070 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 735 MHz, Boost Clock: 1230 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4070 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 1305 MHz, Boost Clock: 1605 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Samsung RTX 4070 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 735 MHz, Boost Clock: 1230 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4070 Mobile,"Graphics Processor: AD106
+Cores: 4608
+TMUs: 144
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD106
+GPU Variant: GN21-X6
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 22,900 million
+Density: 121.8M / mm²
+Die Size: 188 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Unknown
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1395 MHz
+Boost Clock: 1695 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 144
+ROPs: 48
+SM Count: 36
+Tensor Cores: 144
+RT Cores: 36
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 81.36 GPixel/s
+Texture Rate: 244.1 GTexel/s
+FP16 (half): 15.62 TFLOPS (1:1)
+FP32 (float): 15.62 TFLOPS
+FP64 (double): 244.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Acer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Acer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1560 MHz, Boost Clock: 1950 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1905 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1755 MHz, Boost Clock: 2115 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:CLEVO RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1830 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:Razer RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 2070 MHz, Boost Clock: 2175 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1605 MHz, Boost Clock: 1980 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4070 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1395 MHz, Boost Clock: 1695 MHz, Memory Clock: 2000 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4070 Ti,"Graphics Processor: AD104
+Cores: 7680
+TMUs: 240
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: AD104-400-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Jan 3rd, 2023
+Availability: Jan 5th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 799 USD
+Current Price: Amazon / Newegg
+Bus Interface: PCIe 4.0 x16
+Reviews: 45 in our database
+
+Clock Speeds:
+Base Clock: 2310 MHz
+Boost Clock: 2610 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6X
+Memory Bus: 192 bit
+Bandwidth: 504.2 GB/s
+
+Render Config:
+Shading Units: 7680
+TMUs: 240
+ROPs: 80
+SM Count: 60
+Tensor Cores: 240
+RT Cores: 60
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 208.8 GPixel/s
+Texture Rate: 626.4 GTexel/s
+FP16 (half): 40.09 TFLOPS (1:1)
+FP32 (float): 40.09 TFLOPS
+FP64 (double): 626.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 285 mm 11.2 inches
+Width: 112 mm 4.4 inches
+Height: 42 mm 1.7 inches
+TDP: 285 W
+Suggested PSU: 600 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG141 SKU 331
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS ProArt RTX 4070 Ti -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ProArt RTX 4070 Ti OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2730 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches
+기반 제품명:ASUS ROG RTX 4070 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS ROG RTX 4070 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:ASUS TUF RTX 4070 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2730 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot, 2x HDMI 3x DisplayPort
+기반 제품명:AX Gaming Renegade RTX 4070 Ti X3W -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 299 mm/11.8 inches
+기반 제품명:Colorful iGame 4070 Ti Advanced -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Triple-slot
+기반 제품명:Colorful iGame 4070 Ti Advanced OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Triple-slot, 310 W
+기반 제품명:Colorful iGame 4070 Ti Chinese New Year Gift Box 2023 Advanced -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Triple-slot, 310 W
+기반 제품명:Colorful iGame 4070 Ti Chinese New Year Gift Box 2023 Ultra -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2745 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 335 mm/13.2 inches, Triple-slot
+기반 제품명:Colorful iGame 4070 Ti Chinese New Year Gift Box 2023 Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2775 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, Triple-slot, 310 W
+기반 제품명:Colorful iGame 4070 Ti Neptune -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches
+기반 제품명:Colorful iGame 4070 Ti Neptune OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2790 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, 320 W
+기반 제품명:Colorful iGame 4070 Ti Ultra W -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 335 mm/13.2 inches, Triple-slot
+기반 제품명:Colorful iGame 4070 Ti Ultra W OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2745 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 335 mm/13.2 inches, Triple-slot
+기반 제품명:Colorful iGame 4070 Ti Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, Triple-slot
+기반 제품명:Colorful iGame 4070 Ti Vulcan OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2775 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 349 mm/13.7 inches, Triple-slot, 310 W
+기반 제품명:Colorful Tomahawk iGame 4070 Ti Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 327 mm/12.9 inches, Triple-slot
+기반 제품명:Colorful Tomahawk iGame 4070 Ti Deluxe Edition OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2715 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 327 mm/12.9 inches, Triple-slot
+기반 제품명:ELSA RTX 4070 Ti ERAZOR -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:Gainward RTX 4070 Ti Panther -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phantom -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phantom GS -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2775 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phantom Reunion -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phantom Reunion GS -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phoenix -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Phoenix GS -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Pink Star -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Pink Star OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward RTX 4070 Ti White Star -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward RTX 4070 Ti White Star OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Wind Chaser -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Gainward RTX 4070 Ti Wind Chaser EX -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:GALAX RTX 4070 Ti Blackjack -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 321 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti Blackjack OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 321 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti BOOMSTAR -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti BOOMSTAR OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 340 mm/13.4 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti EX Gamer -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti EX Gamer Pink -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti EX Gamer White -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti HOF OC LAB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2715 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Quad-slot, 366 W
+기반 제품명:GALAX RTX 4070 Ti HOF OC LAB PLUS -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 344 mm/13.5 inches, Quad-slot, 366 W
+기반 제품명:GALAX RTX 4070 Ti Metal Master -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti Metal Master OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 311 mm/12.2 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti SG White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GALAX RTX 4070 Ti ST 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:GIGABYTE AORUS RTX 4070 Ti ELITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2655 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4070 Ti MASTER -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches, Quad-slot
+기반 제품명:GIGABYTE AORUS RTX 4070 Ti XTREME WATERFORCE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2700 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 252 mm/9.9 inches
+기반 제품명:GIGABYTE AORUS RTX 4070 Ti XTREME WATERFORCE WB -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2700 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 252 mm/9.9 inches
+기반 제품명:GIGABYTE RTX 4070 Ti AERO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti AERO OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti EAGLE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti EAGLE OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 301 mm/11.9 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti EAGLE OC Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:GIGABYTE RTX 4070 Ti EAGLE Rev. 2.0 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:GIGABYTE RTX 4070 Ti GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti GAMING OC V2 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 300 mm/11.8 inches, Triple-slot
+기반 제품명:GIGABYTE RTX 4070 Ti WINDFORCE OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 261 mm/10.3 inches
+기반 제품명:HP RTX 4070 Ti OEM -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Inno3D iChill RTX 4070 Ti X3 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot
+기반 제품명:Inno3D RTX 4070 Ti X3 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:Inno3D RTX 4070 Ti X3 OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 297 mm/11.7 inches
+기반 제품명:KFA2 RTX 4070 Ti EX Gamer -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 Ti EX Gamer Pink -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 Ti EX Gamer White -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 Ti SG 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 Ti SG White 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KFA2 RTX 4070 Ti ST 1-Click OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KUROUTOSHIKOU RTX 4070 Ti GALAKURO GAMING -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:KUROUTOSHIKOU RTX 4070 Ti GALAKURO GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 320 mm/12.6 inches, Triple-slot
+기반 제품명:Leadtek WinFast RTX 4070 Ti AI BLOWER -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 265 mm/10.4 inches
+기반 제품명:Leadtek WinFast RTX 4070 Ti HURRICANE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 319 mm/12.6 inches, Triple-slot
+기반 제품명:Lenovo RTX 4070 Ti OEM -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 
+기반 제품명:Manli RTX 4070 Ti Gallardo (M3542+N693) -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 315 mm/12.4 inches, Triple-slot
+기반 제품명:MAXSUN RTX 4070 Ti iCraft OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 300 W
+기반 제품명:MAXSUN RTX 4070 Ti iCraft OC Aijia -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2685 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Triple-slot, 300 W
+기반 제품명:MAXSUN RTX 4070 Ti MGG OC S0 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2715 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot, 300 W
+기반 제품명:MSI RTX 4070 Ti GAMING TRIO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4070 Ti GAMING TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4070 Ti GAMING X SLIM -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2730 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:MSI RTX 4070 Ti GAMING X TRIO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2745 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4070 Ti GAMING X TRIO WHITE -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2745 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches, Triple-slot
+기반 제품명:MSI RTX 4070 Ti SUPRIM -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2745 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4070 Ti SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2775 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 338 mm/13.3 inches, Quad-slot
+기반 제품명:MSI RTX 4070 Ti VENTUS 3X -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4070 Ti VENTUS 3X OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4070 Ti VENTUS 3X OCV1 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:MSI RTX 4070 Ti VENTUS 3X V1 -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches
+기반 제품명:Palit RTX 4070 Ti GameRock -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GameRock Classic -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GameRock Classic OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 314 mm/12.4 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GameRock OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2775 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GameRock Premium -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2790 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GamingPro -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti GamingPro OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2760 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:Palit RTX 4070 Ti JetStream -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 329 mm/13 inches, Triple-slot
+기반 제품명:PNY RTX 4070 Ti VERTO Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 305 mm/12 inches, Triple-slot
+기반 제품명:PNY XLR8 RTX 4070 Ti VERTO EPIC-X Triple Fan -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 332 mm/13.1 inches, Triple-slot
+기반 제품명:PNY XLR8 RTX 4070 Ti VERTO EPIC-X Triple Fan OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 332 mm/13.1 inches, Triple-slot
+기반 제품명:Yeston RTX 4070 Ti Deluxe Edition -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: Triple-slot
+기반 제품명:Yeston RTX 4070 Ti SAKURA Sugar -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 328 mm/12.9 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti AMP AIRO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti AMP AIRO SPIDER-MAN -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 308 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti AMP Extreme AIRO -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2700 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 356 mm/14 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti Apocalypse -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti Apocalypse OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2670 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 334 mm/13.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti Trinity -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2610 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti Trinity OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2625 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 307 mm/12.1 inches, Triple-slot
+기반 제품명:ZOTAC RTX 4070 Ti X-GAMING OC -해당 제품의 바뀐 사항 GPU Clock: 2310 MHz, Boost Clock: 2640 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 303 mm/11.9 inches, Triple-slot
+"
+NVIDIA GeForce RTX 4080 Max-Q,"Graphics Processor: AD104
+Cores: 7424
+TMUs: 232
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: GN21-X9
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Feb 7th, 2023
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 795 MHz
+Boost Clock: 1350 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 80
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 108.0 GPixel/s
+Texture Rate: 313.2 GTexel/s
+FP16 (half): 20.04 TFLOPS (1:1)
+FP32 (float): 20.04 TFLOPS
+FP64 (double): 313.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 60 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Razer RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4080 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 795 MHz, Boost Clock: 1350 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4080 Mobile,"Graphics Processor: AD104
+Cores: 7424
+TMUs: 232
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: GN21-X9
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Feb 7th, 2023
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1290 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 80
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 133.2 GPixel/s
+Texture Rate: 386.3 GTexel/s
+FP16 (half): 24.72 TFLOPS (1:1)
+FP32 (float): 24.72 TFLOPS
+FP64 (double): 386.3 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 110 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Acer RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1410 MHz, Boost Clock: 1830 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1290 MHz, Boost Clock: 1665 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1860 MHz, Boost Clock: 2280 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:CLEVO RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1860 MHz, Boost Clock: 2280 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:Dell RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Dell RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2100 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1860 MHz, Boost Clock: 2280 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:GIGABYTE RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1290 MHz, Boost Clock: 1665 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1290 MHz, Boost Clock: 1665 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:MSI RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1860 MHz, Boost Clock: 2280 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:MSI RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1290 MHz, Boost Clock: 1665 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:QUANTA Computer RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Razer RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 1995 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:TongFang Hongkong RTX 4080 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1860 MHz, Boost Clock: 2280 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+"
+NVIDIA GeForce RTX 4090 D,"Graphics Processor: AD102
+Cores: 14592
+TMUs: 456
+ROPs: 176
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-250-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Dec 28th, 2023
+Availability: Dec 28th, 2023
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Launch Price: 1,599 USD
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 2280 MHz
+Boost Clock: 2520 MHz
+Memory Clock: 1313 MHz 21 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6X
+Memory Bus: 384 bit
+Bandwidth: 1.01 TB/s
+
+Render Config:
+Shading Units: 14592
+TMUs: 456
+ROPs: 176
+SM Count: 114
+Tensor Cores: 456
+RT Cores: 114
+L1 Cache: 128 KB (per SM)
+L2 Cache: 72 MB
+
+Theoretical Performance:
+Pixel Rate: 443.5 GPixel/s
+Texture Rate: 1,149 GTexel/s
+FP16 (half): 73.54 TFLOPS (1:1)
+FP32 (float): 73.54 TFLOPS
+FP64 (double): 1,149 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Triple-slot
+Length: 304 mm 12 inches
+Width: 137 mm 5.4 inches
+Height: 61 mm 2.4 inches
+TDP: 425 W
+Suggested PSU: 800 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+Board Number: PG139 SKU 330
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:AX Gaming Rebel RTX 4090 D X3W -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:Colorful RTX 4090 D Advanced -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:Colorful RTX 4090 D Neptune -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 254 mm/10 inches, Dual-slot
+기반 제품명:Colorful RTX 4090 D Vulcan -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:Colorful RTX 4090 D Vulcan W -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 337 mm/13.3 inches
+기반 제품명:Gainward RTX 4090 D Clasing Wind -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 316 mm/12.4 inches
+기반 제품명:Gainward RTX 4090 D Glare -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 350 mm/13.8 inches, Quad-slot
+기반 제품명:GALAX RTX 4090 D 20th Anniversary -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 330 mm/13 inches
+기반 제품명:GALAX RTX 4090 D BOOMSTAR -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 342 mm/13.5 inches
+기반 제품명:GALAX RTX 4090 D Metal Master -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 352 mm/13.9 inches
+기반 제품명:GALAX RTX 4090 D Metal Master AIO -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 394 mm/15.5 inches
+기반 제품명:MSI RTX 4090 D GAMING X SLIM -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 322 mm/12.7 inches
+기반 제품명:MSI RTX 4090 D SUPRIM X -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 336 mm/13.2 inches, Quad-slot
+기반 제품명:ZOTAC RTX 4090 D PGF -해당 제품의 바뀐 사항 GPU Clock: 2280 MHz, Boost Clock: 2520 MHz, Memory Clock: 1313 MHz, 외의 바뀐 사항: 381 mm/15 inches
+"
+NVIDIA GeForce RTX 4090 Max-Q,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+GPU Variant: GN21-X11
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Feb 7th, 2023
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 930 MHz
+Boost Clock: 1455 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 163.0 GPixel/s
+Texture Rate: 442.3 GTexel/s
+FP16 (half): 28.31 TFLOPS (1:1)
+FP32 (float): 28.31 TFLOPS
+FP64 (double): 442.3 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 80 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:ASUS RTX 4090 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1455 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:GIGABYTE RTX 4090 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1455 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:HP RTX 4090 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1455 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:Lenovo RTX 4090 Max-Q -해당 제품의 바뀐 사항 GPU Clock: 930 MHz, Boost Clock: 1455 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+"
+NVIDIA GeForce RTX 4090 Mobile,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+GPU Variant: GN21-X11
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Mobile Graphics:
+Release Date: Jan 3rd, 2023
+Availability: Feb 7th, 2023
+Generation: GeForce 40 Mobile
+Predecessor: GeForce 30 Mobile
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1335 MHz
+Boost Clock: 1695 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 189.8 GPixel/s
+Texture Rate: 515.3 GTexel/s
+FP16 (half): 32.98 TFLOPS (1:1)
+FP32 (float): 32.98 TFLOPS
+FP64 (double): 515.3 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 120 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:Acer RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1335 MHz, Boost Clock: 1695 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+기반 제품명:ASUS RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1590 MHz, Boost Clock: 2040 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:ASUS RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1425 MHz, Boost Clock: 1815 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 130 W
+기반 제품명:CLEVO RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1590 MHz, Boost Clock: 2040 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:Dell RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1500 MHz, Boost Clock: 1950 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:Dell RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1425 MHz, Boost Clock: 1815 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 130 W
+기반 제품명:GIGABYTE RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1590 MHz, Boost Clock: 2040 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:HP RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1425 MHz, Boost Clock: 1815 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 130 W
+기반 제품명:HP RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1530 MHz, Boost Clock: 2010 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 140 W
+기반 제품명:MSI RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1590 MHz, Boost Clock: 2040 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+기반 제품명:QUANTA Computer RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1425 MHz, Boost Clock: 1815 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 130 W
+기반 제품명:Razer RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1425 MHz, Boost Clock: 1815 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 130 W
+기반 제품명:TongFang Hongkong RTX 4090 Mobile -해당 제품의 바뀐 사항 GPU Clock: 1620 MHz, Boost Clock: 2040 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 150 W
+"
+NVIDIA H100 CNX,"Graphics Processor: GH100
+Cores: 14592
+TMUs: 456
+ROPs: 24
+Memory Size: 80 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 690 MHz
+Boost Clock: 1845 MHz
+Memory Clock: 1593 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 2.04 TB/s
+
+Render Config:
+Shading Units: 14592
+TMUs: 456
+ROPs: 24
+SM Count: 114
+Tensor Cores: 456
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 44.28 GPixel/s
+Texture Rate: 841.3 GTexel/s
+FP16 (half): 215.4 TFLOPS (4:1)
+FP32 (float): 53.84 TFLOPS
+FP64 (double): 26.92 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 350 W
+Suggested PSU: 750 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: P1010
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H100 PCIe 80 GB,"Graphics Processor: GH100
+Cores: 14592
+TMUs: 456
+ROPs: 24
+Memory Size: 80 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1095 MHz
+Boost Clock: 1755 MHz
+Memory Clock: 1593 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 2.04 TB/s
+
+Render Config:
+Shading Units: 14592
+TMUs: 456
+ROPs: 24
+SM Count: 114
+Tensor Cores: 456
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 42.12 GPixel/s
+Texture Rate: 800.3 GTexel/s
+FP16 (half): 204.9 TFLOPS (4:1)
+FP32 (float): 51.22 TFLOPS
+FP64 (double): 25.61 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 268 mm 10.6 inches
+Width: 111 mm 4.4 inches
+TDP: 350 W
+Suggested PSU: 750 W
+Outputs: No outputs
+Power Connectors: 1x 16-pin
+Board Number: P1010 SKU 200
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H100 PCIe 96 GB,"Graphics Processor: GH100
+Cores: 16896
+TMUs: 528
+ROPs: 24
+Memory Size: 96 GB
+Memory Type: HBM3
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1665 MHz
+Boost Clock: 1837 MHz
+Memory Clock: 1313 MHz 5.3 Gbps effective
+
+Memory:
+Memory Size: 96 GB
+Memory Type: HBM3
+Memory Bus: 5120 bit
+Bandwidth: 3.36 TB/s
+
+Render Config:
+Shading Units: 16896
+TMUs: 528
+ROPs: 24
+SM Count: 132
+Tensor Cores: 528
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 44.09 GPixel/s
+Texture Rate: 969.9 GTexel/s
+FP16 (half): 248.3 TFLOPS (4:1)
+FP32 (float): 62.08 TFLOPS
+FP64 (double): 31.04 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 268 mm 10.6 inches
+Width: 111 mm 4.4 inches
+TDP: 700 W
+Suggested PSU: 1100 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: PG520
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H100 SXM5 64 GB,"Graphics Processor: GH100
+Cores: 16896
+TMUs: 528
+ROPs: 24
+Memory Size: 64 GB
+Memory Type: HBM3
+Bus Width: 3072 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1665 MHz
+Boost Clock: 1980 MHz
+Memory Clock: 1313 MHz 5.3 Gbps effective
+
+Memory:
+Memory Size: 64 GB
+Memory Type: HBM3
+Memory Bus: 3072 bit
+Bandwidth: 2.02 TB/s
+
+Render Config:
+Shading Units: 16896
+TMUs: 528
+ROPs: 24
+SM Count: 132
+Tensor Cores: 528
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 47.52 GPixel/s
+Texture Rate: 1,045 GTexel/s
+FP16 (half): 267.6 TFLOPS (4:1)
+FP32 (float): 66.91 TFLOPS
+FP64 (double): 33.45 TFLOPS (1:2)
+
+Board Design:
+Slot Width: SXM Module
+TDP: 700 W
+Suggested PSU: 1100 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: PG520
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H100 SXM5 80 GB,"Graphics Processor: GH100
+Cores: 16896
+TMUs: 528
+ROPs: 24
+Memory Size: 80 GB
+Memory Type: HBM3
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1590 MHz
+Boost Clock: 1980 MHz
+Memory Clock: 1313 MHz 5.3 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM3
+Memory Bus: 5120 bit
+Bandwidth: 3.36 TB/s
+
+Render Config:
+Shading Units: 16896
+TMUs: 528
+ROPs: 24
+SM Count: 132
+Tensor Cores: 528
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 47.52 GPixel/s
+Texture Rate: 1,045 GTexel/s
+FP16 (half): 267.6 TFLOPS (4:1)
+FP32 (float): 66.91 TFLOPS
+FP64 (double): 33.45 TFLOPS (1:2)
+
+Board Design:
+Slot Width: SXM Module
+TDP: 700 W
+Suggested PSU: 1100 W
+Outputs: No outputs
+Power Connectors: None
+Board Number: PG520
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H100 SXM5 96 GB,"Graphics Processor: GH100
+Cores: 16896
+TMUs: 528
+ROPs: 24
+Memory Size: 96 GB
+Memory Type: HBM3
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1665 MHz
+Boost Clock: 1837 MHz
+Memory Clock: 1313 MHz 5.3 Gbps effective
+
+Memory:
+Memory Size: 96 GB
+Memory Type: HBM3
+Memory Bus: 5120 bit
+Bandwidth: 3.36 TB/s
+
+Render Config:
+Shading Units: 16896
+TMUs: 528
+ROPs: 24
+SM Count: 132
+Tensor Cores: 528
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 44.09 GPixel/s
+Texture Rate: 969.9 GTexel/s
+FP16 (half): 248.3 TFLOPS (4:1)
+FP32 (float): 62.08 TFLOPS
+FP64 (double): 31.04 TFLOPS (1:2)
+
+Board Design:
+Slot Width: SXM Module
+TDP: 700 W
+Suggested PSU: 1100 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: PG520
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H800 PCIe 80 GB,"Graphics Processor: GH100
+Cores: 14592
+TMUs: 456
+ROPs: 24
+Memory Size: 80 GB
+Memory Type: HBM2e
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1095 MHz
+Boost Clock: 1755 MHz
+Memory Clock: 1593 MHz 3.2 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM2e
+Memory Bus: 5120 bit
+Bandwidth: 2.04 TB/s
+
+Render Config:
+Shading Units: 14592
+TMUs: 456
+ROPs: 24
+SM Count: 114
+Tensor Cores: 456
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 42.12 GPixel/s
+Texture Rate: 800.3 GTexel/s
+FP16 (half): 204.9 TFLOPS (4:1)
+FP32 (float): 51.22 TFLOPS
+FP64 (double): 25.61 TFLOPS (1:2)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 268 mm 10.6 inches
+Width: 111 mm 4.4 inches
+TDP: 350 W
+Suggested PSU: 750 W
+Outputs: No outputs
+Power Connectors: 1x 16-pin
+Board Number: P1010 SKU 200
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA H800 SXM5,"Graphics Processor: GH100
+Cores: 16896
+TMUs: 528
+ROPs: 24
+Memory Size: 80 GB
+Memory Type: HBM3
+Bus Width: 5120 bit","Graphics Processor:
+GPU Name: GH100
+Architecture: Hopper
+Foundry: TSMC
+Process Size: 4 nm
+Transistors: 80,000 million
+Density: 98.3M / mm²
+Die Size: 814 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Hopper (Hxx)
+Predecessor: Tesla Ada
+Production: Active
+Bus Interface: PCIe 5.0 x16
+
+Clock Speeds:
+Base Clock: 1095 MHz
+Boost Clock: 1755 MHz
+Memory Clock: 1313 MHz 5.3 Gbps effective
+
+Memory:
+Memory Size: 80 GB
+Memory Type: HBM3
+Memory Bus: 5120 bit
+Bandwidth: 3.36 TB/s
+
+Render Config:
+Shading Units: 16896
+TMUs: 528
+ROPs: 24
+SM Count: 132
+Tensor Cores: 528
+L1 Cache: 256 KB (per SM)
+L2 Cache: 50 MB
+
+Theoretical Performance:
+Pixel Rate: 42.12 GPixel/s
+Texture Rate: 926.6 GTexel/s
+FP16 (half): 237.2 TFLOPS (4:1)
+FP32 (float): 59.30 TFLOPS
+FP64 (double): 29.65 TFLOPS (1:2)
+
+Board Design:
+Slot Width: SXM Module
+TDP: 700 W
+Suggested PSU: 1100 W
+Outputs: No outputs
+Power Connectors: 8-pin EPS
+Board Number: PG520
+
+Graphics Features:
+DirectX: N/A
+OpenGL: N/A
+OpenCL: 3.0
+Vulkan: N/A
+CUDA: 9.0
+Shader Model: N/A
+
+",없음
+NVIDIA L20,"Graphics Processor: AD102
+Cores: 11776
+TMUs: 368
+ROPs: 128
+Memory Size: 48 GB
+Memory Type: GDDR6
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Nov 16th, 2023
+Availability: 2023
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1440 MHz
+Boost Clock: 2520 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6
+Memory Bus: 384 bit
+Bandwidth: 864.0 GB/s
+
+Render Config:
+Shading Units: 11776
+TMUs: 368
+ROPs: 128
+SM Count: 92
+Tensor Cores: 368
+RT Cores: 92
+L1 Cache: 128 KB (per SM)
+L2 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 322.6 GPixel/s
+Texture Rate: 927.4 GTexel/s
+FP16 (half): 59.35 TFLOPS (1:1)
+FP32 (float): 59.35 TFLOPS
+FP64 (double): 927.4 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 111 mm 4.4 inches
+TDP: 275 W
+Suggested PSU: 600 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA L4,"Graphics Processor: AD104
+Cores: 7424
+TMUs: 240
+ROPs: 80
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+GPU Variant: AD104-???-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Generation: Tesla Ada (Lxx)
+Predecessor: Tesla Ampere
+Successor: Tesla Hopper
+Production: Active
+Bus Interface: PCIe 4.0 x16
+Reviews: 45 in our database
+
+Clock Speeds:
+Base Clock: 795 MHz
+Boost Clock: 2040 MHz
+Memory Clock: 1563 MHz 12.5 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 300.1 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 240
+ROPs: 80
+SM Count: 60
+Tensor Cores: 240
+RT Cores: 60
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 163.2 GPixel/s
+Texture Rate: 489.6 GTexel/s
+FP16 (half): 30.29 TFLOPS (1:1)
+FP32 (float): 30.29 TFLOPS
+FP64 (double): 473.3 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Single-slot
+Length: 169 mm 6.7 inches
+Width: 56 mm 2.2 inches
+TDP: 72 W
+Suggested PSU: 250 W
+Outputs: No outputs
+Power Connectors: 1x 16-pin
+Board Number: PG193 SKU 200
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 2000 Embedded Ada Generation,"Graphics Processor: AD107
+Cores: 2560
+TMUs: 80
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1530 MHz
+Boost Clock: 2010 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 2560
+TMUs: 80
+ROPs: 48
+SM Count: 20
+Tensor Cores: 80
+RT Cores: 20
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 96.48 GPixel/s
+Texture Rate: 160.8 GTexel/s
+FP16 (half): 10.29 TFLOPS (1:1)
+FP32 (float): 10.29 TFLOPS
+FP64 (double): 160.8 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 2000 Max-Q Ada Generation,"Graphics Processor: AD107
+Cores: 3072
+TMUs: 96
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 930 MHz
+Boost Clock: 1455 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 96
+ROPs: 48
+SM Count: 24
+Tensor Cores: 96
+RT Cores: 24
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 69.84 GPixel/s
+Texture Rate: 139.7 GTexel/s
+FP16 (half): 8.940 TFLOPS (1:1)
+FP32 (float): 8.940 TFLOPS
+FP64 (double): 139.7 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 35 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 2000 Mobile Ada Generation,"Graphics Processor: AD107
+Cores: 3072
+TMUs: 96
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD107
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 18,900 million
+Density: 118.9M / mm²
+Die Size: 159 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1635 MHz
+Boost Clock: 2115 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 3072
+TMUs: 96
+ROPs: 48
+SM Count: 24
+Tensor Cores: 96
+RT Cores: 24
+L1 Cache: 128 KB (per SM)
+L2 Cache: 12 MB
+
+Theoretical Performance:
+Pixel Rate: 101.5 GPixel/s
+Texture Rate: 203.0 GTexel/s
+FP16 (half): 12.99 TFLOPS (1:1)
+FP32 (float): 12.99 TFLOPS
+FP64 (double): 203.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 50 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 3000 Mobile Ada Generation,"Graphics Processor: AD106
+Cores: 4608
+TMUs: 144
+ROPs: 48
+Memory Size: 8 GB
+Memory Type: GDDR6
+Bus Width: 128 bit","Graphics Processor:
+GPU Name: AD106
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 22,900 million
+Density: 121.8M / mm²
+Die Size: 188 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1395 MHz
+Boost Clock: 1695 MHz
+Memory Clock: 2000 MHz 16 Gbps effective
+
+Memory:
+Memory Size: 8 GB
+Memory Type: GDDR6
+Memory Bus: 128 bit
+Bandwidth: 256.0 GB/s
+
+Render Config:
+Shading Units: 4608
+TMUs: 144
+ROPs: 48
+SM Count: 36
+Tensor Cores: 144
+RT Cores: 36
+L1 Cache: 128 KB (per SM)
+L2 Cache: 32 MB
+
+Theoretical Performance:
+Pixel Rate: 81.36 GPixel/s
+Texture Rate: 244.1 GTexel/s
+FP16 (half): 15.62 TFLOPS (1:1)
+FP32 (float): 15.62 TFLOPS
+FP64 (double): 244.1 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 115 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 3500 Embedded Ada Generation,"Graphics Processor: AD104
+Cores: 5120
+TMUs: 160
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1725 MHz
+Boost Clock: 2250 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 5120
+TMUs: 160
+ROPs: 64
+SM Count: 40
+Tensor Cores: 160
+RT Cores: 40
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 144.0 GPixel/s
+Texture Rate: 360.0 GTexel/s
+FP16 (half): 23.04 TFLOPS (1:1)
+FP32 (float): 23.04 TFLOPS
+FP64 (double): 360.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 100 W
+Suggested PSU: 300 W
+Outputs: No outputs
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 3500 Mobile Ada Generation,"Graphics Processor: AD104
+Cores: 5120
+TMUs: 160
+ROPs: 64
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1110 MHz
+Boost Clock: 1545 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 5120
+TMUs: 160
+ROPs: 64
+SM Count: 40
+Tensor Cores: 160
+RT Cores: 40
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 98.88 GPixel/s
+Texture Rate: 247.2 GTexel/s
+FP16 (half): 15.82 TFLOPS (1:1)
+FP32 (float): 15.82 TFLOPS
+FP64 (double): 247.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 100 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+","기반 제품명:HP RTX 3500 Mobile Ada Generation -해당 제품의 바뀐 사항 GPU Clock: 1260 MHz, Boost Clock: 1800 MHz, Memory Clock: 2250 MHz, 외의 바뀐 사항: 
+"
+NVIDIA RTX 4000 Ada Generation,"Graphics Processor: AD104
+Cores: 6144
+TMUs: 192
+ROPs: 80
+Memory Size: 20 GB
+Memory Type: GDDR6
+Bus Width: 160 bit","Graphics Processor:
+GPU Name: AD104
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Aug 9th, 2023
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1500 MHz
+Boost Clock: 2175 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 20 GB
+Memory Type: GDDR6
+Memory Bus: 160 bit
+Bandwidth: 280.0 GB/s
+
+Render Config:
+Shading Units: 6144
+TMUs: 192
+ROPs: 80
+SM Count: 48
+Tensor Cores: 192
+RT Cores: 48
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 174.0 GPixel/s
+Texture Rate: 417.6 GTexel/s
+FP16 (half): 26.73 TFLOPS (1:1)
+FP32 (float): 26.73 TFLOPS
+FP64 (double): 417.6 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Single-slot
+Length: 245 mm 9.6 inches
+Width: 112 mm 4.4 inches
+TDP: 130 W
+Suggested PSU: 300 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 4000 Mobile Ada Generation,"Graphics Processor: AD104
+Cores: 7424
+TMUs: 232
+ROPs: 80
+Memory Size: 12 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD104
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1290 MHz
+Boost Clock: 1665 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 12 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 7424
+TMUs: 232
+ROPs: 80
+SM Count: 58
+Tensor Cores: 232
+RT Cores: 58
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 133.2 GPixel/s
+Texture Rate: 386.3 GTexel/s
+FP16 (half): 24.72 TFLOPS (1:1)
+FP32 (float): 24.72 TFLOPS
+FP64 (double): 386.3 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 110 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 4000 SFF Ada Generation,"Graphics Processor: AD104
+Cores: 6144
+TMUs: 192
+ROPs: 80
+Memory Size: 20 GB
+Memory Type: GDDR6
+Bus Width: 160 bit","Graphics Processor:
+GPU Name: AD104
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 35,800 million
+Density: 121.8M / mm²
+Die Size: 294 mm²
+
+Graphics Card:
+Release Date: Mar 21st, 2023
+Availability: Unknown
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 720 MHz
+Boost Clock: 1560 MHz
+Memory Clock: 1750 MHz 14 Gbps effective
+
+Memory:
+Memory Size: 20 GB
+Memory Type: GDDR6
+Memory Bus: 160 bit
+Bandwidth: 280.0 GB/s
+
+Render Config:
+Shading Units: 6144
+TMUs: 192
+ROPs: 80
+SM Count: 48
+Tensor Cores: 192
+RT Cores: 48
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 124.8 GPixel/s
+Texture Rate: 299.5 GTexel/s
+FP16 (half): 19.17 TFLOPS (1:1)
+FP32 (float): 19.17 TFLOPS
+FP64 (double): 299.5 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 168 mm 6.6 inches
+Width: 69 mm 2.7 inches
+TDP: 70 W
+Suggested PSU: 250 W
+Outputs: 4x mini-DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 4500 Ada Generation,"Graphics Processor: AD103
+Cores: 7680
+TMUs: 240
+ROPs: 80
+Memory Size: 24 GB
+Memory Type: GDDR6
+Bus Width: 192 bit","Graphics Processor:
+GPU Name: AD103
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Graphics Card:
+Release Date: Aug 9th, 2023
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 2070 MHz
+Boost Clock: 2580 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 24 GB
+Memory Type: GDDR6
+Memory Bus: 192 bit
+Bandwidth: 432.0 GB/s
+
+Render Config:
+Shading Units: 7680
+TMUs: 240
+ROPs: 80
+SM Count: 60
+Tensor Cores: 240
+RT Cores: 60
+L1 Cache: 128 KB (per SM)
+L2 Cache: 48 MB
+
+Theoretical Performance:
+Pixel Rate: 206.4 GPixel/s
+Texture Rate: 619.2 GTexel/s
+FP16 (half): 39.63 TFLOPS (1:1)
+FP32 (float): 39.63 TFLOPS
+FP64 (double): 619.2 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 245 mm 9.6 inches
+Width: 112 mm 4.4 inches
+TDP: 130 W
+Suggested PSU: 300 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 5000 Ada Generation,"Graphics Processor: AD102
+Cores: 12800
+TMUs: 400
+ROPs: 176
+Memory Size: 32 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Aug 9th, 2023
+Availability: Sep 29th, 2023
+Generation: Quadro Ada (x000A)
+Predecessor: Quadro Ampere
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1155 MHz
+Boost Clock: 2550 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 32 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 12800
+TMUs: 400
+ROPs: 176
+SM Count: 100
+Tensor Cores: 400
+RT Cores: 100
+L1 Cache: 128 KB (per SM)
+L2 Cache: 72 MB
+
+Theoretical Performance:
+Pixel Rate: 448.8 GPixel/s
+Texture Rate: 1,020 GTexel/s
+FP16 (half): 65.28 TFLOPS (1:1)
+FP32 (float): 65.28 TFLOPS
+FP64 (double): 1,020 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Dual-slot
+Length: 267 mm 10.5 inches
+Width: 112 mm 4.4 inches
+TDP: 250 W
+Suggested PSU: 600 W
+Outputs: 4x DisplayPort 1.4a
+Power Connectors: 1x 16-pin
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 5000 Embedded Ada Generation,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1425 MHz
+Boost Clock: 2115 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 236.9 GPixel/s
+Texture Rate: 643.0 GTexel/s
+FP16 (half): 41.15 TFLOPS (1:1)
+FP32 (float): 41.15 TFLOPS
+FP64 (double): 643.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 120 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 5000 Max-Q Ada Generation,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 930 MHz
+Boost Clock: 1680 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 188.2 GPixel/s
+Texture Rate: 510.7 GTexel/s
+FP16 (half): 32.69 TFLOPS (1:1)
+FP32 (float): 32.69 TFLOPS
+FP64 (double): 510.7 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 120 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA RTX 5000 Mobile Ada Generation,"Graphics Processor: AD103
+Cores: 9728
+TMUs: 304
+ROPs: 112
+Memory Size: 16 GB
+Memory Type: GDDR6
+Bus Width: 256 bit","Graphics Processor:
+GPU Name: AD103
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 45,900 million
+Density: 121.1M / mm²
+Die Size: 379 mm²
+
+Mobile Graphics:
+Release Date: Mar 21st, 2023
+Generation: Quadro Ada-M (x000A)
+Predecessor: Quadro Ampere-M
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 1425 MHz
+Boost Clock: 2115 MHz
+Memory Clock: 2250 MHz 18 Gbps effective
+
+Memory:
+Memory Size: 16 GB
+Memory Type: GDDR6
+Memory Bus: 256 bit
+Bandwidth: 576.0 GB/s
+
+Render Config:
+Shading Units: 9728
+TMUs: 304
+ROPs: 112
+SM Count: 76
+Tensor Cores: 304
+RT Cores: 76
+L1 Cache: 128 KB (per SM)
+L2 Cache: 64 MB
+
+Theoretical Performance:
+Pixel Rate: 236.9 GPixel/s
+Texture Rate: 643.0 GTexel/s
+FP16 (half): 41.15 TFLOPS (1:1)
+FP32 (float): 41.15 TFLOPS
+FP64 (double): 643.0 GFLOPS (1:64)
+
+Board Design:
+Slot Width: IGP
+TDP: 120 W
+Outputs: Portable Device Dependent
+Power Connectors: None
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
+NVIDIA TITAN Ada,"Graphics Processor: AD102
+Cores: 18432
+TMUs: 576
+ROPs: 192
+Memory Size: 48 GB
+Memory Type: GDDR6X
+Bus Width: 384 bit","Graphics Processor:
+GPU Name: AD102
+GPU Variant: AD102-450-A1
+Architecture: Ada Lovelace
+Foundry: TSMC
+Process Size: 5 nm
+Transistors: 76,300 million
+Density: 125.3M / mm²
+Die Size: 609 mm²
+
+Graphics Card:
+Release Date: Never Released
+Generation: GeForce 40
+Predecessor: GeForce 30
+Production: Active
+Bus Interface: PCIe 4.0 x16
+
+Clock Speeds:
+Base Clock: 2235 MHz
+Boost Clock: 2520 MHz
+Memory Clock: 1500 MHz 24 Gbps effective
+
+Memory:
+Memory Size: 48 GB
+Memory Type: GDDR6X
+Memory Bus: 384 bit
+Bandwidth: 1.15 TB/s
+
+Render Config:
+Shading Units: 18432
+TMUs: 576
+ROPs: 192
+SM Count: 144
+Tensor Cores: 576
+RT Cores: 144
+L1 Cache: 128 KB (per SM)
+L2 Cache: 96 MB
+
+Theoretical Performance:
+Pixel Rate: 483.8 GPixel/s
+Texture Rate: 1,452 GTexel/s
+FP16 (half): 92.90 TFLOPS (1:1)
+FP32 (float): 92.90 TFLOPS
+FP64 (double): 1,452 GFLOPS (1:64)
+
+Board Design:
+Slot Width: Quad-slot
+Length: 336 mm 13.2 inches
+Width: 140 mm 5.5 inches
+Height: 73 mm 2.9 inches
+TDP: 800 W
+Suggested PSU: 1200 W
+Outputs: 1x HDMI 2.1 3x DisplayPort 1.4a
+Power Connectors: 2x 16-pin
+Board Number: PG137 SKU 330
+
+Graphics Features:
+DirectX: 12 Ultimate (12_2)
+OpenGL: 4.6
+OpenCL: 3.0
+Vulkan: 1.3
+CUDA: 8.9
+Shader Model: 6.7
+
+",없음
